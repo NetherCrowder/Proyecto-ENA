@@ -1,0 +1,1258 @@
+2024-09-18 11:16:11,343:ERROR:Error al conectar a la base de datos: ('28000', "[28000] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]Login failed for user 'root'. (18456) (SQLDriverConnect); [28000] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]Login failed for user 'root'. (18456)")
+2024-09-18 11:16:11,343:ERROR:Error al probar la conexión a la base de datos: ('28000', "[28000] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]Login failed for user 'root'. (18456) (SQLDriverConnect); [28000] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]Login failed for user 'root'. (18456)")
+2024-09-18 11:16:29,004:ERROR:Error al conectar a la base de datos: ('28000', "[28000] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]Login failed for user 'root'. (18456) (SQLDriverConnect); [28000] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]Login failed for user 'root'. (18456)")
+2024-09-18 11:16:29,004:ERROR:Error al probar la conexión a la base de datos: ('28000', "[28000] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]Login failed for user 'root'. (18456) (SQLDriverConnect); [28000] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]Login failed for user 'root'. (18456)")
+2024-09-18 11:26:43,747:ERROR:Error al conectar a la base de datos: ('08001', '[08001] [Microsoft][ODBC Driver 17 for SQL Server]SQL Server Network Interfaces: Error Locating Server/Instance Specified [xFFFFFFFF].  (-1) (SQLDriverConnect); [08001] [Microsoft][ODBC Driver 17 for SQL Server]Login timeout expired (0); [08001] [Microsoft][ODBC Driver 17 for SQL Server]A network-related or instance-specific error has occurred while establishing a connection to SQL Server. Server is not found or not accessible. Check if instance name is correct and if SQL Server is configured to allow remote connections. For more information see SQL Server Books Online. (-1)')
+2024-09-18 11:26:43,748:ERROR:Error al probar la conexión a la base de datos: ('08001', '[08001] [Microsoft][ODBC Driver 17 for SQL Server]SQL Server Network Interfaces: Error Locating Server/Instance Specified [xFFFFFFFF].  (-1) (SQLDriverConnect); [08001] [Microsoft][ODBC Driver 17 for SQL Server]Login timeout expired (0); [08001] [Microsoft][ODBC Driver 17 for SQL Server]A network-related or instance-specific error has occurred while establishing a connection to SQL Server. Server is not found or not accessible. Check if instance name is correct and if SQL Server is configured to allow remote connections. For more information see SQL Server Books Online. (-1)')
+2024-09-18 11:35:55,278:ERROR:Error al conectar a la base de datos: ('28000', "[28000] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]Login failed for user 'Aarón'. (18456) (SQLDriverConnect); [28000] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]Login failed for user 'Aarón'. (18456)")
+2024-09-18 11:35:55,278:ERROR:Error al probar la conexión a la base de datos: ('28000', "[28000] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]Login failed for user 'Aarón'. (18456) (SQLDriverConnect); [28000] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]Login failed for user 'Aarón'. (18456)")
+2024-09-18 11:47:28,479:ERROR:Error al conectar a la base de datos: ('28000', "[28000] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]Login failed for user 'Aaron_ENA'. (18456) (SQLDriverConnect); [28000] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]Login failed for user 'Aaron_ENA'. (18456)")
+2024-09-18 11:47:28,480:ERROR:Error al probar la conexión a la base de datos: ('28000', "[28000] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]Login failed for user 'Aaron_ENA'. (18456) (SQLDriverConnect); [28000] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]Login failed for user 'Aaron_ENA'. (18456)")
+2024-09-18 11:48:52,394:ERROR:Error al conectar a la base de datos: ('28000', "[28000] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]Login failed for user 'Aaron_ENA'. (18456) (SQLDriverConnect); [28000] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]Login failed for user 'Aaron_ENA'. (18456)")
+2024-09-18 11:48:52,395:ERROR:Error al probar la conexión a la base de datos: ('28000', "[28000] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]Login failed for user 'Aaron_ENA'. (18456) (SQLDriverConnect); [28000] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]Login failed for user 'Aaron_ENA'. (18456)")
+2024-09-18 11:50:11,114:ERROR:Error al conectar a la base de datos: ('28000', "[28000] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]Login failed for user 'root'. (18456) (SQLDriverConnect); [28000] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]Login failed for user 'root'. (18456)")
+2024-09-18 11:50:11,114:ERROR:Error al probar la conexión a la base de datos: ('28000', "[28000] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]Login failed for user 'root'. (18456) (SQLDriverConnect); [28000] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]Login failed for user 'root'. (18456)")
+2024-09-18 12:17:43,701:ERROR:Error al conectar a la base de datos: ('28000', "[28000] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]Login failed for user 'Aaron'. (18456) (SQLDriverConnect); [28000] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]Login failed for user 'Aaron'. (18456)")
+2024-09-18 12:17:43,701:ERROR:Error al probar la conexión a la base de datos: ('28000', "[28000] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]Login failed for user 'Aaron'. (18456) (SQLDriverConnect); [28000] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]Login failed for user 'Aaron'. (18456)")
+2024-09-18 12:18:07,916:INFO:Conexión exitosa. Versión de la base de datos: Microsoft SQL Server 2022 (RTM-GDR) (KB5042211) - 16.0.1125.1 (X64) 
+	Jul 31 2024 23:58:42 
+	Copyright (C) 2022 Microsoft Corporation
+	Express Edition (64-bit) on Windows 10 Home Single Language 10.0 <X64> (Build 22631: ) (Hypervisor)
+
+2024-09-18 12:19:33,741:INFO:Conexión exitosa. Versión de la base de datos: Microsoft SQL Server 2022 (RTM-GDR) (KB5042211) - 16.0.1125.1 (X64) 
+	Jul 31 2024 23:58:42 
+	Copyright (C) 2022 Microsoft Corporation
+	Express Edition (64-bit) on Windows 10 Home Single Language 10.0 <X64> (Build 22631: ) (Hypervisor)
+
+2024-09-18 12:19:33,762:INFO:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-09-18 12:19:33,762:INFO:[33mPress CTRL+C to quit[0m
+2024-09-18 12:19:33,763:INFO: * Restarting with stat
+2024-09-18 12:19:34,082:INFO:Conexión exitosa. Versión de la base de datos: Microsoft SQL Server 2022 (RTM-GDR) (KB5042211) - 16.0.1125.1 (X64) 
+	Jul 31 2024 23:58:42 
+	Copyright (C) 2022 Microsoft Corporation
+	Express Edition (64-bit) on Windows 10 Home Single Language 10.0 <X64> (Build 22631: ) (Hypervisor)
+
+2024-09-18 12:19:34,098:WARNING: * Debugger is active!
+2024-09-18 12:19:34,103:INFO: * Debugger PIN: 655-549-044
+2024-09-18 12:19:50,783:INFO:127.0.0.1 - - [18/Sep/2024 12:19:50] "GET /data HTTP/1.1" 200 -
+2024-09-18 12:20:50,778:INFO:127.0.0.1 - - [18/Sep/2024 12:20:50] "GET /data HTTP/1.1" 200 -
+2024-09-18 12:20:57,199:INFO:127.0.0.1 - - [18/Sep/2024 12:20:57] "GET /data HTTP/1.1" 200 -
+2024-09-18 12:20:58,216:INFO:127.0.0.1 - - [18/Sep/2024 12:20:58] "GET / HTTP/1.1" 200 -
+2024-09-18 12:20:58,220:INFO:127.0.0.1 - - [18/Sep/2024 12:20:58] "GET /data HTTP/1.1" 200 -
+2024-09-18 12:20:58,310:INFO:127.0.0.1 - - [18/Sep/2024 12:20:58] "[36mGET /static/script.js HTTP/1.1[0m" 304 -
+2024-09-18 12:20:59,433:INFO:127.0.0.1 - - [18/Sep/2024 12:20:59] "GET /data HTTP/1.1" 200 -
+2024-09-18 12:21:00,433:INFO:127.0.0.1 - - [18/Sep/2024 12:21:00] "GET /data HTTP/1.1" 200 -
+2024-09-18 12:21:01,442:INFO:127.0.0.1 - - [18/Sep/2024 12:21:01] "GET /data HTTP/1.1" 200 -
+2024-09-18 12:21:02,443:INFO:127.0.0.1 - - [18/Sep/2024 12:21:02] "GET /data HTTP/1.1" 200 -
+2024-09-18 12:21:03,768:INFO:127.0.0.1 - - [18/Sep/2024 12:21:03] "GET /data HTTP/1.1" 200 -
+2024-09-18 12:21:04,764:INFO:127.0.0.1 - - [18/Sep/2024 12:21:04] "GET /data HTTP/1.1" 200 -
+2024-09-18 12:21:05,772:INFO:127.0.0.1 - - [18/Sep/2024 12:21:05] "GET /data HTTP/1.1" 200 -
+2024-09-18 12:21:06,773:INFO:127.0.0.1 - - [18/Sep/2024 12:21:06] "GET /data HTTP/1.1" 200 -
+2024-09-18 12:21:07,766:INFO:127.0.0.1 - - [18/Sep/2024 12:21:07] "GET /data HTTP/1.1" 200 -
+2024-09-18 12:21:08,771:INFO:127.0.0.1 - - [18/Sep/2024 12:21:08] "GET /data HTTP/1.1" 200 -
+2024-09-18 12:21:09,769:INFO:127.0.0.1 - - [18/Sep/2024 12:21:09] "GET /data HTTP/1.1" 200 -
+2024-09-18 12:21:10,760:INFO:127.0.0.1 - - [18/Sep/2024 12:21:10] "GET /data HTTP/1.1" 200 -
+2024-09-18 12:21:11,772:INFO:127.0.0.1 - - [18/Sep/2024 12:21:11] "GET /data HTTP/1.1" 200 -
+2024-09-18 12:21:12,761:INFO:127.0.0.1 - - [18/Sep/2024 12:21:12] "GET /data HTTP/1.1" 200 -
+2024-09-18 12:21:13,778:INFO:127.0.0.1 - - [18/Sep/2024 12:21:13] "GET /data HTTP/1.1" 200 -
+2024-09-18 12:21:14,772:INFO:127.0.0.1 - - [18/Sep/2024 12:21:14] "GET /data HTTP/1.1" 200 -
+2024-09-18 12:21:15,770:INFO:127.0.0.1 - - [18/Sep/2024 12:21:15] "GET /data HTTP/1.1" 200 -
+2024-09-18 12:21:16,772:INFO:127.0.0.1 - - [18/Sep/2024 12:21:16] "GET /data HTTP/1.1" 200 -
+2024-09-18 12:21:17,758:INFO:127.0.0.1 - - [18/Sep/2024 12:21:17] "GET /data HTTP/1.1" 200 -
+2024-09-18 12:21:18,761:INFO:127.0.0.1 - - [18/Sep/2024 12:21:18] "GET /data HTTP/1.1" 200 -
+2024-09-18 12:21:19,764:INFO:127.0.0.1 - - [18/Sep/2024 12:21:19] "GET /data HTTP/1.1" 200 -
+2024-09-18 12:21:20,767:INFO:127.0.0.1 - - [18/Sep/2024 12:21:20] "GET /data HTTP/1.1" 200 -
+2024-09-18 12:21:21,765:INFO:127.0.0.1 - - [18/Sep/2024 12:21:21] "GET /data HTTP/1.1" 200 -
+2024-09-18 12:21:22,763:INFO:127.0.0.1 - - [18/Sep/2024 12:21:22] "GET /data HTTP/1.1" 200 -
+2024-09-18 12:21:58,968:INFO:Conexión exitosa. Versión de la base de datos: Microsoft SQL Server 2022 (RTM-GDR) (KB5042211) - 16.0.1125.1 (X64) 
+	Jul 31 2024 23:58:42 
+	Copyright (C) 2022 Microsoft Corporation
+	Express Edition (64-bit) on Windows 10 Home Single Language 10.0 <X64> (Build 22631: ) (Hypervisor)
+
+2024-09-18 12:22:06,278:INFO:Conexión exitosa. Versión de la base de datos: Microsoft SQL Server 2022 (RTM-GDR) (KB5042211) - 16.0.1125.1 (X64) 
+	Jul 31 2024 23:58:42 
+	Copyright (C) 2022 Microsoft Corporation
+	Express Edition (64-bit) on Windows 10 Home Single Language 10.0 <X64> (Build 22631: ) (Hypervisor)
+
+2024-09-18 12:22:06,298:INFO:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-09-18 12:22:06,298:INFO:[33mPress CTRL+C to quit[0m
+2024-09-18 12:22:06,299:INFO: * Restarting with stat
+2024-09-18 12:22:06,596:INFO:Conexión exitosa. Versión de la base de datos: Microsoft SQL Server 2022 (RTM-GDR) (KB5042211) - 16.0.1125.1 (X64) 
+	Jul 31 2024 23:58:42 
+	Copyright (C) 2022 Microsoft Corporation
+	Express Edition (64-bit) on Windows 10 Home Single Language 10.0 <X64> (Build 22631: ) (Hypervisor)
+
+2024-09-18 12:22:06,607:WARNING: * Debugger is active!
+2024-09-18 12:22:06,611:INFO: * Debugger PIN: 655-549-044
+2024-09-18 12:22:07,981:INFO:127.0.0.1 - - [18/Sep/2024 12:22:07] "GET /data HTTP/1.1" 200 -
+2024-09-18 12:22:07,985:INFO:127.0.0.1 - - [18/Sep/2024 12:22:07] "GET /data HTTP/1.1" 200 -
+2024-09-18 12:22:07,990:INFO:127.0.0.1 - - [18/Sep/2024 12:22:07] "GET /data HTTP/1.1" 200 -
+2024-09-18 12:22:07,997:INFO:127.0.0.1 - - [18/Sep/2024 12:22:07] "GET /data HTTP/1.1" 200 -
+2024-09-18 12:22:08,002:INFO:127.0.0.1 - - [18/Sep/2024 12:22:08] "GET /data HTTP/1.1" 200 -
+2024-09-18 12:22:08,760:INFO:127.0.0.1 - - [18/Sep/2024 12:22:08] "GET /data HTTP/1.1" 200 -
+2024-09-18 12:22:09,767:INFO:127.0.0.1 - - [18/Sep/2024 12:22:09] "GET /data HTTP/1.1" 200 -
+2024-09-18 12:22:10,765:INFO:127.0.0.1 - - [18/Sep/2024 12:22:10] "GET /data HTTP/1.1" 200 -
+2024-09-18 12:22:11,773:INFO:127.0.0.1 - - [18/Sep/2024 12:22:11] "GET /data HTTP/1.1" 200 -
+2024-09-18 12:22:12,772:INFO:127.0.0.1 - - [18/Sep/2024 12:22:12] "GET /data HTTP/1.1" 200 -
+2024-09-18 12:22:13,774:INFO:127.0.0.1 - - [18/Sep/2024 12:22:13] "GET /data HTTP/1.1" 200 -
+2024-09-18 12:22:14,765:INFO:127.0.0.1 - - [18/Sep/2024 12:22:14] "GET /data HTTP/1.1" 200 -
+2024-09-18 12:22:15,759:INFO:127.0.0.1 - - [18/Sep/2024 12:22:15] "GET /data HTTP/1.1" 200 -
+2024-09-18 12:22:16,764:INFO:127.0.0.1 - - [18/Sep/2024 12:22:16] "GET /data HTTP/1.1" 200 -
+2024-09-18 12:22:17,771:INFO:127.0.0.1 - - [18/Sep/2024 12:22:17] "GET /data HTTP/1.1" 200 -
+2024-09-18 12:22:18,758:INFO:127.0.0.1 - - [18/Sep/2024 12:22:18] "GET /data HTTP/1.1" 200 -
+2024-09-18 12:22:19,762:INFO:127.0.0.1 - - [18/Sep/2024 12:22:19] "GET /data HTTP/1.1" 200 -
+2024-09-18 12:22:20,762:INFO:127.0.0.1 - - [18/Sep/2024 12:22:20] "GET /data HTTP/1.1" 200 -
+2024-09-18 12:22:21,759:INFO:127.0.0.1 - - [18/Sep/2024 12:22:21] "GET /data HTTP/1.1" 200 -
+2024-09-18 12:22:22,768:INFO:127.0.0.1 - - [18/Sep/2024 12:22:22] "GET /data HTTP/1.1" 200 -
+2024-09-18 12:22:23,769:INFO:127.0.0.1 - - [18/Sep/2024 12:22:23] "GET /data HTTP/1.1" 200 -
+2024-09-18 12:22:24,767:INFO:127.0.0.1 - - [18/Sep/2024 12:22:24] "GET /data HTTP/1.1" 200 -
+2024-09-18 12:22:25,774:INFO:127.0.0.1 - - [18/Sep/2024 12:22:25] "GET /data HTTP/1.1" 200 -
+2024-09-18 12:22:35,750:INFO:Conexión exitosa. Versión de la base de datos: Microsoft SQL Server 2022 (RTM-GDR) (KB5042211) - 16.0.1125.1 (X64) 
+	Jul 31 2024 23:58:42 
+	Copyright (C) 2022 Microsoft Corporation
+	Express Edition (64-bit) on Windows 10 Home Single Language 10.0 <X64> (Build 22631: ) (Hypervisor)
+
+2024-09-18 12:22:35,770:INFO:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-09-18 12:22:35,770:INFO:[33mPress CTRL+C to quit[0m
+2024-09-18 12:22:35,771:INFO: * Restarting with stat
+2024-09-18 12:22:36,071:INFO:Conexión exitosa. Versión de la base de datos: Microsoft SQL Server 2022 (RTM-GDR) (KB5042211) - 16.0.1125.1 (X64) 
+	Jul 31 2024 23:58:42 
+	Copyright (C) 2022 Microsoft Corporation
+	Express Edition (64-bit) on Windows 10 Home Single Language 10.0 <X64> (Build 22631: ) (Hypervisor)
+
+2024-09-18 12:22:36,083:WARNING: * Debugger is active!
+2024-09-18 12:22:36,087:INFO: * Debugger PIN: 655-549-044
+2024-09-18 12:22:37,479:INFO:127.0.0.1 - - [18/Sep/2024 12:22:37] "GET /data HTTP/1.1" 200 -
+2024-09-18 12:22:37,483:INFO:127.0.0.1 - - [18/Sep/2024 12:22:37] "GET /data HTTP/1.1" 200 -
+2024-09-18 12:22:37,490:INFO:127.0.0.1 - - [18/Sep/2024 12:22:37] "GET /data HTTP/1.1" 200 -
+2024-09-18 12:22:37,769:INFO:127.0.0.1 - - [18/Sep/2024 12:22:37] "GET /data HTTP/1.1" 200 -
+2024-09-18 12:24:47,424:INFO:Conexión exitosa. Versión de la base de datos: Microsoft SQL Server 2022 (RTM-GDR) (KB5042211) - 16.0.1125.1 (X64) 
+	Jul 31 2024 23:58:42 
+	Copyright (C) 2022 Microsoft Corporation
+	Express Edition (64-bit) on Windows 10 Home Single Language 10.0 <X64> (Build 22631: ) (Hypervisor)
+
+2024-09-18 12:24:47,448:INFO:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-09-18 12:24:47,448:INFO:[33mPress CTRL+C to quit[0m
+2024-09-18 12:24:47,449:INFO: * Restarting with stat
+2024-09-18 12:24:47,758:INFO:Conexión exitosa. Versión de la base de datos: Microsoft SQL Server 2022 (RTM-GDR) (KB5042211) - 16.0.1125.1 (X64) 
+	Jul 31 2024 23:58:42 
+	Copyright (C) 2022 Microsoft Corporation
+	Express Edition (64-bit) on Windows 10 Home Single Language 10.0 <X64> (Build 22631: ) (Hypervisor)
+
+2024-09-18 12:24:47,769:WARNING: * Debugger is active!
+2024-09-18 12:24:47,773:INFO: * Debugger PIN: 655-549-044
+2024-09-18 12:24:49,250:INFO:127.0.0.1 - - [18/Sep/2024 12:24:49] "GET /data HTTP/1.1" 200 -
+2024-09-18 12:24:49,254:INFO:127.0.0.1 - - [18/Sep/2024 12:24:49] "GET /data HTTP/1.1" 200 -
+2024-09-18 12:24:49,262:INFO:127.0.0.1 - - [18/Sep/2024 12:24:49] "GET /data HTTP/1.1" 200 -
+2024-09-18 12:24:49,268:INFO:127.0.0.1 - - [18/Sep/2024 12:24:49] "GET /data HTTP/1.1" 200 -
+2024-09-18 12:24:49,273:INFO:127.0.0.1 - - [18/Sep/2024 12:24:49] "GET /data HTTP/1.1" 200 -
+2024-09-18 12:24:49,277:INFO:127.0.0.1 - - [18/Sep/2024 12:24:49] "GET /data HTTP/1.1" 200 -
+2024-09-18 12:24:49,286:INFO:127.0.0.1 - - [18/Sep/2024 12:24:49] "GET /data HTTP/1.1" 200 -
+2024-09-18 12:24:49,760:INFO:127.0.0.1 - - [18/Sep/2024 12:24:49] "GET /data HTTP/1.1" 200 -
+2024-09-18 12:24:50,764:INFO:127.0.0.1 - - [18/Sep/2024 12:24:50] "GET /data HTTP/1.1" 200 -
+2024-09-18 12:24:51,762:INFO:127.0.0.1 - - [18/Sep/2024 12:24:51] "GET /data HTTP/1.1" 200 -
+2024-09-18 12:24:52,765:INFO:127.0.0.1 - - [18/Sep/2024 12:24:52] "GET /data HTTP/1.1" 200 -
+2024-09-18 12:24:53,772:INFO:127.0.0.1 - - [18/Sep/2024 12:24:53] "GET /data HTTP/1.1" 200 -
+2024-09-18 12:24:54,769:INFO:127.0.0.1 - - [18/Sep/2024 12:24:54] "GET /data HTTP/1.1" 200 -
+2024-09-18 12:24:55,769:INFO:127.0.0.1 - - [18/Sep/2024 12:24:55] "GET /data HTTP/1.1" 200 -
+2024-09-18 12:24:56,771:INFO:127.0.0.1 - - [18/Sep/2024 12:24:56] "GET /data HTTP/1.1" 200 -
+2024-09-18 12:24:57,766:INFO:127.0.0.1 - - [18/Sep/2024 12:24:57] "GET /data HTTP/1.1" 200 -
+2024-09-18 12:24:58,774:INFO:127.0.0.1 - - [18/Sep/2024 12:24:58] "GET /data HTTP/1.1" 200 -
+2024-09-18 12:24:59,764:INFO:127.0.0.1 - - [18/Sep/2024 12:24:59] "GET /data HTTP/1.1" 200 -
+2024-09-18 12:25:00,766:INFO:127.0.0.1 - - [18/Sep/2024 12:25:00] "GET /data HTTP/1.1" 200 -
+2024-09-18 12:25:01,772:INFO:127.0.0.1 - - [18/Sep/2024 12:25:01] "GET /data HTTP/1.1" 200 -
+2024-09-18 12:25:02,768:INFO:127.0.0.1 - - [18/Sep/2024 12:25:02] "GET /data HTTP/1.1" 200 -
+2024-09-18 12:25:03,771:INFO:127.0.0.1 - - [18/Sep/2024 12:25:03] "GET /data HTTP/1.1" 200 -
+2024-09-18 12:25:04,771:INFO:127.0.0.1 - - [18/Sep/2024 12:25:04] "GET /data HTTP/1.1" 200 -
+2024-09-18 12:25:05,775:INFO:127.0.0.1 - - [18/Sep/2024 12:25:05] "GET /data HTTP/1.1" 200 -
+2024-09-18 12:25:06,586:INFO:127.0.0.1 - - [18/Sep/2024 12:25:06] "GET /data HTTP/1.1" 200 -
+2024-09-18 12:25:07,439:INFO:127.0.0.1 - - [18/Sep/2024 12:25:07] "GET /data HTTP/1.1" 200 -
+2024-09-18 12:25:07,935:INFO:127.0.0.1 - - [18/Sep/2024 12:25:07] "GET / HTTP/1.1" 200 -
+2024-09-18 12:25:08,006:INFO:127.0.0.1 - - [18/Sep/2024 12:25:08] "[36mGET /static/script.js HTTP/1.1[0m" 304 -
+2024-09-18 12:25:09,169:INFO:127.0.0.1 - - [18/Sep/2024 12:25:09] "GET /data HTTP/1.1" 200 -
+2024-09-18 12:25:10,775:INFO:127.0.0.1 - - [18/Sep/2024 12:25:10] "GET /data HTTP/1.1" 200 -
+2024-09-18 12:25:11,772:INFO:127.0.0.1 - - [18/Sep/2024 12:25:11] "GET /data HTTP/1.1" 200 -
+2024-09-18 12:25:12,317:INFO:127.0.0.1 - - [18/Sep/2024 12:25:12] "GET /data HTTP/1.1" 200 -
+2024-09-18 12:25:13,170:INFO:127.0.0.1 - - [18/Sep/2024 12:25:13] "GET /data HTTP/1.1" 200 -
+2024-09-18 12:25:14,172:INFO:127.0.0.1 - - [18/Sep/2024 12:25:14] "GET /data HTTP/1.1" 200 -
+2024-09-18 12:25:15,172:INFO:127.0.0.1 - - [18/Sep/2024 12:25:15] "GET /data HTTP/1.1" 200 -
+2024-09-18 12:25:16,171:INFO:127.0.0.1 - - [18/Sep/2024 12:25:16] "GET /data HTTP/1.1" 200 -
+2024-09-18 12:25:17,167:INFO:127.0.0.1 - - [18/Sep/2024 12:25:17] "GET /data HTTP/1.1" 200 -
+2024-09-18 12:25:18,771:INFO:127.0.0.1 - - [18/Sep/2024 12:25:18] "GET /data HTTP/1.1" 200 -
+2024-09-18 12:25:19,644:INFO:127.0.0.1 - - [18/Sep/2024 12:25:19] "GET /data HTTP/1.1" 200 -
+2024-09-18 12:25:20,768:INFO:127.0.0.1 - - [18/Sep/2024 12:25:20] "GET /data HTTP/1.1" 200 -
+2024-09-18 12:25:21,777:INFO:127.0.0.1 - - [18/Sep/2024 12:25:21] "GET /data HTTP/1.1" 200 -
+2024-09-18 12:25:22,765:INFO:127.0.0.1 - - [18/Sep/2024 12:25:22] "GET /data HTTP/1.1" 200 -
+2024-09-18 12:25:23,762:INFO:127.0.0.1 - - [18/Sep/2024 12:25:23] "GET /data HTTP/1.1" 200 -
+2024-09-18 12:25:24,773:INFO:127.0.0.1 - - [18/Sep/2024 12:25:24] "GET /data HTTP/1.1" 200 -
+2024-09-18 12:25:25,764:INFO:127.0.0.1 - - [18/Sep/2024 12:25:25] "GET /data HTTP/1.1" 200 -
+2024-09-18 12:25:26,769:INFO:127.0.0.1 - - [18/Sep/2024 12:25:26] "GET /data HTTP/1.1" 200 -
+2024-09-18 12:25:27,761:INFO:127.0.0.1 - - [18/Sep/2024 12:25:27] "GET /data HTTP/1.1" 200 -
+2024-09-18 12:25:28,774:INFO:127.0.0.1 - - [18/Sep/2024 12:25:28] "GET /data HTTP/1.1" 200 -
+2024-09-18 12:25:29,774:INFO:127.0.0.1 - - [18/Sep/2024 12:25:29] "GET /data HTTP/1.1" 200 -
+2024-09-18 12:25:30,770:INFO:127.0.0.1 - - [18/Sep/2024 12:25:30] "GET /data HTTP/1.1" 200 -
+2024-09-18 12:25:31,777:INFO:127.0.0.1 - - [18/Sep/2024 12:25:31] "GET /data HTTP/1.1" 200 -
+2024-09-18 12:25:32,771:INFO:127.0.0.1 - - [18/Sep/2024 12:25:32] "GET /data HTTP/1.1" 200 -
+2024-09-18 12:25:33,773:INFO:127.0.0.1 - - [18/Sep/2024 12:25:33] "GET /data HTTP/1.1" 200 -
+2024-09-18 12:25:34,765:INFO:127.0.0.1 - - [18/Sep/2024 12:25:34] "GET /data HTTP/1.1" 200 -
+2024-09-18 12:25:35,777:INFO:127.0.0.1 - - [18/Sep/2024 12:25:35] "GET /data HTTP/1.1" 200 -
+2024-09-18 12:25:36,771:INFO:127.0.0.1 - - [18/Sep/2024 12:25:36] "GET /data HTTP/1.1" 200 -
+2024-09-18 12:25:37,769:INFO:127.0.0.1 - - [18/Sep/2024 12:25:37] "GET /data HTTP/1.1" 200 -
+2024-09-18 12:25:38,770:INFO:127.0.0.1 - - [18/Sep/2024 12:25:38] "GET /data HTTP/1.1" 200 -
+2024-09-18 12:25:39,762:INFO:127.0.0.1 - - [18/Sep/2024 12:25:39] "GET /data HTTP/1.1" 200 -
+2024-09-18 12:25:40,766:INFO:127.0.0.1 - - [18/Sep/2024 12:25:40] "GET /data HTTP/1.1" 200 -
+2024-09-18 12:25:41,770:INFO:127.0.0.1 - - [18/Sep/2024 12:25:41] "GET /data HTTP/1.1" 200 -
+2024-09-18 12:25:42,765:INFO:127.0.0.1 - - [18/Sep/2024 12:25:42] "GET /data HTTP/1.1" 200 -
+2024-09-18 12:25:43,762:INFO:127.0.0.1 - - [18/Sep/2024 12:25:43] "GET /data HTTP/1.1" 200 -
+2024-09-18 12:25:44,776:INFO:127.0.0.1 - - [18/Sep/2024 12:25:44] "GET /data HTTP/1.1" 200 -
+2024-09-18 12:25:45,764:INFO:127.0.0.1 - - [18/Sep/2024 12:25:45] "GET /data HTTP/1.1" 200 -
+2024-09-18 12:25:46,774:INFO:127.0.0.1 - - [18/Sep/2024 12:25:46] "GET /data HTTP/1.1" 200 -
+2024-09-18 12:25:47,761:INFO:127.0.0.1 - - [18/Sep/2024 12:25:47] "GET /data HTTP/1.1" 200 -
+2024-09-18 12:25:48,766:INFO:127.0.0.1 - - [18/Sep/2024 12:25:48] "GET /data HTTP/1.1" 200 -
+2024-09-18 12:25:49,764:INFO:127.0.0.1 - - [18/Sep/2024 12:25:49] "GET /data HTTP/1.1" 200 -
+2024-09-18 12:25:50,767:INFO:127.0.0.1 - - [18/Sep/2024 12:25:50] "GET /data HTTP/1.1" 200 -
+2024-09-18 12:25:51,762:INFO:127.0.0.1 - - [18/Sep/2024 12:25:51] "GET /data HTTP/1.1" 200 -
+2024-09-18 12:25:52,774:INFO:127.0.0.1 - - [18/Sep/2024 12:25:52] "GET /data HTTP/1.1" 200 -
+2024-09-18 12:25:53,764:INFO:127.0.0.1 - - [18/Sep/2024 12:25:53] "GET /data HTTP/1.1" 200 -
+2024-09-18 12:25:54,772:INFO:127.0.0.1 - - [18/Sep/2024 12:25:54] "GET /data HTTP/1.1" 200 -
+2024-09-18 12:25:55,776:INFO:127.0.0.1 - - [18/Sep/2024 12:25:55] "GET /data HTTP/1.1" 200 -
+2024-09-18 12:25:56,769:INFO:127.0.0.1 - - [18/Sep/2024 12:25:56] "GET /data HTTP/1.1" 200 -
+2024-09-18 12:25:57,774:INFO:127.0.0.1 - - [18/Sep/2024 12:25:57] "GET /data HTTP/1.1" 200 -
+2024-09-18 12:25:58,771:INFO:127.0.0.1 - - [18/Sep/2024 12:25:58] "GET /data HTTP/1.1" 200 -
+2024-09-18 12:25:59,770:INFO:127.0.0.1 - - [18/Sep/2024 12:25:59] "GET /data HTTP/1.1" 200 -
+2024-09-18 12:26:00,769:INFO:127.0.0.1 - - [18/Sep/2024 12:26:00] "GET /data HTTP/1.1" 200 -
+2024-09-18 12:26:01,761:INFO:127.0.0.1 - - [18/Sep/2024 12:26:01] "GET /data HTTP/1.1" 200 -
+2024-09-18 12:26:02,761:INFO:127.0.0.1 - - [18/Sep/2024 12:26:02] "GET /data HTTP/1.1" 200 -
+2024-09-18 12:26:03,774:INFO:127.0.0.1 - - [18/Sep/2024 12:26:03] "GET /data HTTP/1.1" 200 -
+2024-09-18 12:26:04,763:INFO:127.0.0.1 - - [18/Sep/2024 12:26:04] "GET /data HTTP/1.1" 200 -
+2024-09-18 12:26:05,767:INFO:127.0.0.1 - - [18/Sep/2024 12:26:05] "GET /data HTTP/1.1" 200 -
+2024-09-18 12:26:06,769:INFO:127.0.0.1 - - [18/Sep/2024 12:26:06] "GET /data HTTP/1.1" 200 -
+2024-09-18 12:26:07,767:INFO:127.0.0.1 - - [18/Sep/2024 12:26:07] "GET /data HTTP/1.1" 200 -
+2024-09-18 12:26:08,770:INFO:127.0.0.1 - - [18/Sep/2024 12:26:08] "GET /data HTTP/1.1" 200 -
+2024-09-18 12:26:09,769:INFO:127.0.0.1 - - [18/Sep/2024 12:26:09] "GET /data HTTP/1.1" 200 -
+2024-09-18 12:26:10,169:INFO:127.0.0.1 - - [18/Sep/2024 12:26:10] "GET /data HTTP/1.1" 200 -
+2024-09-18 12:26:11,168:INFO:127.0.0.1 - - [18/Sep/2024 12:26:11] "GET /data HTTP/1.1" 200 -
+2024-09-18 12:26:12,173:INFO:127.0.0.1 - - [18/Sep/2024 12:26:12] "GET /data HTTP/1.1" 200 -
+2024-09-18 12:26:13,339:INFO:127.0.0.1 - - [18/Sep/2024 12:26:13] "GET /data HTTP/1.1" 200 -
+2024-09-18 12:26:14,760:INFO:127.0.0.1 - - [18/Sep/2024 12:26:14] "GET /data HTTP/1.1" 200 -
+2024-09-18 12:26:15,781:INFO:127.0.0.1 - - [18/Sep/2024 12:26:15] "GET /data HTTP/1.1" 200 -
+2024-09-18 12:26:16,764:INFO:127.0.0.1 - - [18/Sep/2024 12:26:16] "GET /data HTTP/1.1" 200 -
+2024-09-18 12:26:17,773:INFO:127.0.0.1 - - [18/Sep/2024 12:26:17] "GET /data HTTP/1.1" 200 -
+2024-09-18 12:26:18,766:INFO:127.0.0.1 - - [18/Sep/2024 12:26:18] "GET /data HTTP/1.1" 200 -
+2024-09-18 12:26:19,770:INFO:127.0.0.1 - - [18/Sep/2024 12:26:19] "GET /data HTTP/1.1" 200 -
+2024-09-18 12:26:20,444:INFO: * Detected change in 'C:\\Users\\Aarón\\Documents\\ENA\\ProyectoENA\\Flask\\app.py', reloading
+2024-09-18 12:26:20,489:INFO: * Restarting with stat
+2024-09-18 12:26:20,856:INFO:Conexión exitosa. Versión de la base de datos: Microsoft SQL Server 2022 (RTM-GDR) (KB5042211) - 16.0.1125.1 (X64) 
+	Jul 31 2024 23:58:42 
+	Copyright (C) 2022 Microsoft Corporation
+	Express Edition (64-bit) on Windows 10 Home Single Language 10.0 <X64> (Build 22631: ) (Hypervisor)
+
+2024-09-18 12:26:20,872:WARNING: * Debugger is active!
+2024-09-18 12:26:20,878:INFO: * Debugger PIN: 655-549-044
+2024-09-18 12:26:22,309:INFO:127.0.0.1 - - [18/Sep/2024 12:26:22] "GET /data HTTP/1.1" 200 -
+2024-09-18 12:26:22,314:INFO:127.0.0.1 - - [18/Sep/2024 12:26:22] "GET /data HTTP/1.1" 200 -
+2024-09-18 12:26:22,760:INFO:127.0.0.1 - - [18/Sep/2024 12:26:22] "GET /data HTTP/1.1" 200 -
+2024-09-18 12:30:50,175:INFO:Conexión exitosa. Versión de la base de datos: Microsoft SQL Server 2022 (RTM-GDR) (KB5042211) - 16.0.1125.1 (X64) 
+	Jul 31 2024 23:58:42 
+	Copyright (C) 2022 Microsoft Corporation
+	Express Edition (64-bit) on Windows 10 Home Single Language 10.0 <X64> (Build 22631: ) (Hypervisor)
+
+2024-09-18 12:30:50,196:INFO:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-09-18 12:30:50,196:INFO:[33mPress CTRL+C to quit[0m
+2024-09-18 12:30:50,197:INFO: * Restarting with stat
+2024-09-18 12:30:50,491:INFO:Conexión exitosa. Versión de la base de datos: Microsoft SQL Server 2022 (RTM-GDR) (KB5042211) - 16.0.1125.1 (X64) 
+	Jul 31 2024 23:58:42 
+	Copyright (C) 2022 Microsoft Corporation
+	Express Edition (64-bit) on Windows 10 Home Single Language 10.0 <X64> (Build 22631: ) (Hypervisor)
+
+2024-09-18 12:30:50,502:WARNING: * Debugger is active!
+2024-09-18 12:30:50,506:INFO: * Debugger PIN: 655-549-044
+2024-09-18 12:30:51,884:INFO:127.0.0.1 - - [18/Sep/2024 12:30:51] "GET /data HTTP/1.1" 200 -
+2024-09-18 12:30:51,887:INFO:127.0.0.1 - - [18/Sep/2024 12:30:51] "GET /data HTTP/1.1" 200 -
+2024-09-18 12:30:51,892:INFO:127.0.0.1 - - [18/Sep/2024 12:30:51] "GET /data HTTP/1.1" 200 -
+2024-09-18 12:30:51,896:INFO:127.0.0.1 - - [18/Sep/2024 12:30:51] "GET /data HTTP/1.1" 200 -
+2024-09-18 12:30:51,900:INFO:127.0.0.1 - - [18/Sep/2024 12:30:51] "GET /data HTTP/1.1" 200 -
+2024-09-18 12:30:51,905:INFO:127.0.0.1 - - [18/Sep/2024 12:30:51] "GET /data HTTP/1.1" 200 -
+2024-09-18 12:30:51,910:INFO:127.0.0.1 - - [18/Sep/2024 12:30:51] "GET /data HTTP/1.1" 200 -
+2024-09-18 12:30:51,914:INFO:127.0.0.1 - - [18/Sep/2024 12:30:51] "GET /data HTTP/1.1" 200 -
+2024-09-18 12:30:51,919:INFO:127.0.0.1 - - [18/Sep/2024 12:30:51] "GET /data HTTP/1.1" 200 -
+2024-09-18 12:30:52,769:INFO:127.0.0.1 - - [18/Sep/2024 12:30:52] "GET /data HTTP/1.1" 200 -
+2024-09-18 12:30:53,764:INFO:127.0.0.1 - - [18/Sep/2024 12:30:53] "GET /data HTTP/1.1" 200 -
+2024-09-18 12:30:54,772:INFO:127.0.0.1 - - [18/Sep/2024 12:30:54] "GET /data HTTP/1.1" 200 -
+2024-09-18 12:30:55,770:INFO:127.0.0.1 - - [18/Sep/2024 12:30:55] "GET /data HTTP/1.1" 200 -
+2024-09-18 12:30:56,762:INFO:127.0.0.1 - - [18/Sep/2024 12:30:56] "GET /data HTTP/1.1" 200 -
+2024-09-18 12:30:57,760:INFO:127.0.0.1 - - [18/Sep/2024 12:30:57] "GET /data HTTP/1.1" 200 -
+2024-09-18 12:30:58,768:INFO:127.0.0.1 - - [18/Sep/2024 12:30:58] "GET /data HTTP/1.1" 200 -
+2024-09-18 12:30:59,770:INFO:127.0.0.1 - - [18/Sep/2024 12:30:59] "GET /data HTTP/1.1" 200 -
+2024-09-18 12:31:00,766:INFO:127.0.0.1 - - [18/Sep/2024 12:31:00] "GET /data HTTP/1.1" 200 -
+2024-09-18 12:35:45,229:INFO:Conexión exitosa. Versión de la base de datos: Microsoft SQL Server 2022 (RTM-GDR) (KB5042211) - 16.0.1125.1 (X64) 
+	Jul 31 2024 23:58:42 
+	Copyright (C) 2022 Microsoft Corporation
+	Express Edition (64-bit) on Windows 10 Home Single Language 10.0 <X64> (Build 22631: ) (Hypervisor)
+
+2024-09-18 12:35:45,249:INFO:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-09-18 12:35:45,249:INFO:[33mPress CTRL+C to quit[0m
+2024-09-18 12:35:45,250:INFO: * Restarting with stat
+2024-09-18 12:35:45,541:INFO:Conexión exitosa. Versión de la base de datos: Microsoft SQL Server 2022 (RTM-GDR) (KB5042211) - 16.0.1125.1 (X64) 
+	Jul 31 2024 23:58:42 
+	Copyright (C) 2022 Microsoft Corporation
+	Express Edition (64-bit) on Windows 10 Home Single Language 10.0 <X64> (Build 22631: ) (Hypervisor)
+
+2024-09-18 12:35:45,552:WARNING: * Debugger is active!
+2024-09-18 12:35:45,556:INFO: * Debugger PIN: 655-549-044
+2024-09-18 12:35:46,924:INFO:127.0.0.1 - - [18/Sep/2024 12:35:46] "GET /data HTTP/1.1" 200 -
+2024-09-18 12:35:46,928:INFO:127.0.0.1 - - [18/Sep/2024 12:35:46] "GET /data HTTP/1.1" 200 -
+2024-09-18 12:35:46,934:INFO:127.0.0.1 - - [18/Sep/2024 12:35:46] "GET /data HTTP/1.1" 200 -
+2024-09-18 12:35:46,937:INFO:127.0.0.1 - - [18/Sep/2024 12:35:46] "GET /data HTTP/1.1" 200 -
+2024-09-18 12:35:46,944:INFO:127.0.0.1 - - [18/Sep/2024 12:35:46] "GET /data HTTP/1.1" 200 -
+2024-09-18 12:35:46,953:INFO:127.0.0.1 - - [18/Sep/2024 12:35:46] "GET /data HTTP/1.1" 200 -
+2024-09-18 12:35:48,598:INFO:127.0.0.1 - - [18/Sep/2024 12:35:48] "GET /data HTTP/1.1" 200 -
+2024-09-18 12:35:49,167:INFO:127.0.0.1 - - [18/Sep/2024 12:35:49] "GET /data HTTP/1.1" 200 -
+2024-09-18 12:35:50,175:INFO:127.0.0.1 - - [18/Sep/2024 12:35:50] "GET /data HTTP/1.1" 200 -
+2024-09-18 12:35:51,174:INFO:127.0.0.1 - - [18/Sep/2024 12:35:51] "GET /data HTTP/1.1" 200 -
+2024-09-18 12:35:52,172:INFO:127.0.0.1 - - [18/Sep/2024 12:35:52] "GET /data HTTP/1.1" 200 -
+2024-09-18 12:35:53,171:INFO:127.0.0.1 - - [18/Sep/2024 12:35:53] "GET /data HTTP/1.1" 200 -
+2024-09-18 12:35:54,169:INFO:127.0.0.1 - - [18/Sep/2024 12:35:54] "GET /data HTTP/1.1" 200 -
+2024-09-18 12:35:55,765:INFO:127.0.0.1 - - [18/Sep/2024 12:35:55] "GET /data HTTP/1.1" 200 -
+2024-09-18 12:35:56,764:INFO:127.0.0.1 - - [18/Sep/2024 12:35:56] "GET /data HTTP/1.1" 200 -
+2024-09-18 12:35:57,770:INFO:127.0.0.1 - - [18/Sep/2024 12:35:57] "GET /data HTTP/1.1" 200 -
+2024-09-18 12:35:58,772:INFO:127.0.0.1 - - [18/Sep/2024 12:35:58] "GET /data HTTP/1.1" 200 -
+2024-09-18 12:35:59,762:INFO:127.0.0.1 - - [18/Sep/2024 12:35:59] "GET /data HTTP/1.1" 200 -
+2024-09-18 12:36:00,768:INFO:127.0.0.1 - - [18/Sep/2024 12:36:00] "GET /data HTTP/1.1" 200 -
+2024-09-18 12:36:01,773:INFO:127.0.0.1 - - [18/Sep/2024 12:36:01] "GET /data HTTP/1.1" 200 -
+2024-09-18 12:36:02,773:INFO:127.0.0.1 - - [18/Sep/2024 12:36:02] "GET /data HTTP/1.1" 200 -
+2024-09-18 12:36:03,768:INFO:127.0.0.1 - - [18/Sep/2024 12:36:03] "GET /data HTTP/1.1" 200 -
+2024-09-18 12:36:04,775:INFO:127.0.0.1 - - [18/Sep/2024 12:36:04] "GET /data HTTP/1.1" 200 -
+2024-09-18 12:36:05,611:INFO:127.0.0.1 - - [18/Sep/2024 12:36:05] "GET /data HTTP/1.1" 200 -
+2024-09-18 12:36:06,178:INFO:127.0.0.1 - - [18/Sep/2024 12:36:06] "GET /data HTTP/1.1" 200 -
+2024-09-18 12:36:06,533:INFO:127.0.0.1 - - [18/Sep/2024 12:36:06] "GET / HTTP/1.1" 200 -
+2024-09-18 12:36:06,609:INFO:127.0.0.1 - - [18/Sep/2024 12:36:06] "[36mGET /static/script.js HTTP/1.1[0m" 304 -
+2024-09-18 12:36:07,993:INFO:127.0.0.1 - - [18/Sep/2024 12:36:07] "GET /data HTTP/1.1" 200 -
+2024-09-18 12:36:08,985:INFO:127.0.0.1 - - [18/Sep/2024 12:36:08] "GET /data HTTP/1.1" 200 -
+2024-09-18 12:36:09,994:INFO:127.0.0.1 - - [18/Sep/2024 12:36:09] "GET /data HTTP/1.1" 200 -
+2024-09-18 12:36:10,996:INFO:127.0.0.1 - - [18/Sep/2024 12:36:10] "GET /data HTTP/1.1" 200 -
+2024-09-18 12:36:11,793:INFO:127.0.0.1 - - [18/Sep/2024 12:36:11] "GET /get_data HTTP/1.1" 200 -
+2024-09-18 12:36:21,777:INFO:127.0.0.1 - - [18/Sep/2024 12:36:21] "GET /get_data HTTP/1.1" 200 -
+2024-09-18 12:36:22,510:INFO:127.0.0.1 - - [18/Sep/2024 12:36:22] "GET /data HTTP/1.1" 200 -
+2024-09-18 12:36:22,980:INFO:127.0.0.1 - - [18/Sep/2024 12:36:22] "GET /data HTTP/1.1" 200 -
+2024-09-18 12:36:23,980:INFO:127.0.0.1 - - [18/Sep/2024 12:36:23] "GET /data HTTP/1.1" 200 -
+2024-09-18 12:36:24,989:INFO:127.0.0.1 - - [18/Sep/2024 12:36:24] "GET /data HTTP/1.1" 200 -
+2024-09-18 12:36:25,979:INFO:127.0.0.1 - - [18/Sep/2024 12:36:25] "GET /data HTTP/1.1" 200 -
+2024-09-18 12:36:26,979:INFO:127.0.0.1 - - [18/Sep/2024 12:36:26] "GET /data HTTP/1.1" 200 -
+2024-09-18 12:36:27,993:INFO:127.0.0.1 - - [18/Sep/2024 12:36:27] "GET /data HTTP/1.1" 200 -
+2024-09-18 12:36:28,981:INFO:127.0.0.1 - - [18/Sep/2024 12:36:28] "GET /data HTTP/1.1" 200 -
+2024-09-18 12:36:29,727:INFO:127.0.0.1 - - [18/Sep/2024 12:36:29] "GET / HTTP/1.1" 200 -
+2024-09-18 12:36:29,738:INFO:127.0.0.1 - - [18/Sep/2024 12:36:29] "[36mGET /static/script.js HTTP/1.1[0m" 304 -
+2024-09-18 12:36:30,959:INFO:127.0.0.1 - - [18/Sep/2024 12:36:30] "GET /data HTTP/1.1" 200 -
+2024-09-18 12:36:31,954:INFO:127.0.0.1 - - [18/Sep/2024 12:36:31] "GET /data HTTP/1.1" 200 -
+2024-09-18 12:36:32,959:INFO:127.0.0.1 - - [18/Sep/2024 12:36:32] "GET /data HTTP/1.1" 200 -
+2024-09-18 12:36:33,961:INFO:127.0.0.1 - - [18/Sep/2024 12:36:33] "GET /data HTTP/1.1" 200 -
+2024-09-18 12:36:34,965:INFO:127.0.0.1 - - [18/Sep/2024 12:36:34] "GET /data HTTP/1.1" 200 -
+2024-09-18 12:36:35,962:INFO:127.0.0.1 - - [18/Sep/2024 12:36:35] "GET /data HTTP/1.1" 200 -
+2024-09-18 12:36:36,963:INFO:127.0.0.1 - - [18/Sep/2024 12:36:36] "GET /data HTTP/1.1" 200 -
+2024-09-18 12:36:37,955:INFO:127.0.0.1 - - [18/Sep/2024 12:36:37] "GET /data HTTP/1.1" 200 -
+2024-09-18 12:36:38,962:INFO:127.0.0.1 - - [18/Sep/2024 12:36:38] "GET /data HTTP/1.1" 200 -
+2024-09-18 12:36:39,972:INFO:127.0.0.1 - - [18/Sep/2024 12:36:39] "GET /data HTTP/1.1" 200 -
+2024-09-18 12:36:40,965:INFO:127.0.0.1 - - [18/Sep/2024 12:36:40] "GET /data HTTP/1.1" 200 -
+2024-09-18 12:36:41,959:INFO:127.0.0.1 - - [18/Sep/2024 12:36:41] "GET /data HTTP/1.1" 200 -
+2024-09-18 12:36:42,961:INFO:127.0.0.1 - - [18/Sep/2024 12:36:42] "GET /data HTTP/1.1" 200 -
+2024-09-18 12:36:43,961:INFO:127.0.0.1 - - [18/Sep/2024 12:36:43] "GET /data HTTP/1.1" 200 -
+2024-09-18 12:36:44,964:INFO:127.0.0.1 - - [18/Sep/2024 12:36:44] "GET /data HTTP/1.1" 200 -
+2024-09-18 12:36:45,962:INFO:127.0.0.1 - - [18/Sep/2024 12:36:45] "GET /data HTTP/1.1" 200 -
+2024-09-18 12:36:46,962:INFO:127.0.0.1 - - [18/Sep/2024 12:36:46] "GET /data HTTP/1.1" 200 -
+2024-09-18 12:36:47,962:INFO:127.0.0.1 - - [18/Sep/2024 12:36:47] "GET /data HTTP/1.1" 200 -
+2024-09-18 12:36:48,957:INFO:127.0.0.1 - - [18/Sep/2024 12:36:48] "GET /data HTTP/1.1" 200 -
+2024-09-18 12:36:50,774:INFO:127.0.0.1 - - [18/Sep/2024 12:36:50] "GET /data HTTP/1.1" 200 -
+2024-09-18 12:36:51,763:INFO:127.0.0.1 - - [18/Sep/2024 12:36:51] "GET /data HTTP/1.1" 200 -
+2024-09-18 12:36:52,761:INFO:127.0.0.1 - - [18/Sep/2024 12:36:52] "GET /data HTTP/1.1" 200 -
+2024-09-18 12:36:53,778:INFO:127.0.0.1 - - [18/Sep/2024 12:36:53] "GET /data HTTP/1.1" 200 -
+2024-09-18 12:36:54,774:INFO:127.0.0.1 - - [18/Sep/2024 12:36:54] "GET /data HTTP/1.1" 200 -
+2024-09-18 12:36:55,772:INFO:127.0.0.1 - - [18/Sep/2024 12:36:55] "GET /data HTTP/1.1" 200 -
+2024-09-18 12:36:56,764:INFO:127.0.0.1 - - [18/Sep/2024 12:36:56] "GET /data HTTP/1.1" 200 -
+2024-09-18 12:36:57,774:INFO:127.0.0.1 - - [18/Sep/2024 12:36:57] "GET /data HTTP/1.1" 200 -
+2024-09-18 12:36:58,772:INFO:127.0.0.1 - - [18/Sep/2024 12:36:58] "GET /data HTTP/1.1" 200 -
+2024-09-18 12:36:59,764:INFO:127.0.0.1 - - [18/Sep/2024 12:36:59] "GET /data HTTP/1.1" 200 -
+2024-09-18 12:37:00,765:INFO:127.0.0.1 - - [18/Sep/2024 12:37:00] "GET /data HTTP/1.1" 200 -
+2024-09-18 12:37:01,766:INFO:127.0.0.1 - - [18/Sep/2024 12:37:01] "GET /data HTTP/1.1" 200 -
+2024-09-18 12:37:02,763:INFO:127.0.0.1 - - [18/Sep/2024 12:37:02] "GET /data HTTP/1.1" 200 -
+2024-09-18 12:37:03,770:INFO:127.0.0.1 - - [18/Sep/2024 12:37:03] "GET /data HTTP/1.1" 200 -
+2024-09-18 12:37:04,772:INFO:127.0.0.1 - - [18/Sep/2024 12:37:04] "GET /data HTTP/1.1" 200 -
+2024-09-18 12:37:05,766:INFO:127.0.0.1 - - [18/Sep/2024 12:37:05] "GET /data HTTP/1.1" 200 -
+2024-09-18 12:37:06,765:INFO:127.0.0.1 - - [18/Sep/2024 12:37:06] "GET /data HTTP/1.1" 200 -
+2024-09-18 12:37:07,770:INFO:127.0.0.1 - - [18/Sep/2024 12:37:07] "GET /data HTTP/1.1" 200 -
+2024-09-18 12:37:08,773:INFO:127.0.0.1 - - [18/Sep/2024 12:37:08] "GET /data HTTP/1.1" 200 -
+2024-09-18 12:37:09,765:INFO:127.0.0.1 - - [18/Sep/2024 12:37:09] "GET /data HTTP/1.1" 200 -
+2024-09-18 12:37:10,761:INFO:127.0.0.1 - - [18/Sep/2024 12:37:10] "GET /data HTTP/1.1" 200 -
+2024-09-18 12:37:11,770:INFO:127.0.0.1 - - [18/Sep/2024 12:37:11] "GET /data HTTP/1.1" 200 -
+2024-09-18 12:37:12,779:INFO:127.0.0.1 - - [18/Sep/2024 12:37:12] "GET /data HTTP/1.1" 200 -
+2024-09-18 12:37:13,775:INFO:127.0.0.1 - - [18/Sep/2024 12:37:13] "GET /data HTTP/1.1" 200 -
+2024-09-18 12:37:14,769:INFO:127.0.0.1 - - [18/Sep/2024 12:37:14] "GET /data HTTP/1.1" 200 -
+2024-09-18 12:37:15,767:INFO:127.0.0.1 - - [18/Sep/2024 12:37:15] "GET /data HTTP/1.1" 200 -
+2024-09-18 12:37:16,766:INFO:127.0.0.1 - - [18/Sep/2024 12:37:16] "GET /data HTTP/1.1" 200 -
+2024-09-18 12:37:17,760:INFO:127.0.0.1 - - [18/Sep/2024 12:37:17] "GET /data HTTP/1.1" 200 -
+2024-09-18 12:37:18,763:INFO:127.0.0.1 - - [18/Sep/2024 12:37:18] "GET /data HTTP/1.1" 200 -
+2024-09-18 12:37:19,770:INFO:127.0.0.1 - - [18/Sep/2024 12:37:19] "GET /data HTTP/1.1" 200 -
+2024-09-18 12:37:20,772:INFO:127.0.0.1 - - [18/Sep/2024 12:37:20] "GET /data HTTP/1.1" 200 -
+2024-09-18 12:37:21,764:INFO:127.0.0.1 - - [18/Sep/2024 12:37:21] "GET /data HTTP/1.1" 200 -
+2024-09-18 12:37:22,767:INFO:127.0.0.1 - - [18/Sep/2024 12:37:22] "GET /data HTTP/1.1" 200 -
+2024-09-18 12:37:23,773:INFO:127.0.0.1 - - [18/Sep/2024 12:37:23] "GET /data HTTP/1.1" 200 -
+2024-09-18 12:37:24,771:INFO:127.0.0.1 - - [18/Sep/2024 12:37:24] "GET /data HTTP/1.1" 200 -
+2024-09-18 12:37:25,771:INFO:127.0.0.1 - - [18/Sep/2024 12:37:25] "GET /data HTTP/1.1" 200 -
+2024-09-18 12:37:26,773:INFO:127.0.0.1 - - [18/Sep/2024 12:37:26] "GET /data HTTP/1.1" 200 -
+2024-09-18 12:37:27,777:INFO:127.0.0.1 - - [18/Sep/2024 12:37:27] "GET /data HTTP/1.1" 200 -
+2024-09-18 12:37:28,772:INFO:127.0.0.1 - - [18/Sep/2024 12:37:28] "GET /data HTTP/1.1" 200 -
+2024-09-18 12:37:29,760:INFO:127.0.0.1 - - [18/Sep/2024 12:37:29] "GET /data HTTP/1.1" 200 -
+2024-09-18 12:37:30,768:INFO:127.0.0.1 - - [18/Sep/2024 12:37:30] "GET /data HTTP/1.1" 200 -
+2024-09-18 12:37:31,775:INFO:127.0.0.1 - - [18/Sep/2024 12:37:31] "GET /data HTTP/1.1" 200 -
+2024-09-18 12:37:32,777:INFO:127.0.0.1 - - [18/Sep/2024 12:37:32] "GET /data HTTP/1.1" 200 -
+2024-09-18 12:37:33,768:INFO:127.0.0.1 - - [18/Sep/2024 12:37:33] "GET /data HTTP/1.1" 200 -
+2024-09-18 12:37:34,772:INFO:127.0.0.1 - - [18/Sep/2024 12:37:34] "GET /data HTTP/1.1" 200 -
+2024-09-18 12:37:35,780:INFO:127.0.0.1 - - [18/Sep/2024 12:37:35] "GET /data HTTP/1.1" 200 -
+2024-09-18 12:37:36,775:INFO:127.0.0.1 - - [18/Sep/2024 12:37:36] "GET /data HTTP/1.1" 200 -
+2024-09-18 12:37:37,772:INFO:127.0.0.1 - - [18/Sep/2024 12:37:37] "GET /data HTTP/1.1" 200 -
+2024-09-18 12:37:38,769:INFO:127.0.0.1 - - [18/Sep/2024 12:37:38] "GET /data HTTP/1.1" 200 -
+2024-09-18 12:37:39,778:INFO:127.0.0.1 - - [18/Sep/2024 12:37:39] "GET /data HTTP/1.1" 200 -
+2024-09-18 12:37:40,764:INFO:127.0.0.1 - - [18/Sep/2024 12:37:40] "GET /data HTTP/1.1" 200 -
+2024-09-18 12:37:41,771:INFO:127.0.0.1 - - [18/Sep/2024 12:37:41] "GET /data HTTP/1.1" 200 -
+2024-09-18 12:37:42,774:INFO:127.0.0.1 - - [18/Sep/2024 12:37:42] "GET /data HTTP/1.1" 200 -
+2024-09-18 12:37:43,779:INFO:127.0.0.1 - - [18/Sep/2024 12:37:43] "GET /data HTTP/1.1" 200 -
+2024-09-18 12:37:44,785:INFO:127.0.0.1 - - [18/Sep/2024 12:37:44] "GET /data HTTP/1.1" 200 -
+2024-09-18 12:37:45,772:INFO:127.0.0.1 - - [18/Sep/2024 12:37:45] "GET /data HTTP/1.1" 200 -
+2024-09-18 12:37:46,763:INFO:127.0.0.1 - - [18/Sep/2024 12:37:46] "GET /data HTTP/1.1" 200 -
+2024-09-18 12:37:47,766:INFO:127.0.0.1 - - [18/Sep/2024 12:37:47] "GET /data HTTP/1.1" 200 -
+2024-09-18 12:37:48,775:INFO:127.0.0.1 - - [18/Sep/2024 12:37:48] "GET /data HTTP/1.1" 200 -
+2024-09-18 12:37:49,772:INFO:127.0.0.1 - - [18/Sep/2024 12:37:49] "GET /data HTTP/1.1" 200 -
+2024-09-18 12:37:50,778:INFO:127.0.0.1 - - [18/Sep/2024 12:37:50] "GET /data HTTP/1.1" 200 -
+2024-09-18 12:37:51,772:INFO:127.0.0.1 - - [18/Sep/2024 12:37:51] "GET /data HTTP/1.1" 200 -
+2024-09-18 12:37:52,765:INFO:127.0.0.1 - - [18/Sep/2024 12:37:52] "GET /data HTTP/1.1" 200 -
+2024-09-18 12:37:53,771:INFO:127.0.0.1 - - [18/Sep/2024 12:37:53] "GET /data HTTP/1.1" 200 -
+2024-09-18 12:37:54,763:INFO:127.0.0.1 - - [18/Sep/2024 12:37:54] "GET /data HTTP/1.1" 200 -
+2024-09-18 12:37:55,776:INFO:127.0.0.1 - - [18/Sep/2024 12:37:55] "GET /data HTTP/1.1" 200 -
+2024-09-18 12:37:56,781:INFO:127.0.0.1 - - [18/Sep/2024 12:37:56] "GET /data HTTP/1.1" 200 -
+2024-09-18 12:37:57,764:INFO:127.0.0.1 - - [18/Sep/2024 12:37:57] "GET /data HTTP/1.1" 200 -
+2024-09-18 12:37:58,771:INFO:127.0.0.1 - - [18/Sep/2024 12:37:58] "GET /data HTTP/1.1" 200 -
+2024-09-18 12:37:59,771:INFO:127.0.0.1 - - [18/Sep/2024 12:37:59] "GET /data HTTP/1.1" 200 -
+2024-09-18 12:38:00,774:INFO:127.0.0.1 - - [18/Sep/2024 12:38:00] "GET /data HTTP/1.1" 200 -
+2024-09-18 12:38:01,775:INFO:127.0.0.1 - - [18/Sep/2024 12:38:01] "GET /data HTTP/1.1" 200 -
+2024-09-18 12:38:02,772:INFO:127.0.0.1 - - [18/Sep/2024 12:38:02] "GET /data HTTP/1.1" 200 -
+2024-09-18 12:38:03,774:INFO:127.0.0.1 - - [18/Sep/2024 12:38:03] "GET /data HTTP/1.1" 200 -
+2024-09-18 12:38:04,777:INFO:127.0.0.1 - - [18/Sep/2024 12:38:04] "GET /data HTTP/1.1" 200 -
+2024-09-18 12:38:05,765:INFO:127.0.0.1 - - [18/Sep/2024 12:38:05] "GET /data HTTP/1.1" 200 -
+2024-09-18 12:38:06,767:INFO:127.0.0.1 - - [18/Sep/2024 12:38:06] "GET /data HTTP/1.1" 200 -
+2024-09-18 12:38:07,764:INFO:127.0.0.1 - - [18/Sep/2024 12:38:07] "GET /data HTTP/1.1" 200 -
+2024-09-18 12:38:08,779:INFO:127.0.0.1 - - [18/Sep/2024 12:38:08] "GET /data HTTP/1.1" 200 -
+2024-09-18 12:38:09,772:INFO:127.0.0.1 - - [18/Sep/2024 12:38:09] "GET /data HTTP/1.1" 200 -
+2024-09-18 12:38:10,768:INFO:127.0.0.1 - - [18/Sep/2024 12:38:10] "GET /data HTTP/1.1" 200 -
+2024-09-18 12:38:11,770:INFO:127.0.0.1 - - [18/Sep/2024 12:38:11] "GET /data HTTP/1.1" 200 -
+2024-09-18 12:38:12,768:INFO:127.0.0.1 - - [18/Sep/2024 12:38:12] "GET /data HTTP/1.1" 200 -
+2024-09-18 12:38:13,770:INFO:127.0.0.1 - - [18/Sep/2024 12:38:13] "GET /data HTTP/1.1" 200 -
+2024-09-18 12:38:14,775:INFO:127.0.0.1 - - [18/Sep/2024 12:38:14] "GET /data HTTP/1.1" 200 -
+2024-09-18 12:38:15,773:INFO:127.0.0.1 - - [18/Sep/2024 12:38:15] "GET /data HTTP/1.1" 200 -
+2024-09-18 12:38:16,768:INFO:127.0.0.1 - - [18/Sep/2024 12:38:16] "GET /data HTTP/1.1" 200 -
+2024-09-18 12:38:17,763:INFO:127.0.0.1 - - [18/Sep/2024 12:38:17] "GET /data HTTP/1.1" 200 -
+2024-09-18 12:38:18,765:INFO:127.0.0.1 - - [18/Sep/2024 12:38:18] "GET /data HTTP/1.1" 200 -
+2024-09-18 12:38:19,770:INFO:127.0.0.1 - - [18/Sep/2024 12:38:19] "GET /data HTTP/1.1" 200 -
+2024-09-18 12:38:20,780:INFO:127.0.0.1 - - [18/Sep/2024 12:38:20] "GET /data HTTP/1.1" 200 -
+2024-09-18 12:38:21,776:INFO:127.0.0.1 - - [18/Sep/2024 12:38:21] "GET /data HTTP/1.1" 200 -
+2024-09-18 12:38:22,761:INFO:127.0.0.1 - - [18/Sep/2024 12:38:22] "GET /data HTTP/1.1" 200 -
+2024-09-18 12:38:23,769:INFO:127.0.0.1 - - [18/Sep/2024 12:38:23] "GET /data HTTP/1.1" 200 -
+2024-09-18 12:38:24,772:INFO:127.0.0.1 - - [18/Sep/2024 12:38:24] "GET /data HTTP/1.1" 200 -
+2024-09-18 12:38:25,768:INFO:127.0.0.1 - - [18/Sep/2024 12:38:25] "GET /data HTTP/1.1" 200 -
+2024-09-18 12:38:26,702:INFO:127.0.0.1 - - [18/Sep/2024 12:38:26] "GET /data HTTP/1.1" 200 -
+2024-09-18 12:38:26,959:INFO:127.0.0.1 - - [18/Sep/2024 12:38:26] "GET /data HTTP/1.1" 200 -
+2024-09-18 12:38:27,963:INFO:127.0.0.1 - - [18/Sep/2024 12:38:27] "GET /data HTTP/1.1" 200 -
+2024-09-18 12:38:28,961:INFO:127.0.0.1 - - [18/Sep/2024 12:38:28] "GET /data HTTP/1.1" 200 -
+2024-09-18 12:38:29,977:INFO:127.0.0.1 - - [18/Sep/2024 12:38:29] "GET /data HTTP/1.1" 200 -
+2024-09-18 12:38:31,764:INFO:127.0.0.1 - - [18/Sep/2024 12:38:31] "GET /data HTTP/1.1" 200 -
+2024-09-18 12:47:17,023:INFO:Conexión exitosa. Versión de la base de datos: Microsoft SQL Server 2022 (RTM-GDR) (KB5042211) - 16.0.1125.1 (X64) 
+	Jul 31 2024 23:58:42 
+	Copyright (C) 2022 Microsoft Corporation
+	Express Edition (64-bit) on Windows 10 Home Single Language 10.0 <X64> (Build 22631: ) (Hypervisor)
+
+2024-09-18 12:47:17,226:INFO:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-09-18 12:47:17,226:INFO:[33mPress CTRL+C to quit[0m
+2024-09-18 12:47:17,235:INFO: * Restarting with stat
+2024-09-18 12:47:17,537:INFO:Conexión exitosa. Versión de la base de datos: Microsoft SQL Server 2022 (RTM-GDR) (KB5042211) - 16.0.1125.1 (X64) 
+	Jul 31 2024 23:58:42 
+	Copyright (C) 2022 Microsoft Corporation
+	Express Edition (64-bit) on Windows 10 Home Single Language 10.0 <X64> (Build 22631: ) (Hypervisor)
+
+2024-09-18 12:47:17,548:WARNING: * Debugger is active!
+2024-09-18 12:47:17,553:INFO: * Debugger PIN: 655-549-044
+2024-09-18 12:47:20,183:INFO:127.0.0.1 - - [18/Sep/2024 12:47:20] "GET /data HTTP/1.1" 200 -
+2024-09-18 12:47:20,953:INFO:127.0.0.1 - - [18/Sep/2024 12:47:20] "GET /data HTTP/1.1" 200 -
+2024-09-18 12:47:21,959:INFO:127.0.0.1 - - [18/Sep/2024 12:47:21] "GET /data HTTP/1.1" 200 -
+2024-09-18 12:47:22,958:INFO:127.0.0.1 - - [18/Sep/2024 12:47:22] "GET /data HTTP/1.1" 200 -
+2024-09-18 12:47:23,955:INFO:127.0.0.1 - - [18/Sep/2024 12:47:23] "GET /data HTTP/1.1" 200 -
+2024-09-18 12:47:24,780:INFO:127.0.0.1 - - [18/Sep/2024 12:47:24] "GET / HTTP/1.1" 200 -
+2024-09-18 12:47:24,976:INFO:127.0.0.1 - - [18/Sep/2024 12:47:24] "GET /static/historical_data.js HTTP/1.1" 200 -
+2024-09-18 12:47:25,032:INFO:127.0.0.1 - - [18/Sep/2024 12:47:25] "GET /get_data HTTP/1.1" 200 -
+2024-09-18 12:47:36,430:INFO:127.0.0.1 - - [18/Sep/2024 12:47:36] "GET / HTTP/1.1" 200 -
+2024-09-18 12:47:36,444:INFO:127.0.0.1 - - [18/Sep/2024 12:47:36] "[36mGET /static/historical_data.js HTTP/1.1[0m" 304 -
+2024-09-18 12:47:36,578:INFO:127.0.0.1 - - [18/Sep/2024 12:47:36] "GET /get_data HTTP/1.1" 200 -
+2024-09-18 12:47:42,986:INFO:127.0.0.1 - - [18/Sep/2024 12:47:42] "GET / HTTP/1.1" 200 -
+2024-09-18 12:47:43,006:INFO:127.0.0.1 - - [18/Sep/2024 12:47:43] "[36mGET /static/historical_data.js HTTP/1.1[0m" 304 -
+2024-09-18 12:47:43,081:INFO:127.0.0.1 - - [18/Sep/2024 12:47:43] "GET /get_data HTTP/1.1" 200 -
+2024-09-18 12:47:47,348:INFO:127.0.0.1 - - [18/Sep/2024 12:47:47] "GET / HTTP/1.1" 200 -
+2024-09-18 12:47:47,359:INFO:127.0.0.1 - - [18/Sep/2024 12:47:47] "[36mGET /static/historical_data.js HTTP/1.1[0m" 304 -
+2024-09-18 12:47:47,443:INFO:127.0.0.1 - - [18/Sep/2024 12:47:47] "GET /get_data HTTP/1.1" 200 -
+2024-09-18 12:47:48,585:INFO:127.0.0.1 - - [18/Sep/2024 12:47:48] "GET / HTTP/1.1" 200 -
+2024-09-18 12:47:48,595:INFO:127.0.0.1 - - [18/Sep/2024 12:47:48] "[36mGET /static/historical_data.js HTTP/1.1[0m" 304 -
+2024-09-18 12:47:48,669:INFO:127.0.0.1 - - [18/Sep/2024 12:47:48] "GET /get_data HTTP/1.1" 200 -
+2024-09-18 12:47:49,222:INFO:127.0.0.1 - - [18/Sep/2024 12:47:49] "GET / HTTP/1.1" 200 -
+2024-09-18 12:47:49,230:INFO:127.0.0.1 - - [18/Sep/2024 12:47:49] "[36mGET /static/historical_data.js HTTP/1.1[0m" 304 -
+2024-09-18 12:47:49,302:INFO:127.0.0.1 - - [18/Sep/2024 12:47:49] "GET /get_data HTTP/1.1" 200 -
+2024-09-18 12:48:22,352:INFO:Conexión exitosa. Versión de la base de datos: Microsoft SQL Server 2022 (RTM-GDR) (KB5042211) - 16.0.1125.1 (X64) 
+	Jul 31 2024 23:58:42 
+	Copyright (C) 2022 Microsoft Corporation
+	Express Edition (64-bit) on Windows 10 Home Single Language 10.0 <X64> (Build 22631: ) (Hypervisor)
+
+2024-09-18 12:48:22,371:INFO:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-09-18 12:48:22,371:INFO:[33mPress CTRL+C to quit[0m
+2024-09-18 12:48:22,372:INFO: * Restarting with stat
+2024-09-18 12:48:22,680:INFO:Conexión exitosa. Versión de la base de datos: Microsoft SQL Server 2022 (RTM-GDR) (KB5042211) - 16.0.1125.1 (X64) 
+	Jul 31 2024 23:58:42 
+	Copyright (C) 2022 Microsoft Corporation
+	Express Edition (64-bit) on Windows 10 Home Single Language 10.0 <X64> (Build 22631: ) (Hypervisor)
+
+2024-09-18 12:48:22,692:WARNING: * Debugger is active!
+2024-09-18 12:48:22,696:INFO: * Debugger PIN: 655-549-044
+2024-09-18 12:48:43,773:INFO:Conexión exitosa. Versión de la base de datos: Microsoft SQL Server 2022 (RTM-GDR) (KB5042211) - 16.0.1125.1 (X64) 
+	Jul 31 2024 23:58:42 
+	Copyright (C) 2022 Microsoft Corporation
+	Express Edition (64-bit) on Windows 10 Home Single Language 10.0 <X64> (Build 22631: ) (Hypervisor)
+
+2024-09-18 12:48:43,792:INFO:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-09-18 12:48:43,792:INFO:[33mPress CTRL+C to quit[0m
+2024-09-18 12:48:43,793:INFO: * Restarting with stat
+2024-09-18 12:48:44,090:INFO:Conexión exitosa. Versión de la base de datos: Microsoft SQL Server 2022 (RTM-GDR) (KB5042211) - 16.0.1125.1 (X64) 
+	Jul 31 2024 23:58:42 
+	Copyright (C) 2022 Microsoft Corporation
+	Express Edition (64-bit) on Windows 10 Home Single Language 10.0 <X64> (Build 22631: ) (Hypervisor)
+
+2024-09-18 12:48:44,101:WARNING: * Debugger is active!
+2024-09-18 12:48:44,106:INFO: * Debugger PIN: 655-549-044
+2024-09-18 12:49:24,262:INFO:127.0.0.1 - - [18/Sep/2024 12:49:24] "[33mGET /index.html HTTP/1.1[0m" 404 -
+2024-09-18 12:49:34,840:INFO: * Detected change in 'C:\\Users\\Aarón\\Documents\\ENA\\ProyectoENA\\Flask\\app.py', reloading
+2024-09-18 12:49:34,876:INFO: * Restarting with stat
+2024-09-18 12:49:35,209:INFO:Conexión exitosa. Versión de la base de datos: Microsoft SQL Server 2022 (RTM-GDR) (KB5042211) - 16.0.1125.1 (X64) 
+	Jul 31 2024 23:58:42 
+	Copyright (C) 2022 Microsoft Corporation
+	Express Edition (64-bit) on Windows 10 Home Single Language 10.0 <X64> (Build 22631: ) (Hypervisor)
+
+2024-09-18 12:49:35,221:WARNING: * Debugger is active!
+2024-09-18 12:49:35,226:INFO: * Debugger PIN: 655-549-044
+2024-09-18 12:49:37,587:INFO:127.0.0.1 - - [18/Sep/2024 12:49:37] "GET / HTTP/1.1" 200 -
+2024-09-18 12:49:37,670:INFO:127.0.0.1 - - [18/Sep/2024 12:49:37] "GET /static/script.js HTTP/1.1" 200 -
+2024-09-18 12:49:37,878:INFO:127.0.0.1 - - [18/Sep/2024 12:49:37] "GET /get_data HTTP/1.1" 200 -
+2024-09-18 12:49:38,876:INFO:127.0.0.1 - - [18/Sep/2024 12:49:38] "GET /data HTTP/1.1" 200 -
+2024-09-18 12:49:39,874:INFO:127.0.0.1 - - [18/Sep/2024 12:49:39] "GET /data HTTP/1.1" 200 -
+2024-09-18 12:49:40,872:INFO:127.0.0.1 - - [18/Sep/2024 12:49:40] "GET /data HTTP/1.1" 200 -
+2024-09-18 12:49:41,874:INFO:127.0.0.1 - - [18/Sep/2024 12:49:41] "GET /data HTTP/1.1" 200 -
+2024-09-18 12:49:43,773:INFO:127.0.0.1 - - [18/Sep/2024 12:49:43] "GET /data HTTP/1.1" 200 -
+2024-09-18 12:49:44,771:INFO:127.0.0.1 - - [18/Sep/2024 12:49:44] "GET /data HTTP/1.1" 200 -
+2024-09-18 12:49:45,772:INFO:127.0.0.1 - - [18/Sep/2024 12:49:45] "GET /data HTTP/1.1" 200 -
+2024-09-18 12:49:46,770:INFO:127.0.0.1 - - [18/Sep/2024 12:49:46] "GET /data HTTP/1.1" 200 -
+2024-09-18 12:49:47,766:INFO:127.0.0.1 - - [18/Sep/2024 12:49:47] "GET /data HTTP/1.1" 200 -
+2024-09-18 12:49:48,767:INFO:127.0.0.1 - - [18/Sep/2024 12:49:48] "GET /data HTTP/1.1" 200 -
+2024-09-18 12:49:49,773:INFO:127.0.0.1 - - [18/Sep/2024 12:49:49] "GET /data HTTP/1.1" 200 -
+2024-09-18 12:49:50,769:INFO:127.0.0.1 - - [18/Sep/2024 12:49:50] "GET /data HTTP/1.1" 200 -
+2024-09-18 12:49:51,762:INFO:127.0.0.1 - - [18/Sep/2024 12:49:51] "GET /data HTTP/1.1" 200 -
+2024-09-18 12:49:52,763:INFO:127.0.0.1 - - [18/Sep/2024 12:49:52] "GET /data HTTP/1.1" 200 -
+2024-09-18 12:49:53,770:INFO:127.0.0.1 - - [18/Sep/2024 12:49:53] "GET /data HTTP/1.1" 200 -
+2024-09-18 12:49:54,767:INFO:127.0.0.1 - - [18/Sep/2024 12:49:54] "GET /data HTTP/1.1" 200 -
+2024-09-18 12:49:55,773:INFO:127.0.0.1 - - [18/Sep/2024 12:49:55] "GET /data HTTP/1.1" 200 -
+2024-09-18 12:49:56,768:INFO:127.0.0.1 - - [18/Sep/2024 12:49:56] "GET /data HTTP/1.1" 200 -
+2024-09-18 12:49:57,771:INFO:127.0.0.1 - - [18/Sep/2024 12:49:57] "GET /data HTTP/1.1" 200 -
+2024-09-18 12:49:58,773:INFO:127.0.0.1 - - [18/Sep/2024 12:49:58] "GET /data HTTP/1.1" 200 -
+2024-09-18 12:49:59,760:INFO:127.0.0.1 - - [18/Sep/2024 12:49:59] "GET /data HTTP/1.1" 200 -
+2024-09-18 12:50:00,773:INFO:127.0.0.1 - - [18/Sep/2024 12:50:00] "GET /data HTTP/1.1" 200 -
+2024-09-18 12:50:01,774:INFO:127.0.0.1 - - [18/Sep/2024 12:50:01] "GET /data HTTP/1.1" 200 -
+2024-09-18 12:50:02,762:INFO:127.0.0.1 - - [18/Sep/2024 12:50:02] "GET /data HTTP/1.1" 200 -
+2024-09-18 12:50:03,762:INFO:127.0.0.1 - - [18/Sep/2024 12:50:03] "GET /data HTTP/1.1" 200 -
+2024-09-18 12:50:04,773:INFO:127.0.0.1 - - [18/Sep/2024 12:50:04] "GET /data HTTP/1.1" 200 -
+2024-09-18 12:50:05,776:INFO:127.0.0.1 - - [18/Sep/2024 12:50:05] "GET /data HTTP/1.1" 200 -
+2024-09-18 12:50:06,763:INFO:127.0.0.1 - - [18/Sep/2024 12:50:06] "GET /data HTTP/1.1" 200 -
+2024-09-18 12:50:07,766:INFO:127.0.0.1 - - [18/Sep/2024 12:50:07] "GET /data HTTP/1.1" 200 -
+2024-09-18 12:50:08,758:INFO:127.0.0.1 - - [18/Sep/2024 12:50:08] "GET /data HTTP/1.1" 200 -
+2024-09-18 12:50:09,782:INFO:127.0.0.1 - - [18/Sep/2024 12:50:09] "GET /data HTTP/1.1" 200 -
+2024-09-18 12:50:10,761:INFO:127.0.0.1 - - [18/Sep/2024 12:50:10] "GET /data HTTP/1.1" 200 -
+2024-09-18 12:50:11,770:INFO:127.0.0.1 - - [18/Sep/2024 12:50:11] "GET /data HTTP/1.1" 200 -
+2024-09-18 12:50:12,770:INFO:127.0.0.1 - - [18/Sep/2024 12:50:12] "GET /data HTTP/1.1" 200 -
+2024-09-18 12:50:13,775:INFO:127.0.0.1 - - [18/Sep/2024 12:50:13] "GET /data HTTP/1.1" 200 -
+2024-09-18 12:50:14,767:INFO:127.0.0.1 - - [18/Sep/2024 12:50:14] "GET /data HTTP/1.1" 200 -
+2024-09-18 12:50:15,768:INFO:127.0.0.1 - - [18/Sep/2024 12:50:15] "GET /data HTTP/1.1" 200 -
+2024-09-18 12:50:16,770:INFO:127.0.0.1 - - [18/Sep/2024 12:50:16] "GET /data HTTP/1.1" 200 -
+2024-09-18 12:50:17,763:INFO:127.0.0.1 - - [18/Sep/2024 12:50:17] "GET /data HTTP/1.1" 200 -
+2024-09-18 12:50:18,765:INFO:127.0.0.1 - - [18/Sep/2024 12:50:18] "GET /data HTTP/1.1" 200 -
+2024-09-18 12:50:19,770:INFO:127.0.0.1 - - [18/Sep/2024 12:50:19] "GET /data HTTP/1.1" 200 -
+2024-09-18 12:50:20,764:INFO:127.0.0.1 - - [18/Sep/2024 12:50:20] "GET /data HTTP/1.1" 200 -
+2024-09-18 12:50:21,766:INFO:127.0.0.1 - - [18/Sep/2024 12:50:21] "GET /data HTTP/1.1" 200 -
+2024-09-18 12:50:22,768:INFO:127.0.0.1 - - [18/Sep/2024 12:50:22] "GET /data HTTP/1.1" 200 -
+2024-09-18 12:50:23,769:INFO:127.0.0.1 - - [18/Sep/2024 12:50:23] "GET /data HTTP/1.1" 200 -
+2024-09-18 12:50:24,775:INFO:127.0.0.1 - - [18/Sep/2024 12:50:24] "GET /data HTTP/1.1" 200 -
+2024-09-18 12:50:25,770:INFO:127.0.0.1 - - [18/Sep/2024 12:50:25] "GET /data HTTP/1.1" 200 -
+2024-09-18 12:50:26,762:INFO:127.0.0.1 - - [18/Sep/2024 12:50:26] "GET /data HTTP/1.1" 200 -
+2024-09-18 12:50:27,769:INFO:127.0.0.1 - - [18/Sep/2024 12:50:27] "GET /data HTTP/1.1" 200 -
+2024-09-18 12:50:28,771:INFO:127.0.0.1 - - [18/Sep/2024 12:50:28] "GET /data HTTP/1.1" 200 -
+2024-09-18 12:50:29,759:INFO:127.0.0.1 - - [18/Sep/2024 12:50:29] "GET /data HTTP/1.1" 200 -
+2024-09-18 12:50:30,773:INFO:127.0.0.1 - - [18/Sep/2024 12:50:30] "GET /data HTTP/1.1" 200 -
+2024-09-18 12:50:31,773:INFO:127.0.0.1 - - [18/Sep/2024 12:50:31] "GET /data HTTP/1.1" 200 -
+2024-09-18 12:50:31,828:INFO: * Detected change in 'C:\\Users\\Aarón\\Documents\\ENA\\ProyectoENA\\Flask\\app.py', reloading
+2024-09-18 12:50:31,864:INFO: * Restarting with stat
+2024-09-18 12:50:32,184:INFO:Conexión exitosa. Versión de la base de datos: Microsoft SQL Server 2022 (RTM-GDR) (KB5042211) - 16.0.1125.1 (X64) 
+	Jul 31 2024 23:58:42 
+	Copyright (C) 2022 Microsoft Corporation
+	Express Edition (64-bit) on Windows 10 Home Single Language 10.0 <X64> (Build 22631: ) (Hypervisor)
+
+2024-09-18 12:50:32,195:WARNING: * Debugger is active!
+2024-09-18 12:50:32,201:INFO: * Debugger PIN: 655-549-044
+2024-09-18 12:50:33,797:INFO:127.0.0.1 - - [18/Sep/2024 12:50:33] "GET /data HTTP/1.1" 200 -
+2024-09-18 12:50:33,805:INFO:127.0.0.1 - - [18/Sep/2024 12:50:33] "GET /data HTTP/1.1" 200 -
+2024-09-18 12:50:34,769:INFO:127.0.0.1 - - [18/Sep/2024 12:50:34] "GET /data HTTP/1.1" 200 -
+2024-09-18 12:50:35,765:INFO:127.0.0.1 - - [18/Sep/2024 12:50:35] "GET /data HTTP/1.1" 200 -
+2024-09-18 12:50:36,759:INFO:127.0.0.1 - - [18/Sep/2024 12:50:36] "GET /data HTTP/1.1" 200 -
+2024-09-18 12:50:37,760:INFO:127.0.0.1 - - [18/Sep/2024 12:50:37] "GET /data HTTP/1.1" 200 -
+2024-09-18 12:50:38,763:INFO:127.0.0.1 - - [18/Sep/2024 12:50:38] "GET /data HTTP/1.1" 200 -
+2024-09-18 12:50:39,763:INFO:127.0.0.1 - - [18/Sep/2024 12:50:39] "GET /data HTTP/1.1" 200 -
+2024-09-18 12:50:40,765:INFO:127.0.0.1 - - [18/Sep/2024 12:50:40] "GET /data HTTP/1.1" 200 -
+2024-09-18 12:50:41,763:INFO:127.0.0.1 - - [18/Sep/2024 12:50:41] "GET /data HTTP/1.1" 200 -
+2024-09-18 12:50:42,769:INFO:127.0.0.1 - - [18/Sep/2024 12:50:42] "GET /data HTTP/1.1" 200 -
+2024-09-18 12:50:43,766:INFO:127.0.0.1 - - [18/Sep/2024 12:50:43] "GET /data HTTP/1.1" 200 -
+2024-09-18 12:50:44,770:INFO:127.0.0.1 - - [18/Sep/2024 12:50:44] "GET /data HTTP/1.1" 200 -
+2024-09-18 12:50:45,769:INFO:127.0.0.1 - - [18/Sep/2024 12:50:45] "GET /data HTTP/1.1" 200 -
+2024-09-18 12:50:45,998:INFO: * Detected change in 'C:\\Users\\Aarón\\Documents\\ENA\\ProyectoENA\\Flask\\app.py', reloading
+2024-09-18 12:50:46,031:INFO: * Restarting with stat
+2024-09-18 12:50:46,334:INFO:Conexión exitosa. Versión de la base de datos: Microsoft SQL Server 2022 (RTM-GDR) (KB5042211) - 16.0.1125.1 (X64) 
+	Jul 31 2024 23:58:42 
+	Copyright (C) 2022 Microsoft Corporation
+	Express Edition (64-bit) on Windows 10 Home Single Language 10.0 <X64> (Build 22631: ) (Hypervisor)
+
+2024-09-18 12:50:46,347:WARNING: * Debugger is active!
+2024-09-18 12:50:46,353:INFO: * Debugger PIN: 655-549-044
+2024-09-18 12:50:47,907:INFO:127.0.0.1 - - [18/Sep/2024 12:50:47] "GET /data HTTP/1.1" 200 -
+2024-09-18 12:50:47,913:INFO:127.0.0.1 - - [18/Sep/2024 12:50:47] "GET /data HTTP/1.1" 200 -
+2024-09-18 12:50:48,759:INFO:127.0.0.1 - - [18/Sep/2024 12:50:48] "GET /data HTTP/1.1" 200 -
+2024-09-18 12:50:49,776:INFO:127.0.0.1 - - [18/Sep/2024 12:50:49] "GET /data HTTP/1.1" 200 -
+2024-09-18 12:50:50,765:INFO:127.0.0.1 - - [18/Sep/2024 12:50:50] "GET /data HTTP/1.1" 200 -
+2024-09-18 12:50:51,762:INFO:127.0.0.1 - - [18/Sep/2024 12:50:51] "GET /data HTTP/1.1" 200 -
+2024-09-18 12:50:52,759:INFO:127.0.0.1 - - [18/Sep/2024 12:50:52] "GET /data HTTP/1.1" 200 -
+2024-09-18 12:50:53,760:INFO:127.0.0.1 - - [18/Sep/2024 12:50:53] "GET /data HTTP/1.1" 200 -
+2024-09-18 12:50:54,715:INFO: * Detected change in 'C:\\Users\\Aarón\\Documents\\ENA\\ProyectoENA\\Flask\\app.py', reloading
+2024-09-18 12:50:54,750:INFO: * Restarting with stat
+2024-09-18 12:50:55,063:INFO:Conexión exitosa. Versión de la base de datos: Microsoft SQL Server 2022 (RTM-GDR) (KB5042211) - 16.0.1125.1 (X64) 
+	Jul 31 2024 23:58:42 
+	Copyright (C) 2022 Microsoft Corporation
+	Express Edition (64-bit) on Windows 10 Home Single Language 10.0 <X64> (Build 22631: ) (Hypervisor)
+
+2024-09-18 12:50:55,076:WARNING: * Debugger is active!
+2024-09-18 12:50:55,080:INFO: * Debugger PIN: 655-549-044
+2024-09-18 12:50:56,467:INFO:127.0.0.1 - - [18/Sep/2024 12:50:56] "GET /data HTTP/1.1" 200 -
+2024-09-18 12:50:56,472:INFO:127.0.0.1 - - [18/Sep/2024 12:50:56] "GET /data HTTP/1.1" 200 -
+2024-09-18 12:50:56,759:INFO:127.0.0.1 - - [18/Sep/2024 12:50:56] "GET /data HTTP/1.1" 200 -
+2024-09-18 12:50:57,771:INFO:127.0.0.1 - - [18/Sep/2024 12:50:57] "GET /data HTTP/1.1" 200 -
+2024-09-18 12:50:58,772:INFO:127.0.0.1 - - [18/Sep/2024 12:50:58] "GET /data HTTP/1.1" 200 -
+2024-09-18 12:50:59,772:INFO:127.0.0.1 - - [18/Sep/2024 12:50:59] "GET /data HTTP/1.1" 200 -
+2024-09-18 12:51:00,759:INFO:127.0.0.1 - - [18/Sep/2024 12:51:00] "GET /data HTTP/1.1" 200 -
+2024-09-18 12:51:01,772:INFO:127.0.0.1 - - [18/Sep/2024 12:51:01] "GET /data HTTP/1.1" 200 -
+2024-09-18 12:51:02,771:INFO:127.0.0.1 - - [18/Sep/2024 12:51:02] "GET /data HTTP/1.1" 200 -
+2024-09-18 12:51:03,775:INFO:127.0.0.1 - - [18/Sep/2024 12:51:03] "GET /data HTTP/1.1" 200 -
+2024-09-18 12:51:04,763:INFO:127.0.0.1 - - [18/Sep/2024 12:51:04] "GET /data HTTP/1.1" 200 -
+2024-09-18 12:51:05,764:INFO:127.0.0.1 - - [18/Sep/2024 12:51:05] "GET /data HTTP/1.1" 200 -
+2024-09-18 12:51:06,768:INFO:127.0.0.1 - - [18/Sep/2024 12:51:06] "GET /data HTTP/1.1" 200 -
+2024-09-18 12:51:07,763:INFO:127.0.0.1 - - [18/Sep/2024 12:51:07] "GET /data HTTP/1.1" 200 -
+2024-09-18 12:51:08,769:INFO:127.0.0.1 - - [18/Sep/2024 12:51:08] "GET /data HTTP/1.1" 200 -
+2024-09-18 12:51:09,762:INFO:127.0.0.1 - - [18/Sep/2024 12:51:09] "GET /data HTTP/1.1" 200 -
+2024-09-18 12:51:10,766:INFO:127.0.0.1 - - [18/Sep/2024 12:51:10] "GET /data HTTP/1.1" 200 -
+2024-09-18 12:51:11,771:INFO:127.0.0.1 - - [18/Sep/2024 12:51:11] "GET /data HTTP/1.1" 200 -
+2024-09-18 12:51:12,762:INFO:127.0.0.1 - - [18/Sep/2024 12:51:12] "GET /data HTTP/1.1" 200 -
+2024-09-18 12:51:13,766:INFO:127.0.0.1 - - [18/Sep/2024 12:51:13] "GET /data HTTP/1.1" 200 -
+2024-09-18 12:51:14,760:INFO:127.0.0.1 - - [18/Sep/2024 12:51:14] "GET /data HTTP/1.1" 200 -
+2024-09-18 12:51:15,771:INFO:127.0.0.1 - - [18/Sep/2024 12:51:15] "GET /data HTTP/1.1" 200 -
+2024-09-18 12:51:15,905:INFO:127.0.0.1 - - [18/Sep/2024 12:51:15] "GET /data HTTP/1.1" 200 -
+2024-09-18 12:51:16,886:INFO:127.0.0.1 - - [18/Sep/2024 12:51:16] "GET /data HTTP/1.1" 200 -
+2024-09-18 12:51:17,876:INFO:127.0.0.1 - - [18/Sep/2024 12:51:17] "GET /data HTTP/1.1" 200 -
+2024-09-18 12:51:19,766:INFO:127.0.0.1 - - [18/Sep/2024 12:51:19] "GET /data HTTP/1.1" 200 -
+2024-09-18 12:51:20,773:INFO:127.0.0.1 - - [18/Sep/2024 12:51:20] "GET /data HTTP/1.1" 200 -
+2024-09-18 12:51:21,766:INFO:127.0.0.1 - - [18/Sep/2024 12:51:21] "GET /data HTTP/1.1" 200 -
+2024-09-18 12:51:22,771:INFO:127.0.0.1 - - [18/Sep/2024 12:51:22] "GET /data HTTP/1.1" 200 -
+2024-09-18 12:51:23,763:INFO:127.0.0.1 - - [18/Sep/2024 12:51:23] "GET /data HTTP/1.1" 200 -
+2024-09-18 12:51:24,104:INFO:127.0.0.1 - - [18/Sep/2024 12:51:24] "[33mGET /historical_data.html HTTP/1.1[0m" 404 -
+2024-09-18 12:51:24,774:INFO:127.0.0.1 - - [18/Sep/2024 12:51:24] "GET /data HTTP/1.1" 200 -
+2024-09-18 12:51:25,764:INFO:127.0.0.1 - - [18/Sep/2024 12:51:25] "GET /data HTTP/1.1" 200 -
+2024-09-18 12:51:26,761:INFO:127.0.0.1 - - [18/Sep/2024 12:51:26] "GET /data HTTP/1.1" 200 -
+2024-09-18 12:51:27,772:INFO:127.0.0.1 - - [18/Sep/2024 12:51:27] "GET /data HTTP/1.1" 200 -
+2024-09-18 12:51:28,772:INFO:127.0.0.1 - - [18/Sep/2024 12:51:28] "GET /data HTTP/1.1" 200 -
+2024-09-18 12:51:29,765:INFO:127.0.0.1 - - [18/Sep/2024 12:51:29] "GET /data HTTP/1.1" 200 -
+2024-09-18 12:51:30,761:INFO:127.0.0.1 - - [18/Sep/2024 12:51:30] "GET /data HTTP/1.1" 200 -
+2024-09-18 12:51:31,772:INFO:127.0.0.1 - - [18/Sep/2024 12:51:31] "GET /data HTTP/1.1" 200 -
+2024-09-18 12:51:32,766:INFO:127.0.0.1 - - [18/Sep/2024 12:51:32] "GET /data HTTP/1.1" 200 -
+2024-09-18 12:51:33,410:INFO:127.0.0.1 - - [18/Sep/2024 12:51:33] "GET /historical HTTP/1.1" 200 -
+2024-09-18 12:51:33,492:INFO:127.0.0.1 - - [18/Sep/2024 12:51:33] "[36mGET /static/historical_data.js HTTP/1.1[0m" 304 -
+2024-09-18 12:51:33,553:INFO:127.0.0.1 - - [18/Sep/2024 12:51:33] "GET /get_data HTTP/1.1" 200 -
+2024-09-18 12:51:33,759:INFO:127.0.0.1 - - [18/Sep/2024 12:51:33] "GET /data HTTP/1.1" 200 -
+2024-09-18 12:51:34,763:INFO:127.0.0.1 - - [18/Sep/2024 12:51:34] "GET /data HTTP/1.1" 200 -
+2024-09-18 12:51:35,759:INFO:127.0.0.1 - - [18/Sep/2024 12:51:35] "GET /data HTTP/1.1" 200 -
+2024-09-18 12:51:36,766:INFO:127.0.0.1 - - [18/Sep/2024 12:51:36] "GET /data HTTP/1.1" 200 -
+2024-09-18 12:51:37,763:INFO:127.0.0.1 - - [18/Sep/2024 12:51:37] "GET /data HTTP/1.1" 200 -
+2024-09-18 12:51:38,765:INFO:127.0.0.1 - - [18/Sep/2024 12:51:38] "GET /data HTTP/1.1" 200 -
+2024-09-18 12:51:39,765:INFO:127.0.0.1 - - [18/Sep/2024 12:51:39] "GET /data HTTP/1.1" 200 -
+2024-09-18 12:51:39,777:INFO:127.0.0.1 - - [18/Sep/2024 12:51:39] "GET /historical HTTP/1.1" 200 -
+2024-09-18 12:51:39,833:INFO:127.0.0.1 - - [18/Sep/2024 12:51:39] "[36mGET /static/historical_data.js HTTP/1.1[0m" 304 -
+2024-09-18 12:51:39,923:INFO:127.0.0.1 - - [18/Sep/2024 12:51:39] "GET /get_data HTTP/1.1" 200 -
+2024-09-18 12:51:40,759:INFO:127.0.0.1 - - [18/Sep/2024 12:51:40] "GET /data HTTP/1.1" 200 -
+2024-09-18 12:51:41,771:INFO:127.0.0.1 - - [18/Sep/2024 12:51:41] "GET /data HTTP/1.1" 200 -
+2024-09-18 12:52:15,060:INFO:Conexión exitosa. Versión de la base de datos: Microsoft SQL Server 2022 (RTM-GDR) (KB5042211) - 16.0.1125.1 (X64) 
+	Jul 31 2024 23:58:42 
+	Copyright (C) 2022 Microsoft Corporation
+	Express Edition (64-bit) on Windows 10 Home Single Language 10.0 <X64> (Build 22631: ) (Hypervisor)
+
+2024-09-18 12:52:15,084:INFO:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-09-18 12:52:15,084:INFO:[33mPress CTRL+C to quit[0m
+2024-09-18 12:52:15,085:INFO: * Restarting with stat
+2024-09-18 12:52:15,395:INFO:Conexión exitosa. Versión de la base de datos: Microsoft SQL Server 2022 (RTM-GDR) (KB5042211) - 16.0.1125.1 (X64) 
+	Jul 31 2024 23:58:42 
+	Copyright (C) 2022 Microsoft Corporation
+	Express Edition (64-bit) on Windows 10 Home Single Language 10.0 <X64> (Build 22631: ) (Hypervisor)
+
+2024-09-18 12:52:15,407:WARNING: * Debugger is active!
+2024-09-18 12:52:15,411:INFO: * Debugger PIN: 655-549-044
+2024-09-18 12:52:16,947:INFO:127.0.0.1 - - [18/Sep/2024 12:52:16] "GET /historical HTTP/1.1" 200 -
+2024-09-18 12:52:17,061:INFO:127.0.0.1 - - [18/Sep/2024 12:52:17] "[36mGET /static/historical_data.js HTTP/1.1[0m" 304 -
+2024-09-18 12:52:17,354:INFO:127.0.0.1 - - [18/Sep/2024 12:52:17] "GET /get_data HTTP/1.1" 200 -
+2024-09-18 12:52:21,185:INFO:127.0.0.1 - - [18/Sep/2024 12:52:21] "GET /historical HTTP/1.1" 200 -
+2024-09-18 12:52:21,210:INFO:127.0.0.1 - - [18/Sep/2024 12:52:21] "[36mGET /static/historical_data.js HTTP/1.1[0m" 304 -
+2024-09-18 12:52:21,429:INFO:127.0.0.1 - - [18/Sep/2024 12:52:21] "GET /get_data HTTP/1.1" 200 -
+2024-09-18 12:52:22,915:INFO:127.0.0.1 - - [18/Sep/2024 12:52:22] "GET /historical HTTP/1.1" 200 -
+2024-09-18 12:52:22,938:INFO:127.0.0.1 - - [18/Sep/2024 12:52:22] "[36mGET /static/historical_data.js HTTP/1.1[0m" 304 -
+2024-09-18 12:52:23,115:INFO:127.0.0.1 - - [18/Sep/2024 12:52:23] "GET /get_data HTTP/1.1" 200 -
+2024-09-18 12:52:23,270:INFO:127.0.0.1 - - [18/Sep/2024 12:52:23] "GET /historical HTTP/1.1" 200 -
+2024-09-18 12:52:23,288:INFO:127.0.0.1 - - [18/Sep/2024 12:52:23] "[36mGET /static/historical_data.js HTTP/1.1[0m" 304 -
+2024-09-18 12:52:23,508:INFO:127.0.0.1 - - [18/Sep/2024 12:52:23] "GET /get_data HTTP/1.1" 200 -
+2024-09-18 12:52:35,423:INFO:127.0.0.1 - - [18/Sep/2024 12:52:35] "GET / HTTP/1.1" 200 -
+2024-09-18 12:52:35,441:INFO:127.0.0.1 - - [18/Sep/2024 12:52:35] "[36mGET /static/script.js HTTP/1.1[0m" 304 -
+2024-09-18 12:52:35,583:INFO:127.0.0.1 - - [18/Sep/2024 12:52:35] "GET /get_data HTTP/1.1" 200 -
+2024-09-18 12:52:36,586:INFO:127.0.0.1 - - [18/Sep/2024 12:52:36] "GET /data HTTP/1.1" 200 -
+2024-09-18 12:52:37,587:INFO:127.0.0.1 - - [18/Sep/2024 12:52:37] "GET /data HTTP/1.1" 200 -
+2024-09-18 12:52:38,593:INFO:127.0.0.1 - - [18/Sep/2024 12:52:38] "GET /data HTTP/1.1" 200 -
+2024-09-18 12:52:39,763:INFO:127.0.0.1 - - [18/Sep/2024 12:52:39] "GET /data HTTP/1.1" 200 -
+2024-09-18 12:52:40,771:INFO:127.0.0.1 - - [18/Sep/2024 12:52:40] "GET /data HTTP/1.1" 200 -
+2024-09-18 12:52:41,760:INFO:127.0.0.1 - - [18/Sep/2024 12:52:41] "GET /data HTTP/1.1" 200 -
+2024-09-18 12:52:42,760:INFO:127.0.0.1 - - [18/Sep/2024 12:52:42] "GET /data HTTP/1.1" 200 -
+2024-09-18 12:52:43,773:INFO:127.0.0.1 - - [18/Sep/2024 12:52:43] "GET /data HTTP/1.1" 200 -
+2024-09-18 12:52:44,767:INFO:127.0.0.1 - - [18/Sep/2024 12:52:44] "GET /data HTTP/1.1" 200 -
+2024-09-18 12:52:45,769:INFO:127.0.0.1 - - [18/Sep/2024 12:52:45] "GET /data HTTP/1.1" 200 -
+2024-09-18 12:52:46,771:INFO:127.0.0.1 - - [18/Sep/2024 12:52:46] "GET /data HTTP/1.1" 200 -
+2024-09-18 12:52:47,765:INFO:127.0.0.1 - - [18/Sep/2024 12:52:47] "GET /data HTTP/1.1" 200 -
+2024-09-18 12:52:48,774:INFO:127.0.0.1 - - [18/Sep/2024 12:52:48] "GET /data HTTP/1.1" 200 -
+2024-09-18 12:52:49,778:INFO:127.0.0.1 - - [18/Sep/2024 12:52:49] "GET /data HTTP/1.1" 200 -
+2024-09-18 12:52:50,775:INFO:127.0.0.1 - - [18/Sep/2024 12:52:50] "GET /data HTTP/1.1" 200 -
+2024-09-18 12:52:51,595:INFO:127.0.0.1 - - [18/Sep/2024 12:52:51] "GET /data HTTP/1.1" 200 -
+2024-09-18 12:52:52,600:INFO:127.0.0.1 - - [18/Sep/2024 12:52:52] "GET /data HTTP/1.1" 200 -
+2024-09-18 12:52:53,594:INFO:127.0.0.1 - - [18/Sep/2024 12:52:53] "GET /data HTTP/1.1" 200 -
+2024-09-18 12:52:54,586:INFO:127.0.0.1 - - [18/Sep/2024 12:52:54] "GET /data HTTP/1.1" 200 -
+2024-09-18 12:52:55,592:INFO:127.0.0.1 - - [18/Sep/2024 12:52:55] "GET /data HTTP/1.1" 200 -
+2024-09-18 12:52:56,599:INFO:127.0.0.1 - - [18/Sep/2024 12:52:56] "GET /data HTTP/1.1" 200 -
+2024-09-18 12:53:07,248:INFO:127.0.0.1 - - [18/Sep/2024 12:53:07] "GET /historical HTTP/1.1" 200 -
+2024-09-18 12:53:07,266:INFO:127.0.0.1 - - [18/Sep/2024 12:53:07] "[36mGET /static/historical_data.js HTTP/1.1[0m" 304 -
+2024-09-18 12:53:07,479:INFO:127.0.0.1 - - [18/Sep/2024 12:53:07] "GET /get_data HTTP/1.1" 200 -
+2024-09-18 12:55:38,466:INFO:127.0.0.1 - - [18/Sep/2024 12:55:38] "GET /historical HTTP/1.1" 200 -
+2024-09-18 12:55:38,481:INFO:127.0.0.1 - - [18/Sep/2024 12:55:38] "GET /static/historical_data.js HTTP/1.1" 200 -
+2024-09-18 12:55:38,800:INFO:127.0.0.1 - - [18/Sep/2024 12:55:38] "GET /get_data HTTP/1.1" 200 -
+2024-09-18 12:55:39,759:INFO:127.0.0.1 - - [18/Sep/2024 12:55:39] "GET /get_data HTTP/1.1" 200 -
+2024-09-18 12:55:40,771:INFO:127.0.0.1 - - [18/Sep/2024 12:55:40] "GET /get_data HTTP/1.1" 200 -
+2024-09-18 12:55:41,763:INFO:127.0.0.1 - - [18/Sep/2024 12:55:41] "GET /get_data HTTP/1.1" 200 -
+2024-09-18 12:55:43,767:INFO:127.0.0.1 - - [18/Sep/2024 12:55:43] "GET /get_data HTTP/1.1" 200 -
+2024-09-18 12:55:45,764:INFO:127.0.0.1 - - [18/Sep/2024 12:55:45] "GET /get_data HTTP/1.1" 200 -
+2024-09-18 12:55:47,770:INFO:127.0.0.1 - - [18/Sep/2024 12:55:47] "GET /get_data HTTP/1.1" 200 -
+2024-09-18 12:55:49,765:INFO:127.0.0.1 - - [18/Sep/2024 12:55:49] "GET /get_data HTTP/1.1" 200 -
+2024-09-18 12:55:51,774:INFO:127.0.0.1 - - [18/Sep/2024 12:55:51] "GET /get_data HTTP/1.1" 200 -
+2024-09-18 12:55:53,759:INFO:127.0.0.1 - - [18/Sep/2024 12:55:53] "GET /get_data HTTP/1.1" 200 -
+2024-09-18 12:55:55,777:INFO:127.0.0.1 - - [18/Sep/2024 12:55:55] "GET /get_data HTTP/1.1" 200 -
+2024-09-18 12:55:57,758:INFO:127.0.0.1 - - [18/Sep/2024 12:55:57] "GET /get_data HTTP/1.1" 200 -
+2024-09-18 12:55:59,773:INFO:127.0.0.1 - - [18/Sep/2024 12:55:59] "GET /get_data HTTP/1.1" 200 -
+2024-09-18 12:56:01,765:INFO:127.0.0.1 - - [18/Sep/2024 12:56:01] "GET /get_data HTTP/1.1" 200 -
+2024-09-18 12:56:03,765:INFO:127.0.0.1 - - [18/Sep/2024 12:56:03] "GET /get_data HTTP/1.1" 200 -
+2024-09-18 12:56:05,773:INFO:127.0.0.1 - - [18/Sep/2024 12:56:05] "GET /get_data HTTP/1.1" 200 -
+2024-09-18 12:56:07,762:INFO:127.0.0.1 - - [18/Sep/2024 12:56:07] "GET /get_data HTTP/1.1" 200 -
+2024-09-18 12:56:09,762:INFO:127.0.0.1 - - [18/Sep/2024 12:56:09] "GET /get_data HTTP/1.1" 200 -
+2024-09-18 12:56:11,763:INFO:127.0.0.1 - - [18/Sep/2024 12:56:11] "GET /get_data HTTP/1.1" 200 -
+2024-09-18 12:56:13,769:INFO:127.0.0.1 - - [18/Sep/2024 12:56:13] "GET /get_data HTTP/1.1" 200 -
+2024-09-18 12:56:15,771:INFO:127.0.0.1 - - [18/Sep/2024 12:56:15] "GET /get_data HTTP/1.1" 200 -
+2024-09-18 12:56:17,767:INFO:127.0.0.1 - - [18/Sep/2024 12:56:17] "GET /get_data HTTP/1.1" 200 -
+2024-09-18 12:56:19,771:INFO:127.0.0.1 - - [18/Sep/2024 12:56:19] "GET /get_data HTTP/1.1" 200 -
+2024-09-18 12:56:21,765:INFO:127.0.0.1 - - [18/Sep/2024 12:56:21] "GET /get_data HTTP/1.1" 200 -
+2024-09-18 12:56:23,767:INFO:127.0.0.1 - - [18/Sep/2024 12:56:23] "GET /get_data HTTP/1.1" 200 -
+2024-09-18 12:56:25,763:INFO:127.0.0.1 - - [18/Sep/2024 12:56:25] "GET /get_data HTTP/1.1" 200 -
+2024-09-18 12:56:27,759:INFO:127.0.0.1 - - [18/Sep/2024 12:56:27] "GET /get_data HTTP/1.1" 200 -
+2024-09-18 12:56:29,779:INFO:127.0.0.1 - - [18/Sep/2024 12:56:29] "GET /get_data HTTP/1.1" 200 -
+2024-09-18 12:56:31,772:INFO:127.0.0.1 - - [18/Sep/2024 12:56:31] "GET /get_data HTTP/1.1" 200 -
+2024-09-18 12:56:33,760:INFO:127.0.0.1 - - [18/Sep/2024 12:56:33] "GET /get_data HTTP/1.1" 200 -
+2024-09-18 12:56:35,772:INFO:127.0.0.1 - - [18/Sep/2024 12:56:35] "GET /get_data HTTP/1.1" 200 -
+2024-09-18 12:56:37,758:INFO:127.0.0.1 - - [18/Sep/2024 12:56:37] "GET /get_data HTTP/1.1" 200 -
+2024-09-18 12:56:39,763:INFO:127.0.0.1 - - [18/Sep/2024 12:56:39] "GET /get_data HTTP/1.1" 200 -
+2024-09-18 12:56:41,766:INFO:127.0.0.1 - - [18/Sep/2024 12:56:41] "GET /get_data HTTP/1.1" 200 -
+2024-09-18 12:56:43,763:INFO:127.0.0.1 - - [18/Sep/2024 12:56:43] "GET /get_data HTTP/1.1" 200 -
+2024-09-18 12:56:45,763:INFO:127.0.0.1 - - [18/Sep/2024 12:56:45] "GET /get_data HTTP/1.1" 200 -
+2024-09-18 12:56:47,764:INFO:127.0.0.1 - - [18/Sep/2024 12:56:47] "GET /get_data HTTP/1.1" 200 -
+2024-09-18 12:56:49,760:INFO:127.0.0.1 - - [18/Sep/2024 12:56:49] "GET /get_data HTTP/1.1" 200 -
+2024-09-18 12:56:51,517:INFO:127.0.0.1 - - [18/Sep/2024 12:56:51] "GET /get_data HTTP/1.1" 200 -
+2024-09-18 12:56:51,791:INFO:127.0.0.1 - - [18/Sep/2024 12:56:51] "GET /get_data HTTP/1.1" 200 -
+2024-09-18 12:56:52,764:INFO:127.0.0.1 - - [18/Sep/2024 12:56:52] "GET /get_data HTTP/1.1" 200 -
+2024-09-18 12:56:53,769:INFO:127.0.0.1 - - [18/Sep/2024 12:56:53] "GET /get_data HTTP/1.1" 200 -
+2024-09-18 12:56:53,908:INFO:127.0.0.1 - - [18/Sep/2024 12:56:53] "GET /historical HTTP/1.1" 200 -
+2024-09-18 12:56:53,925:INFO:127.0.0.1 - - [18/Sep/2024 12:56:53] "GET /static/historical_data.js HTTP/1.1" 200 -
+2024-09-18 12:56:54,218:INFO:127.0.0.1 - - [18/Sep/2024 12:56:54] "GET /get_data HTTP/1.1" 200 -
+2024-09-18 12:57:14,906:INFO:127.0.0.1 - - [18/Sep/2024 12:57:14] "GET / HTTP/1.1" 200 -
+2024-09-18 12:57:14,940:INFO:127.0.0.1 - - [18/Sep/2024 12:57:14] "[36mGET /static/script.js HTTP/1.1[0m" 304 -
+2024-09-18 12:57:15,075:INFO:127.0.0.1 - - [18/Sep/2024 12:57:15] "GET /get_data HTTP/1.1" 200 -
+2024-09-18 12:57:16,079:INFO:127.0.0.1 - - [18/Sep/2024 12:57:16] "GET /data HTTP/1.1" 200 -
+2024-09-18 12:57:17,077:INFO:127.0.0.1 - - [18/Sep/2024 12:57:17] "GET /data HTTP/1.1" 200 -
+2024-09-18 12:57:18,073:INFO:127.0.0.1 - - [18/Sep/2024 12:57:18] "GET /data HTTP/1.1" 200 -
+2024-09-18 12:57:19,079:INFO:127.0.0.1 - - [18/Sep/2024 12:57:19] "GET /data HTTP/1.1" 200 -
+2024-09-18 12:57:20,088:INFO:127.0.0.1 - - [18/Sep/2024 12:57:20] "GET /data HTTP/1.1" 200 -
+2024-09-18 12:57:21,077:INFO:127.0.0.1 - - [18/Sep/2024 12:57:21] "GET /data HTTP/1.1" 200 -
+2024-09-18 12:57:22,085:INFO:127.0.0.1 - - [18/Sep/2024 12:57:22] "GET /data HTTP/1.1" 200 -
+2024-09-18 12:57:23,076:INFO:127.0.0.1 - - [18/Sep/2024 12:57:23] "GET /data HTTP/1.1" 200 -
+2024-09-18 12:57:24,373:INFO:127.0.0.1 - - [18/Sep/2024 12:57:24] "GET /data HTTP/1.1" 200 -
+2024-09-18 12:57:25,085:INFO:127.0.0.1 - - [18/Sep/2024 12:57:25] "GET /data HTTP/1.1" 200 -
+2024-09-18 12:57:26,775:INFO:127.0.0.1 - - [18/Sep/2024 12:57:26] "GET /data HTTP/1.1" 200 -
+2024-09-18 12:57:44,832:INFO:Conexión exitosa. Versión de la base de datos: Microsoft SQL Server 2022 (RTM-GDR) (KB5042211) - 16.0.1125.1 (X64) 
+	Jul 31 2024 23:58:42 
+	Copyright (C) 2022 Microsoft Corporation
+	Express Edition (64-bit) on Windows 10 Home Single Language 10.0 <X64> (Build 22631: ) (Hypervisor)
+
+2024-09-18 12:57:44,852:INFO:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-09-18 12:57:44,852:INFO:[33mPress CTRL+C to quit[0m
+2024-09-18 12:57:44,853:INFO: * Restarting with stat
+2024-09-18 12:57:45,157:INFO:Conexión exitosa. Versión de la base de datos: Microsoft SQL Server 2022 (RTM-GDR) (KB5042211) - 16.0.1125.1 (X64) 
+	Jul 31 2024 23:58:42 
+	Copyright (C) 2022 Microsoft Corporation
+	Express Edition (64-bit) on Windows 10 Home Single Language 10.0 <X64> (Build 22631: ) (Hypervisor)
+
+2024-09-18 12:57:45,168:WARNING: * Debugger is active!
+2024-09-18 12:57:45,173:INFO: * Debugger PIN: 655-549-044
+2024-09-18 12:57:46,809:INFO:127.0.0.1 - - [18/Sep/2024 12:57:46] "GET /data HTTP/1.1" 200 -
+2024-09-18 12:57:46,816:INFO:127.0.0.1 - - [18/Sep/2024 12:57:46] "GET /data HTTP/1.1" 200 -
+2024-09-18 12:57:46,824:INFO:127.0.0.1 - - [18/Sep/2024 12:57:46] "GET /data HTTP/1.1" 200 -
+2024-09-18 12:57:46,829:INFO:127.0.0.1 - - [18/Sep/2024 12:57:46] "GET /data HTTP/1.1" 200 -
+2024-09-18 12:57:47,072:INFO:127.0.0.1 - - [18/Sep/2024 12:57:47] "GET /data HTTP/1.1" 200 -
+2024-09-18 12:57:47,840:INFO:127.0.0.1 - - [18/Sep/2024 12:57:47] "GET / HTTP/1.1" 200 -
+2024-09-18 12:57:47,920:INFO:127.0.0.1 - - [18/Sep/2024 12:57:47] "[36mGET /static/script.js HTTP/1.1[0m" 304 -
+2024-09-18 12:57:47,983:INFO:127.0.0.1 - - [18/Sep/2024 12:57:47] "GET /get_data HTTP/1.1" 200 -
+2024-09-18 12:57:48,983:INFO:127.0.0.1 - - [18/Sep/2024 12:57:48] "GET /data HTTP/1.1" 200 -
+2024-09-18 12:57:49,995:INFO:127.0.0.1 - - [18/Sep/2024 12:57:49] "GET /data HTTP/1.1" 200 -
+2024-09-18 12:57:50,984:INFO:127.0.0.1 - - [18/Sep/2024 12:57:50] "GET /data HTTP/1.1" 200 -
+2024-09-18 12:57:51,997:INFO:127.0.0.1 - - [18/Sep/2024 12:57:51] "GET /data HTTP/1.1" 200 -
+2024-09-18 12:57:52,985:INFO:127.0.0.1 - - [18/Sep/2024 12:57:52] "GET /data HTTP/1.1" 200 -
+2024-09-18 12:57:53,991:INFO:127.0.0.1 - - [18/Sep/2024 12:57:53] "GET /data HTTP/1.1" 200 -
+2024-09-18 12:57:54,989:INFO:127.0.0.1 - - [18/Sep/2024 12:57:54] "GET /data HTTP/1.1" 200 -
+2024-09-18 12:57:55,991:INFO:127.0.0.1 - - [18/Sep/2024 12:57:55] "GET /data HTTP/1.1" 200 -
+2024-09-18 12:57:56,990:INFO:127.0.0.1 - - [18/Sep/2024 12:57:56] "GET /data HTTP/1.1" 200 -
+2024-09-18 12:57:57,201:INFO:127.0.0.1 - - [18/Sep/2024 12:57:57] "GET / HTTP/1.1" 200 -
+2024-09-18 12:57:57,210:INFO:127.0.0.1 - - [18/Sep/2024 12:57:57] "[36mGET /static/script.js HTTP/1.1[0m" 304 -
+2024-09-18 12:57:57,300:INFO:127.0.0.1 - - [18/Sep/2024 12:57:57] "GET /get_data HTTP/1.1" 200 -
+2024-09-18 12:57:58,291:INFO:127.0.0.1 - - [18/Sep/2024 12:57:58] "GET /data HTTP/1.1" 200 -
+2024-09-18 12:57:59,297:INFO:127.0.0.1 - - [18/Sep/2024 12:57:59] "GET /data HTTP/1.1" 200 -
+2024-09-18 12:58:00,292:INFO:127.0.0.1 - - [18/Sep/2024 12:58:00] "GET /data HTTP/1.1" 200 -
+2024-09-18 12:58:01,292:INFO:127.0.0.1 - - [18/Sep/2024 12:58:01] "GET /data HTTP/1.1" 200 -
+2024-09-18 12:58:02,305:INFO:127.0.0.1 - - [18/Sep/2024 12:58:02] "GET /data HTTP/1.1" 200 -
+2024-09-18 12:58:03,307:INFO:127.0.0.1 - - [18/Sep/2024 12:58:03] "GET /data HTTP/1.1" 200 -
+2024-09-18 12:58:26,648:INFO:Conexión exitosa. Versión de la base de datos: Microsoft SQL Server 2022 (RTM-GDR) (KB5042211) - 16.0.1125.1 (X64) 
+	Jul 31 2024 23:58:42 
+	Copyright (C) 2022 Microsoft Corporation
+	Express Edition (64-bit) on Windows 10 Home Single Language 10.0 <X64> (Build 22631: ) (Hypervisor)
+
+2024-09-18 12:58:26,671:INFO:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-09-18 12:58:26,671:INFO:[33mPress CTRL+C to quit[0m
+2024-09-18 12:58:26,672:INFO: * Restarting with stat
+2024-09-18 12:58:27,004:INFO:Conexión exitosa. Versión de la base de datos: Microsoft SQL Server 2022 (RTM-GDR) (KB5042211) - 16.0.1125.1 (X64) 
+	Jul 31 2024 23:58:42 
+	Copyright (C) 2022 Microsoft Corporation
+	Express Edition (64-bit) on Windows 10 Home Single Language 10.0 <X64> (Build 22631: ) (Hypervisor)
+
+2024-09-18 12:58:27,015:WARNING: * Debugger is active!
+2024-09-18 12:58:27,020:INFO: * Debugger PIN: 655-549-044
+2024-09-18 12:58:28,699:INFO:127.0.0.1 - - [18/Sep/2024 12:58:28] "GET / HTTP/1.1" 200 -
+2024-09-18 12:58:28,703:INFO:127.0.0.1 - - [18/Sep/2024 12:58:28] "GET /historical HTTP/1.1" 200 -
+2024-09-18 12:58:28,827:INFO:127.0.0.1 - - [18/Sep/2024 12:58:28] "[36mGET /static/script.js HTTP/1.1[0m" 304 -
+2024-09-18 12:58:28,845:INFO:127.0.0.1 - - [18/Sep/2024 12:58:28] "[36mGET /static/historical_data.js HTTP/1.1[0m" 304 -
+2024-09-18 12:58:28,916:INFO:127.0.0.1 - - [18/Sep/2024 12:58:28] "GET /get_data HTTP/1.1" 200 -
+2024-09-18 12:58:28,926:INFO:127.0.0.1 - - [18/Sep/2024 12:58:28] "GET /get_data HTTP/1.1" 200 -
+2024-09-18 12:58:29,919:INFO:127.0.0.1 - - [18/Sep/2024 12:58:29] "GET /data HTTP/1.1" 200 -
+2024-09-18 12:58:30,925:INFO:127.0.0.1 - - [18/Sep/2024 12:58:30] "GET /data HTTP/1.1" 200 -
+2024-09-18 12:58:31,924:INFO:127.0.0.1 - - [18/Sep/2024 12:58:31] "GET /data HTTP/1.1" 200 -
+2024-09-18 12:58:32,916:INFO:127.0.0.1 - - [18/Sep/2024 12:58:32] "GET /data HTTP/1.1" 200 -
+2024-09-18 12:58:33,926:INFO:127.0.0.1 - - [18/Sep/2024 12:58:33] "GET /data HTTP/1.1" 200 -
+2024-09-18 12:58:34,918:INFO:127.0.0.1 - - [18/Sep/2024 12:58:34] "GET /data HTTP/1.1" 200 -
+2024-09-18 12:58:35,914:INFO:127.0.0.1 - - [18/Sep/2024 12:58:35] "GET /data HTTP/1.1" 200 -
+2024-09-18 12:58:36,919:INFO:127.0.0.1 - - [18/Sep/2024 12:58:36] "GET /data HTTP/1.1" 200 -
+2024-09-18 12:58:37,929:INFO:127.0.0.1 - - [18/Sep/2024 12:58:37] "GET /data HTTP/1.1" 200 -
+2024-09-18 12:58:38,350:INFO:127.0.0.1 - - [18/Sep/2024 12:58:38] "GET /historical HTTP/1.1" 200 -
+2024-09-18 12:58:38,377:INFO:127.0.0.1 - - [18/Sep/2024 12:58:38] "[36mGET /static/historical_data.js HTTP/1.1[0m" 304 -
+2024-09-18 12:58:38,457:INFO:127.0.0.1 - - [18/Sep/2024 12:58:38] "GET /get_data HTTP/1.1" 200 -
+2024-09-18 12:58:38,920:INFO:127.0.0.1 - - [18/Sep/2024 12:58:38] "GET /data HTTP/1.1" 200 -
+2024-09-18 12:58:39,919:INFO:127.0.0.1 - - [18/Sep/2024 12:58:39] "GET /data HTTP/1.1" 200 -
+2024-09-18 12:58:40,602:INFO:127.0.0.1 - - [18/Sep/2024 12:58:40] "GET /historical HTTP/1.1" 200 -
+2024-09-18 12:58:40,615:INFO:127.0.0.1 - - [18/Sep/2024 12:58:40] "[36mGET /static/historical_data.js HTTP/1.1[0m" 304 -
+2024-09-18 12:58:40,691:INFO:127.0.0.1 - - [18/Sep/2024 12:58:40] "GET /get_data HTTP/1.1" 200 -
+2024-09-18 12:58:40,918:INFO:127.0.0.1 - - [18/Sep/2024 12:58:40] "GET /data HTTP/1.1" 200 -
+2024-09-18 12:58:41,448:INFO:127.0.0.1 - - [18/Sep/2024 12:58:41] "GET /historical HTTP/1.1" 200 -
+2024-09-18 12:58:41,462:INFO:127.0.0.1 - - [18/Sep/2024 12:58:41] "[36mGET /static/historical_data.js HTTP/1.1[0m" 304 -
+2024-09-18 12:58:41,531:INFO:127.0.0.1 - - [18/Sep/2024 12:58:41] "GET /get_data HTTP/1.1" 200 -
+2024-09-18 12:58:41,924:INFO:127.0.0.1 - - [18/Sep/2024 12:58:41] "GET /data HTTP/1.1" 200 -
+2024-09-18 12:58:42,927:INFO:127.0.0.1 - - [18/Sep/2024 12:58:42] "GET /data HTTP/1.1" 200 -
+2024-09-18 12:58:43,922:INFO:127.0.0.1 - - [18/Sep/2024 12:58:43] "GET /data HTTP/1.1" 200 -
+2024-09-18 12:58:44,920:INFO:127.0.0.1 - - [18/Sep/2024 12:58:44] "GET /data HTTP/1.1" 200 -
+2024-09-18 12:58:45,915:INFO:127.0.0.1 - - [18/Sep/2024 12:58:45] "GET /data HTTP/1.1" 200 -
+2024-09-18 12:58:46,928:INFO:127.0.0.1 - - [18/Sep/2024 12:58:46] "GET /data HTTP/1.1" 200 -
+2024-09-18 12:58:47,920:INFO:127.0.0.1 - - [18/Sep/2024 12:58:47] "GET /data HTTP/1.1" 200 -
+2024-09-18 12:58:48,922:INFO:127.0.0.1 - - [18/Sep/2024 12:58:48] "GET /data HTTP/1.1" 200 -
+2024-09-18 12:58:49,915:INFO:127.0.0.1 - - [18/Sep/2024 12:58:49] "GET /data HTTP/1.1" 200 -
+2024-09-18 12:58:50,922:INFO:127.0.0.1 - - [18/Sep/2024 12:58:50] "GET /data HTTP/1.1" 200 -
+2024-09-18 12:58:51,919:INFO:127.0.0.1 - - [18/Sep/2024 12:58:51] "GET /data HTTP/1.1" 200 -
+2024-09-18 12:58:52,932:INFO:127.0.0.1 - - [18/Sep/2024 12:58:52] "GET /data HTTP/1.1" 200 -
+2024-09-18 12:58:53,930:INFO:127.0.0.1 - - [18/Sep/2024 12:58:53] "GET /data HTTP/1.1" 200 -
+2024-09-18 12:58:55,763:INFO:127.0.0.1 - - [18/Sep/2024 12:58:55] "GET /data HTTP/1.1" 200 -
+2024-09-18 13:00:29,198:INFO:Conexión exitosa. Versión de la base de datos: Microsoft SQL Server 2022 (RTM-GDR) (KB5042211) - 16.0.1125.1 (X64) 
+	Jul 31 2024 23:58:42 
+	Copyright (C) 2022 Microsoft Corporation
+	Express Edition (64-bit) on Windows 10 Home Single Language 10.0 <X64> (Build 22631: ) (Hypervisor)
+
+2024-09-18 13:00:29,218:INFO:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-09-18 13:00:29,218:INFO:[33mPress CTRL+C to quit[0m
+2024-09-18 13:00:29,219:INFO: * Restarting with stat
+2024-09-18 13:00:29,519:INFO:Conexión exitosa. Versión de la base de datos: Microsoft SQL Server 2022 (RTM-GDR) (KB5042211) - 16.0.1125.1 (X64) 
+	Jul 31 2024 23:58:42 
+	Copyright (C) 2022 Microsoft Corporation
+	Express Edition (64-bit) on Windows 10 Home Single Language 10.0 <X64> (Build 22631: ) (Hypervisor)
+
+2024-09-18 13:00:29,530:WARNING: * Debugger is active!
+2024-09-18 13:00:29,535:INFO: * Debugger PIN: 655-549-044
+2024-09-18 13:00:31,041:INFO:127.0.0.1 - - [18/Sep/2024 13:00:31] "GET /data HTTP/1.1" 200 -
+2024-09-18 13:00:31,045:INFO:127.0.0.1 - - [18/Sep/2024 13:00:31] "GET /data HTTP/1.1" 200 -
+2024-09-18 13:00:31,054:INFO:127.0.0.1 - - [18/Sep/2024 13:00:31] "GET /data HTTP/1.1" 200 -
+2024-09-18 13:00:31,062:INFO:127.0.0.1 - - [18/Sep/2024 13:00:31] "GET /data HTTP/1.1" 200 -
+2024-09-18 13:00:31,074:INFO:127.0.0.1 - - [18/Sep/2024 13:00:31] "GET /data HTTP/1.1" 200 -
+2024-09-18 13:00:31,087:INFO:127.0.0.1 - - [18/Sep/2024 13:00:31] "GET /data HTTP/1.1" 200 -
+2024-09-18 13:00:31,098:INFO:127.0.0.1 - - [18/Sep/2024 13:00:31] "GET /data HTTP/1.1" 200 -
+2024-09-18 13:00:32,061:INFO:127.0.0.1 - - [18/Sep/2024 13:00:32] "GET /data HTTP/1.1" 200 -
+2024-09-18 13:00:32,930:INFO:127.0.0.1 - - [18/Sep/2024 13:00:32] "GET /data HTTP/1.1" 200 -
+2024-09-18 13:00:34,764:INFO:127.0.0.1 - - [18/Sep/2024 13:00:34] "GET /data HTTP/1.1" 200 -
+2024-09-18 13:00:35,765:INFO:127.0.0.1 - - [18/Sep/2024 13:00:35] "GET /data HTTP/1.1" 200 -
+2024-09-18 13:01:10,872:INFO:Conexión exitosa. Versión de la base de datos: Microsoft SQL Server 2022 (RTM-GDR) (KB5042211) - 16.0.1125.1 (X64) 
+	Jul 31 2024 23:58:42 
+	Copyright (C) 2022 Microsoft Corporation
+	Express Edition (64-bit) on Windows 10 Home Single Language 10.0 <X64> (Build 22631: ) (Hypervisor)
+
+2024-09-18 13:01:10,894:INFO:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-09-18 13:01:10,894:INFO:[33mPress CTRL+C to quit[0m
+2024-09-18 13:01:10,895:INFO: * Restarting with stat
+2024-09-18 13:01:11,188:INFO:Conexión exitosa. Versión de la base de datos: Microsoft SQL Server 2022 (RTM-GDR) (KB5042211) - 16.0.1125.1 (X64) 
+	Jul 31 2024 23:58:42 
+	Copyright (C) 2022 Microsoft Corporation
+	Express Edition (64-bit) on Windows 10 Home Single Language 10.0 <X64> (Build 22631: ) (Hypervisor)
+
+2024-09-18 13:01:11,201:WARNING: * Debugger is active!
+2024-09-18 13:01:11,205:INFO: * Debugger PIN: 655-549-044
+2024-09-18 13:01:16,239:INFO:127.0.0.1 - - [18/Sep/2024 13:01:16] "GET /historical HTTP/1.1" 200 -
+2024-09-18 13:01:16,355:INFO:127.0.0.1 - - [18/Sep/2024 13:01:16] "GET /static/historical_data.js HTTP/1.1" 200 -
+2024-09-18 13:01:16,422:INFO:127.0.0.1 - - [18/Sep/2024 13:01:16] "GET /get_data HTTP/1.1" 200 -
+2024-09-18 13:01:17,427:INFO:127.0.0.1 - - [18/Sep/2024 13:01:17] "GET /get_data HTTP/1.1" 200 -
+2024-09-18 13:01:18,149:INFO:127.0.0.1 - - [18/Sep/2024 13:01:18] "GET / HTTP/1.1" 200 -
+2024-09-18 13:01:18,170:INFO:127.0.0.1 - - [18/Sep/2024 13:01:18] "[36mGET /static/script.js HTTP/1.1[0m" 304 -
+2024-09-18 13:01:18,306:INFO:127.0.0.1 - - [18/Sep/2024 13:01:18] "GET /get_data HTTP/1.1" 200 -
+2024-09-18 13:01:18,419:INFO:127.0.0.1 - - [18/Sep/2024 13:01:18] "GET /get_data HTTP/1.1" 200 -
+2024-09-18 13:01:19,317:INFO:127.0.0.1 - - [18/Sep/2024 13:01:19] "GET /data HTTP/1.1" 200 -
+2024-09-18 13:01:19,424:INFO:127.0.0.1 - - [18/Sep/2024 13:01:19] "GET /get_data HTTP/1.1" 200 -
+2024-09-18 13:01:20,320:INFO:127.0.0.1 - - [18/Sep/2024 13:01:20] "GET /data HTTP/1.1" 200 -
+2024-09-18 13:01:20,432:INFO:127.0.0.1 - - [18/Sep/2024 13:01:20] "GET /get_data HTTP/1.1" 200 -
+2024-09-18 13:01:21,319:INFO:127.0.0.1 - - [18/Sep/2024 13:01:21] "GET /data HTTP/1.1" 200 -
+2024-09-18 13:01:21,425:INFO:127.0.0.1 - - [18/Sep/2024 13:01:21] "GET /get_data HTTP/1.1" 200 -
+2024-09-18 13:01:22,311:INFO:127.0.0.1 - - [18/Sep/2024 13:01:22] "GET /data HTTP/1.1" 200 -
+2024-09-18 13:01:22,422:INFO:127.0.0.1 - - [18/Sep/2024 13:01:22] "GET /get_data HTTP/1.1" 200 -
+2024-09-18 13:01:23,321:INFO:127.0.0.1 - - [18/Sep/2024 13:01:23] "GET /data HTTP/1.1" 200 -
+2024-09-18 13:01:23,425:INFO:127.0.0.1 - - [18/Sep/2024 13:01:23] "GET /get_data HTTP/1.1" 200 -
+2024-09-18 13:01:24,311:INFO:127.0.0.1 - - [18/Sep/2024 13:01:24] "GET /data HTTP/1.1" 200 -
+2024-09-18 13:01:24,424:INFO:127.0.0.1 - - [18/Sep/2024 13:01:24] "GET /get_data HTTP/1.1" 200 -
+2024-09-18 13:01:25,311:INFO:127.0.0.1 - - [18/Sep/2024 13:01:25] "GET /data HTTP/1.1" 200 -
+2024-09-18 13:01:25,419:INFO:127.0.0.1 - - [18/Sep/2024 13:01:25] "GET /get_data HTTP/1.1" 200 -
+2024-09-18 13:01:26,316:INFO:127.0.0.1 - - [18/Sep/2024 13:01:26] "GET /data HTTP/1.1" 200 -
+2024-09-18 13:01:26,419:INFO:127.0.0.1 - - [18/Sep/2024 13:01:26] "GET /get_data HTTP/1.1" 200 -
+2024-09-18 13:01:27,766:INFO:127.0.0.1 - - [18/Sep/2024 13:01:27] "GET /data HTTP/1.1" 200 -
+2024-09-18 13:01:27,766:INFO:127.0.0.1 - - [18/Sep/2024 13:01:27] "GET /get_data HTTP/1.1" 200 -
+2024-09-18 13:01:28,763:INFO:127.0.0.1 - - [18/Sep/2024 13:01:28] "GET /data HTTP/1.1" 200 -
+2024-09-18 13:01:28,763:INFO:127.0.0.1 - - [18/Sep/2024 13:01:28] "GET /get_data HTTP/1.1" 200 -
+2024-09-18 13:01:29,766:INFO:127.0.0.1 - - [18/Sep/2024 13:01:29] "GET /get_data HTTP/1.1" 200 -
+2024-09-18 13:01:29,769:INFO:127.0.0.1 - - [18/Sep/2024 13:01:29] "GET /data HTTP/1.1" 200 -
+2024-09-18 13:01:30,771:INFO:127.0.0.1 - - [18/Sep/2024 13:01:30] "GET /get_data HTTP/1.1" 200 -
+2024-09-18 13:01:30,772:INFO:127.0.0.1 - - [18/Sep/2024 13:01:30] "GET /data HTTP/1.1" 200 -
+2024-09-18 13:01:31,771:INFO:127.0.0.1 - - [18/Sep/2024 13:01:31] "GET /get_data HTTP/1.1" 200 -
+2024-09-18 13:01:31,773:INFO:127.0.0.1 - - [18/Sep/2024 13:01:31] "GET /data HTTP/1.1" 200 -
+2024-09-18 13:01:32,310:INFO:127.0.0.1 - - [18/Sep/2024 13:01:32] "GET /data HTTP/1.1" 200 -
+2024-09-18 13:01:32,427:INFO:127.0.0.1 - - [18/Sep/2024 13:01:32] "GET /get_data HTTP/1.1" 200 -
+2024-09-18 13:01:33,078:INFO:127.0.0.1 - - [18/Sep/2024 13:01:33] "GET /historical HTTP/1.1" 200 -
+2024-09-18 13:01:33,093:INFO:127.0.0.1 - - [18/Sep/2024 13:01:33] "GET /static/historical_data.js HTTP/1.1" 200 -
+2024-09-18 13:01:33,321:INFO:127.0.0.1 - - [18/Sep/2024 13:01:33] "GET /data HTTP/1.1" 200 -
+2024-09-18 13:01:33,388:INFO:127.0.0.1 - - [18/Sep/2024 13:01:33] "GET /get_data HTTP/1.1" 200 -
+2024-09-18 13:01:34,324:INFO:127.0.0.1 - - [18/Sep/2024 13:01:34] "GET /data HTTP/1.1" 200 -
+2024-09-18 13:01:35,318:INFO:127.0.0.1 - - [18/Sep/2024 13:01:35] "GET /data HTTP/1.1" 200 -
+2024-09-18 13:01:36,311:INFO:127.0.0.1 - - [18/Sep/2024 13:01:36] "GET /data HTTP/1.1" 200 -
+2024-09-18 13:01:37,312:INFO:127.0.0.1 - - [18/Sep/2024 13:01:37] "GET /data HTTP/1.1" 200 -
+2024-09-18 13:01:38,309:INFO:127.0.0.1 - - [18/Sep/2024 13:01:38] "GET /data HTTP/1.1" 200 -
+2024-09-18 13:01:39,311:INFO:127.0.0.1 - - [18/Sep/2024 13:01:39] "GET /data HTTP/1.1" 200 -
+2024-09-18 13:01:40,307:INFO:127.0.0.1 - - [18/Sep/2024 13:01:40] "GET /data HTTP/1.1" 200 -
+2024-09-18 13:01:41,318:INFO:127.0.0.1 - - [18/Sep/2024 13:01:41] "GET /data HTTP/1.1" 200 -
+2024-09-18 13:01:42,315:INFO:127.0.0.1 - - [18/Sep/2024 13:01:42] "GET /data HTTP/1.1" 200 -
+2024-09-18 13:01:43,310:INFO:127.0.0.1 - - [18/Sep/2024 13:01:43] "GET /data HTTP/1.1" 200 -
+2024-09-18 13:01:43,390:INFO:127.0.0.1 - - [18/Sep/2024 13:01:43] "GET /get_data HTTP/1.1" 200 -
+2024-09-18 13:01:44,311:INFO:127.0.0.1 - - [18/Sep/2024 13:01:44] "GET /data HTTP/1.1" 200 -
+2024-09-18 13:01:45,307:INFO:127.0.0.1 - - [18/Sep/2024 13:01:45] "GET /data HTTP/1.1" 200 -
+2024-09-18 13:01:46,318:INFO:127.0.0.1 - - [18/Sep/2024 13:01:46] "GET /data HTTP/1.1" 200 -
+2024-09-18 13:01:47,322:INFO:127.0.0.1 - - [18/Sep/2024 13:01:47] "GET /data HTTP/1.1" 200 -
+2024-09-18 13:01:48,316:INFO:127.0.0.1 - - [18/Sep/2024 13:01:48] "GET /data HTTP/1.1" 200 -
+2024-09-18 13:01:49,319:INFO:127.0.0.1 - - [18/Sep/2024 13:01:49] "GET /data HTTP/1.1" 200 -
+2024-09-18 13:01:50,316:INFO:127.0.0.1 - - [18/Sep/2024 13:01:50] "GET /data HTTP/1.1" 200 -
+2024-09-18 13:01:51,319:INFO:127.0.0.1 - - [18/Sep/2024 13:01:51] "GET /data HTTP/1.1" 200 -
+2024-09-18 13:01:52,320:INFO:127.0.0.1 - - [18/Sep/2024 13:01:52] "GET /data HTTP/1.1" 200 -
+2024-09-18 13:01:53,320:INFO:127.0.0.1 - - [18/Sep/2024 13:01:53] "GET /data HTTP/1.1" 200 -
+2024-09-18 13:01:53,390:INFO:127.0.0.1 - - [18/Sep/2024 13:01:53] "GET /get_data HTTP/1.1" 200 -
+2024-09-18 13:01:54,312:INFO:127.0.0.1 - - [18/Sep/2024 13:01:54] "GET /data HTTP/1.1" 200 -
+2024-09-18 13:01:55,307:INFO:127.0.0.1 - - [18/Sep/2024 13:01:55] "GET /data HTTP/1.1" 200 -
+2024-09-18 13:01:56,323:INFO:127.0.0.1 - - [18/Sep/2024 13:01:56] "GET /data HTTP/1.1" 200 -
+2024-09-18 13:01:57,317:INFO:127.0.0.1 - - [18/Sep/2024 13:01:57] "GET /data HTTP/1.1" 200 -
+2024-09-18 13:01:58,314:INFO:127.0.0.1 - - [18/Sep/2024 13:01:58] "GET /data HTTP/1.1" 200 -
+2024-09-18 13:01:59,312:INFO:127.0.0.1 - - [18/Sep/2024 13:01:59] "GET /data HTTP/1.1" 200 -
+2024-09-18 13:02:00,318:INFO:127.0.0.1 - - [18/Sep/2024 13:02:00] "GET /data HTTP/1.1" 200 -
+2024-09-18 13:02:01,315:INFO:127.0.0.1 - - [18/Sep/2024 13:02:01] "GET /data HTTP/1.1" 200 -
+2024-09-18 13:02:02,310:INFO:127.0.0.1 - - [18/Sep/2024 13:02:02] "GET /data HTTP/1.1" 200 -
+2024-09-18 13:02:03,310:INFO:127.0.0.1 - - [18/Sep/2024 13:02:03] "GET /data HTTP/1.1" 200 -
+2024-09-18 13:02:03,390:INFO:127.0.0.1 - - [18/Sep/2024 13:02:03] "GET /get_data HTTP/1.1" 200 -
+2024-09-18 13:02:04,312:INFO:127.0.0.1 - - [18/Sep/2024 13:02:04] "GET /data HTTP/1.1" 200 -
+2024-09-18 13:02:05,320:INFO:127.0.0.1 - - [18/Sep/2024 13:02:05] "GET /data HTTP/1.1" 200 -
+2024-09-18 13:02:06,308:INFO:127.0.0.1 - - [18/Sep/2024 13:02:06] "GET /data HTTP/1.1" 200 -
+2024-09-18 13:02:07,311:INFO:127.0.0.1 - - [18/Sep/2024 13:02:07] "GET /data HTTP/1.1" 200 -
+2024-09-18 13:02:08,320:INFO:127.0.0.1 - - [18/Sep/2024 13:02:08] "GET /data HTTP/1.1" 200 -
+2024-09-18 13:02:09,321:INFO:127.0.0.1 - - [18/Sep/2024 13:02:09] "GET /data HTTP/1.1" 200 -
+2024-09-18 13:02:10,314:INFO:127.0.0.1 - - [18/Sep/2024 13:02:10] "GET /data HTTP/1.1" 200 -
+2024-09-18 13:02:11,309:INFO:127.0.0.1 - - [18/Sep/2024 13:02:11] "GET /data HTTP/1.1" 200 -
+2024-09-18 13:02:12,317:INFO:127.0.0.1 - - [18/Sep/2024 13:02:12] "GET /data HTTP/1.1" 200 -
+2024-09-18 13:02:13,321:INFO:127.0.0.1 - - [18/Sep/2024 13:02:13] "GET /data HTTP/1.1" 200 -
+2024-09-18 13:02:13,386:INFO:127.0.0.1 - - [18/Sep/2024 13:02:13] "GET /get_data HTTP/1.1" 200 -
+2024-09-18 13:02:14,310:INFO:127.0.0.1 - - [18/Sep/2024 13:02:14] "GET /data HTTP/1.1" 200 -
+2024-09-18 13:02:15,320:INFO:127.0.0.1 - - [18/Sep/2024 13:02:15] "GET /data HTTP/1.1" 200 -
+2024-09-18 13:02:16,313:INFO:127.0.0.1 - - [18/Sep/2024 13:02:16] "GET /data HTTP/1.1" 200 -
+2024-09-18 13:02:17,321:INFO:127.0.0.1 - - [18/Sep/2024 13:02:17] "GET /data HTTP/1.1" 200 -
+2024-09-18 13:02:18,313:INFO:127.0.0.1 - - [18/Sep/2024 13:02:18] "GET /data HTTP/1.1" 200 -
+2024-09-18 13:02:19,309:INFO:127.0.0.1 - - [18/Sep/2024 13:02:19] "GET /data HTTP/1.1" 200 -
+2024-09-18 13:02:20,309:INFO:127.0.0.1 - - [18/Sep/2024 13:02:20] "GET /data HTTP/1.1" 200 -
+2024-09-18 13:02:21,312:INFO:127.0.0.1 - - [18/Sep/2024 13:02:21] "GET /data HTTP/1.1" 200 -
+2024-09-18 13:02:22,323:INFO:127.0.0.1 - - [18/Sep/2024 13:02:22] "GET /data HTTP/1.1" 200 -
+2024-09-18 13:02:23,311:INFO:127.0.0.1 - - [18/Sep/2024 13:02:23] "GET /data HTTP/1.1" 200 -
+2024-09-18 13:02:23,392:INFO:127.0.0.1 - - [18/Sep/2024 13:02:23] "GET /get_data HTTP/1.1" 200 -
+2024-09-18 13:02:24,319:INFO:127.0.0.1 - - [18/Sep/2024 13:02:24] "GET /data HTTP/1.1" 200 -
+2024-09-18 13:02:25,323:INFO:127.0.0.1 - - [18/Sep/2024 13:02:25] "GET /data HTTP/1.1" 200 -
+2024-09-18 13:02:26,318:INFO:127.0.0.1 - - [18/Sep/2024 13:02:26] "GET /data HTTP/1.1" 200 -
+2024-09-18 13:02:27,323:INFO:127.0.0.1 - - [18/Sep/2024 13:02:27] "GET /data HTTP/1.1" 200 -
+2024-09-18 13:02:28,311:INFO:127.0.0.1 - - [18/Sep/2024 13:02:28] "GET /data HTTP/1.1" 200 -
+2024-09-18 13:02:29,769:INFO:127.0.0.1 - - [18/Sep/2024 13:02:29] "GET /data HTTP/1.1" 200 -
+2024-09-18 13:02:30,762:INFO:127.0.0.1 - - [18/Sep/2024 13:02:30] "GET /data HTTP/1.1" 200 -
+2024-09-18 13:02:31,767:INFO:127.0.0.1 - - [18/Sep/2024 13:02:31] "GET /data HTTP/1.1" 200 -
+2024-09-18 13:02:32,774:INFO:127.0.0.1 - - [18/Sep/2024 13:02:32] "GET /data HTTP/1.1" 200 -
+2024-09-18 13:02:33,770:INFO:127.0.0.1 - - [18/Sep/2024 13:02:33] "GET /get_data HTTP/1.1" 200 -
+2024-09-18 13:02:33,787:INFO:127.0.0.1 - - [18/Sep/2024 13:02:33] "GET /data HTTP/1.1" 200 -
+2024-09-18 13:02:34,782:INFO:127.0.0.1 - - [18/Sep/2024 13:02:34] "GET /data HTTP/1.1" 200 -
+2024-09-18 13:02:35,767:INFO:127.0.0.1 - - [18/Sep/2024 13:02:35] "GET /data HTTP/1.1" 200 -
+2024-09-18 13:02:36,771:INFO:127.0.0.1 - - [18/Sep/2024 13:02:36] "GET /data HTTP/1.1" 200 -
+2024-09-18 13:02:37,778:INFO:127.0.0.1 - - [18/Sep/2024 13:02:37] "GET /data HTTP/1.1" 200 -
+2024-09-18 13:02:38,764:INFO:127.0.0.1 - - [18/Sep/2024 13:02:38] "GET /data HTTP/1.1" 200 -
+2024-09-18 13:02:39,765:INFO:127.0.0.1 - - [18/Sep/2024 13:02:39] "GET /data HTTP/1.1" 200 -
+2024-09-18 13:02:40,778:INFO:127.0.0.1 - - [18/Sep/2024 13:02:40] "GET /data HTTP/1.1" 200 -
+2024-09-18 13:02:41,771:INFO:127.0.0.1 - - [18/Sep/2024 13:02:41] "GET /data HTTP/1.1" 200 -
+2024-09-18 13:02:42,763:INFO:127.0.0.1 - - [18/Sep/2024 13:02:42] "GET /data HTTP/1.1" 200 -
+2024-09-18 13:02:43,320:INFO:127.0.0.1 - - [18/Sep/2024 13:02:43] "GET /data HTTP/1.1" 200 -
+2024-09-18 13:02:43,388:INFO:127.0.0.1 - - [18/Sep/2024 13:02:43] "GET /get_data HTTP/1.1" 200 -
+2024-09-18 13:02:44,319:INFO:127.0.0.1 - - [18/Sep/2024 13:02:44] "GET /data HTTP/1.1" 200 -
+2024-09-18 13:02:45,319:INFO:127.0.0.1 - - [18/Sep/2024 13:02:45] "GET /data HTTP/1.1" 200 -
+2024-09-18 13:02:46,309:INFO:127.0.0.1 - - [18/Sep/2024 13:02:46] "GET /data HTTP/1.1" 200 -
+2024-09-18 13:02:47,314:INFO:127.0.0.1 - - [18/Sep/2024 13:02:47] "GET /data HTTP/1.1" 200 -
+2024-09-18 13:02:48,324:INFO:127.0.0.1 - - [18/Sep/2024 13:02:48] "GET /data HTTP/1.1" 200 -
+2024-09-18 13:02:49,323:INFO:127.0.0.1 - - [18/Sep/2024 13:02:49] "GET /data HTTP/1.1" 200 -
+2024-09-18 13:02:50,313:INFO:127.0.0.1 - - [18/Sep/2024 13:02:50] "GET /data HTTP/1.1" 200 -
+2024-09-18 13:02:51,318:INFO:127.0.0.1 - - [18/Sep/2024 13:02:51] "GET /data HTTP/1.1" 200 -
+2024-09-18 13:02:52,326:INFO:127.0.0.1 - - [18/Sep/2024 13:02:52] "GET /data HTTP/1.1" 200 -
+2024-09-18 13:02:53,331:INFO:127.0.0.1 - - [18/Sep/2024 13:02:53] "GET /data HTTP/1.1" 200 -
+2024-09-18 13:02:53,395:INFO:127.0.0.1 - - [18/Sep/2024 13:02:53] "GET /get_data HTTP/1.1" 200 -
+2024-09-18 13:02:54,332:INFO:127.0.0.1 - - [18/Sep/2024 13:02:54] "GET /data HTTP/1.1" 200 -
+2024-09-18 13:02:55,339:INFO:127.0.0.1 - - [18/Sep/2024 13:02:55] "GET /data HTTP/1.1" 200 -
+2024-09-18 13:02:56,313:INFO:127.0.0.1 - - [18/Sep/2024 13:02:56] "GET /data HTTP/1.1" 200 -
+2024-09-18 13:02:57,345:INFO:127.0.0.1 - - [18/Sep/2024 13:02:57] "GET /data HTTP/1.1" 200 -
+2024-09-18 13:02:58,324:INFO:127.0.0.1 - - [18/Sep/2024 13:02:58] "GET /data HTTP/1.1" 200 -
+2024-09-18 13:02:59,310:INFO:127.0.0.1 - - [18/Sep/2024 13:02:59] "GET /data HTTP/1.1" 200 -
+2024-09-18 13:03:00,329:INFO:127.0.0.1 - - [18/Sep/2024 13:03:00] "GET /data HTTP/1.1" 200 -
+2024-09-18 13:03:01,323:INFO:127.0.0.1 - - [18/Sep/2024 13:03:01] "GET /data HTTP/1.1" 200 -
+2024-09-18 13:03:02,323:INFO:127.0.0.1 - - [18/Sep/2024 13:03:02] "GET /data HTTP/1.1" 200 -
+2024-09-18 13:03:03,318:INFO:127.0.0.1 - - [18/Sep/2024 13:03:03] "GET /data HTTP/1.1" 200 -
+2024-09-18 13:03:03,403:INFO:127.0.0.1 - - [18/Sep/2024 13:03:03] "GET /get_data HTTP/1.1" 200 -
+2024-09-18 13:03:04,325:INFO:127.0.0.1 - - [18/Sep/2024 13:03:04] "GET /data HTTP/1.1" 200 -
+2024-09-18 13:03:05,321:INFO:127.0.0.1 - - [18/Sep/2024 13:03:05] "GET /data HTTP/1.1" 200 -
+2024-09-18 13:03:06,316:INFO:127.0.0.1 - - [18/Sep/2024 13:03:06] "GET /data HTTP/1.1" 200 -
+2024-09-18 13:03:07,317:INFO:127.0.0.1 - - [18/Sep/2024 13:03:07] "GET /data HTTP/1.1" 200 -
+2024-09-18 13:03:08,316:INFO:127.0.0.1 - - [18/Sep/2024 13:03:08] "GET /data HTTP/1.1" 200 -
+2024-09-18 13:03:09,313:INFO:127.0.0.1 - - [18/Sep/2024 13:03:09] "GET /data HTTP/1.1" 200 -
+2024-09-18 13:03:10,313:INFO:127.0.0.1 - - [18/Sep/2024 13:03:10] "GET /data HTTP/1.1" 200 -
+2024-09-18 13:03:11,317:INFO:127.0.0.1 - - [18/Sep/2024 13:03:11] "GET /data HTTP/1.1" 200 -
+2024-09-18 13:03:12,329:INFO:127.0.0.1 - - [18/Sep/2024 13:03:12] "GET /data HTTP/1.1" 200 -
+2024-09-18 13:03:13,321:INFO:127.0.0.1 - - [18/Sep/2024 13:03:13] "GET /data HTTP/1.1" 200 -
+2024-09-18 13:03:13,392:INFO:127.0.0.1 - - [18/Sep/2024 13:03:13] "GET /get_data HTTP/1.1" 200 -
+2024-09-18 13:03:14,324:INFO:127.0.0.1 - - [18/Sep/2024 13:03:14] "GET /data HTTP/1.1" 200 -
+2024-09-18 13:03:15,325:INFO:127.0.0.1 - - [18/Sep/2024 13:03:15] "GET /data HTTP/1.1" 200 -
+2024-09-18 13:03:16,321:INFO:127.0.0.1 - - [18/Sep/2024 13:03:16] "GET /data HTTP/1.1" 200 -
+2024-09-18 13:03:17,323:INFO:127.0.0.1 - - [18/Sep/2024 13:03:17] "GET /data HTTP/1.1" 200 -
+2024-09-18 13:03:18,316:INFO:127.0.0.1 - - [18/Sep/2024 13:03:18] "GET /data HTTP/1.1" 200 -
+2024-09-18 13:03:19,317:INFO:127.0.0.1 - - [18/Sep/2024 13:03:19] "GET /data HTTP/1.1" 200 -
+2024-09-18 13:03:20,319:INFO:127.0.0.1 - - [18/Sep/2024 13:03:20] "GET /data HTTP/1.1" 200 -
+2024-09-18 13:03:21,313:INFO:127.0.0.1 - - [18/Sep/2024 13:03:21] "GET /data HTTP/1.1" 200 -
+2024-09-18 13:03:22,312:INFO:127.0.0.1 - - [18/Sep/2024 13:03:22] "GET /data HTTP/1.1" 200 -
+2024-09-18 13:03:23,313:INFO:127.0.0.1 - - [18/Sep/2024 13:03:23] "GET /data HTTP/1.1" 200 -
+2024-09-18 13:03:23,410:INFO:127.0.0.1 - - [18/Sep/2024 13:03:23] "GET /get_data HTTP/1.1" 200 -
+2024-09-18 13:03:24,317:INFO:127.0.0.1 - - [18/Sep/2024 13:03:24] "GET /data HTTP/1.1" 200 -
+2024-09-18 13:03:25,314:INFO:127.0.0.1 - - [18/Sep/2024 13:03:25] "GET /data HTTP/1.1" 200 -
+2024-09-18 13:03:26,318:INFO:127.0.0.1 - - [18/Sep/2024 13:03:26] "GET /data HTTP/1.1" 200 -
+2024-09-18 13:03:27,321:INFO:127.0.0.1 - - [18/Sep/2024 13:03:27] "GET /data HTTP/1.1" 200 -
+2024-09-18 13:03:28,320:INFO:127.0.0.1 - - [18/Sep/2024 13:03:28] "GET /data HTTP/1.1" 200 -
+2024-09-18 13:03:29,315:INFO:127.0.0.1 - - [18/Sep/2024 13:03:29] "GET /data HTTP/1.1" 200 -
+2024-09-18 13:03:30,309:INFO:127.0.0.1 - - [18/Sep/2024 13:03:30] "GET /data HTTP/1.1" 200 -
+2024-09-18 13:03:31,318:INFO:127.0.0.1 - - [18/Sep/2024 13:03:31] "GET /data HTTP/1.1" 200 -
+2024-09-18 13:03:32,313:INFO:127.0.0.1 - - [18/Sep/2024 13:03:32] "GET /data HTTP/1.1" 200 -
+2024-09-18 13:03:33,320:INFO:127.0.0.1 - - [18/Sep/2024 13:03:33] "GET /data HTTP/1.1" 200 -
+2024-09-18 13:03:33,400:INFO:127.0.0.1 - - [18/Sep/2024 13:03:33] "GET /get_data HTTP/1.1" 200 -
+2024-09-18 13:03:34,315:INFO:127.0.0.1 - - [18/Sep/2024 13:03:34] "GET /data HTTP/1.1" 200 -
+2024-09-18 13:03:35,318:INFO:127.0.0.1 - - [18/Sep/2024 13:03:35] "GET /data HTTP/1.1" 200 -
+2024-09-18 13:03:36,770:INFO:127.0.0.1 - - [18/Sep/2024 13:03:36] "GET /data HTTP/1.1" 200 -
+2024-09-18 13:04:45,400:INFO:Conexión exitosa. Versión de la base de datos: Microsoft SQL Server 2022 (RTM-GDR) (KB5042211) - 16.0.1125.1 (X64) 
+	Jul 31 2024 23:58:42 
+	Copyright (C) 2022 Microsoft Corporation
+	Express Edition (64-bit) on Windows 10 Home Single Language 10.0 <X64> (Build 22631: ) (Hypervisor)
+
+2024-09-18 13:04:45,427:INFO:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-09-18 13:04:45,427:INFO:[33mPress CTRL+C to quit[0m
+2024-09-18 13:04:45,428:INFO: * Restarting with stat
+2024-09-18 13:04:45,770:INFO:Conexión exitosa. Versión de la base de datos: Microsoft SQL Server 2022 (RTM-GDR) (KB5042211) - 16.0.1125.1 (X64) 
+	Jul 31 2024 23:58:42 
+	Copyright (C) 2022 Microsoft Corporation
+	Express Edition (64-bit) on Windows 10 Home Single Language 10.0 <X64> (Build 22631: ) (Hypervisor)
+
+2024-09-18 13:04:45,785:WARNING: * Debugger is active!
+2024-09-18 13:04:45,790:INFO: * Debugger PIN: 655-549-044
+2024-09-18 13:04:51,695:INFO:127.0.0.1 - - [18/Sep/2024 13:04:51] "GET /historical HTTP/1.1" 200 -
+2024-09-18 13:04:51,934:INFO:127.0.0.1 - - [18/Sep/2024 13:04:51] "[36mGET /static/historical_data.js HTTP/1.1[0m" 304 -
+2024-09-18 13:04:52,182:INFO:127.0.0.1 - - [18/Sep/2024 13:04:52] "GET /get_data HTTP/1.1" 200 -
+2024-09-18 13:04:58,726:INFO:127.0.0.1 - - [18/Sep/2024 13:04:58] "GET / HTTP/1.1" 200 -
+2024-09-18 13:04:58,747:INFO:127.0.0.1 - - [18/Sep/2024 13:04:58] "[36mGET /static/script.js HTTP/1.1[0m" 304 -
+2024-09-18 13:04:58,862:INFO:127.0.0.1 - - [18/Sep/2024 13:04:58] "GET /get_data HTTP/1.1" 200 -
+2024-09-18 13:04:59,875:INFO:127.0.0.1 - - [18/Sep/2024 13:04:59] "GET /data HTTP/1.1" 200 -
+2024-09-18 13:05:00,876:INFO:127.0.0.1 - - [18/Sep/2024 13:05:00] "GET /data HTTP/1.1" 200 -
+2024-09-18 13:05:01,870:INFO:127.0.0.1 - - [18/Sep/2024 13:05:01] "GET /data HTTP/1.1" 200 -
+2024-09-18 13:05:02,866:INFO:127.0.0.1 - - [18/Sep/2024 13:05:02] "GET /data HTTP/1.1" 200 -
+2024-09-18 13:05:03,866:INFO:127.0.0.1 - - [18/Sep/2024 13:05:03] "GET /data HTTP/1.1" 200 -
+2024-09-18 13:05:04,873:INFO:127.0.0.1 - - [18/Sep/2024 13:05:04] "GET /data HTTP/1.1" 200 -
+2024-09-18 13:05:05,862:INFO:127.0.0.1 - - [18/Sep/2024 13:05:05] "GET /data HTTP/1.1" 200 -
+2024-09-18 13:05:06,867:INFO:127.0.0.1 - - [18/Sep/2024 13:05:06] "GET /data HTTP/1.1" 200 -
+2024-09-18 13:05:07,863:INFO:127.0.0.1 - - [18/Sep/2024 13:05:07] "GET /data HTTP/1.1" 200 -
+2024-09-18 13:05:08,867:INFO:127.0.0.1 - - [18/Sep/2024 13:05:08] "GET /data HTTP/1.1" 200 -
+2024-09-18 13:05:09,877:INFO:127.0.0.1 - - [18/Sep/2024 13:05:09] "GET /data HTTP/1.1" 200 -
+2024-09-18 13:05:10,864:INFO:127.0.0.1 - - [18/Sep/2024 13:05:10] "GET /data HTTP/1.1" 200 -
+2024-09-18 13:05:11,872:INFO:127.0.0.1 - - [18/Sep/2024 13:05:11] "GET /data HTTP/1.1" 200 -
+2024-09-18 13:05:12,867:INFO:127.0.0.1 - - [18/Sep/2024 13:05:12] "GET /data HTTP/1.1" 200 -
+2024-09-18 13:05:13,867:INFO:127.0.0.1 - - [18/Sep/2024 13:05:13] "GET /data HTTP/1.1" 200 -
+2024-09-18 13:05:14,868:INFO:127.0.0.1 - - [18/Sep/2024 13:05:14] "GET /data HTTP/1.1" 200 -
+2024-09-18 13:05:15,870:INFO:127.0.0.1 - - [18/Sep/2024 13:05:15] "GET /data HTTP/1.1" 200 -
+2024-09-18 13:05:16,868:INFO:127.0.0.1 - - [18/Sep/2024 13:05:16] "GET /data HTTP/1.1" 200 -
+2024-09-18 13:05:17,868:INFO:127.0.0.1 - - [18/Sep/2024 13:05:17] "GET /data HTTP/1.1" 200 -
+2024-09-18 13:05:18,875:INFO:127.0.0.1 - - [18/Sep/2024 13:05:18] "GET /data HTTP/1.1" 200 -
+2024-09-18 13:05:20,779:INFO:127.0.0.1 - - [18/Sep/2024 13:05:20] "GET /data HTTP/1.1" 200 -
+2024-09-18 13:05:21,776:INFO:127.0.0.1 - - [18/Sep/2024 13:05:21] "GET /data HTTP/1.1" 200 -
+2024-09-18 13:05:22,774:INFO:127.0.0.1 - - [18/Sep/2024 13:05:22] "GET /data HTTP/1.1" 200 -
+2024-09-18 13:05:23,770:INFO:127.0.0.1 - - [18/Sep/2024 13:05:23] "GET /data HTTP/1.1" 200 -
+2024-09-18 13:05:24,078:INFO:127.0.0.1 - - [18/Sep/2024 13:05:24] "GET /historical HTTP/1.1" 200 -
+2024-09-18 13:05:24,126:INFO:127.0.0.1 - - [18/Sep/2024 13:05:24] "[36mGET /static/historical_data.js HTTP/1.1[0m" 304 -
+2024-09-18 13:05:24,278:INFO:127.0.0.1 - - [18/Sep/2024 13:05:24] "GET /get_data HTTP/1.1" 200 -
+2024-09-18 13:05:24,776:INFO:127.0.0.1 - - [18/Sep/2024 13:05:24] "GET /data HTTP/1.1" 200 -
+2024-09-18 13:05:25,780:INFO:127.0.0.1 - - [18/Sep/2024 13:05:25] "GET /data HTTP/1.1" 200 -
+2024-09-18 13:05:26,769:INFO:127.0.0.1 - - [18/Sep/2024 13:05:26] "GET /data HTTP/1.1" 200 -
+2024-09-18 13:05:27,781:INFO:127.0.0.1 - - [18/Sep/2024 13:05:27] "GET /data HTTP/1.1" 200 -
+2024-09-18 13:05:28,774:INFO:127.0.0.1 - - [18/Sep/2024 13:05:28] "GET /data HTTP/1.1" 200 -
+2024-09-18 13:05:29,769:INFO:127.0.0.1 - - [18/Sep/2024 13:05:29] "GET /data HTTP/1.1" 200 -
+2024-09-18 13:05:30,766:INFO:127.0.0.1 - - [18/Sep/2024 13:05:30] "GET /data HTTP/1.1" 200 -
+2024-09-18 13:05:31,760:INFO:127.0.0.1 - - [18/Sep/2024 13:05:31] "GET /data HTTP/1.1" 200 -
+2024-09-18 13:05:32,781:INFO:127.0.0.1 - - [18/Sep/2024 13:05:32] "GET /data HTTP/1.1" 200 -
+2024-09-18 13:05:33,764:INFO:127.0.0.1 - - [18/Sep/2024 13:05:33] "GET /data HTTP/1.1" 200 -
+2024-09-18 13:05:34,277:INFO:127.0.0.1 - - [18/Sep/2024 13:05:34] "GET /get_data HTTP/1.1" 200 -
+2024-09-18 13:05:34,779:INFO:127.0.0.1 - - [18/Sep/2024 13:05:34] "GET /data HTTP/1.1" 200 -
+2024-09-18 13:05:35,770:INFO:127.0.0.1 - - [18/Sep/2024 13:05:35] "GET /data HTTP/1.1" 200 -
+2024-09-18 13:05:36,759:INFO:127.0.0.1 - - [18/Sep/2024 13:05:36] "GET /data HTTP/1.1" 200 -
+2024-09-18 13:05:37,781:INFO:127.0.0.1 - - [18/Sep/2024 13:05:37] "GET /data HTTP/1.1" 200 -
+2024-09-18 13:05:38,772:INFO:127.0.0.1 - - [18/Sep/2024 13:05:38] "GET /data HTTP/1.1" 200 -
+2024-09-18 13:05:39,770:INFO:127.0.0.1 - - [18/Sep/2024 13:05:39] "GET /data HTTP/1.1" 200 -
+2024-09-18 13:05:40,795:INFO:127.0.0.1 - - [18/Sep/2024 13:05:40] "GET /data HTTP/1.1" 200 -
+2024-09-18 13:05:41,774:INFO:127.0.0.1 - - [18/Sep/2024 13:05:41] "GET /data HTTP/1.1" 200 -
+2024-09-18 13:05:42,774:INFO:127.0.0.1 - - [18/Sep/2024 13:05:42] "GET /data HTTP/1.1" 200 -
+2024-09-18 13:05:43,773:INFO:127.0.0.1 - - [18/Sep/2024 13:05:43] "GET /data HTTP/1.1" 200 -
+2024-09-18 13:05:44,774:INFO:127.0.0.1 - - [18/Sep/2024 13:05:44] "GET /get_data HTTP/1.1" 200 -
+2024-09-18 13:05:44,776:INFO:127.0.0.1 - - [18/Sep/2024 13:05:44] "GET /data HTTP/1.1" 200 -
+2024-09-18 13:05:45,774:INFO:127.0.0.1 - - [18/Sep/2024 13:05:45] "GET /data HTTP/1.1" 200 -
+2024-09-18 13:05:46,772:INFO:127.0.0.1 - - [18/Sep/2024 13:05:46] "GET /data HTTP/1.1" 200 -
+2024-09-18 13:05:47,763:INFO:127.0.0.1 - - [18/Sep/2024 13:05:47] "GET /data HTTP/1.1" 200 -
+2024-09-18 13:05:48,773:INFO:127.0.0.1 - - [18/Sep/2024 13:05:48] "GET /data HTTP/1.1" 200 -
+2024-09-18 13:05:49,782:INFO:127.0.0.1 - - [18/Sep/2024 13:05:49] "GET /data HTTP/1.1" 200 -
+2024-09-18 13:05:50,772:INFO:127.0.0.1 - - [18/Sep/2024 13:05:50] "GET /data HTTP/1.1" 200 -
+2024-09-18 13:05:51,775:INFO:127.0.0.1 - - [18/Sep/2024 13:05:51] "GET /data HTTP/1.1" 200 -
+2024-09-18 13:05:52,767:INFO:127.0.0.1 - - [18/Sep/2024 13:05:52] "GET /data HTTP/1.1" 200 -
+2024-09-18 13:05:53,769:INFO:127.0.0.1 - - [18/Sep/2024 13:05:53] "GET /data HTTP/1.1" 200 -
+2024-09-18 13:05:54,771:INFO:127.0.0.1 - - [18/Sep/2024 13:05:54] "GET /get_data HTTP/1.1" 200 -
+2024-09-18 13:05:54,773:INFO:127.0.0.1 - - [18/Sep/2024 13:05:54] "GET /data HTTP/1.1" 200 -
+2024-09-18 13:05:55,768:INFO:127.0.0.1 - - [18/Sep/2024 13:05:55] "GET /data HTTP/1.1" 200 -
+2024-09-18 13:05:56,768:INFO:127.0.0.1 - - [18/Sep/2024 13:05:56] "GET /data HTTP/1.1" 200 -
+2024-09-18 13:05:57,767:INFO:127.0.0.1 - - [18/Sep/2024 13:05:57] "GET /data HTTP/1.1" 200 -
+2024-09-18 13:05:58,763:INFO:127.0.0.1 - - [18/Sep/2024 13:05:58] "GET /data HTTP/1.1" 200 -
+2024-09-18 13:05:59,762:INFO:127.0.0.1 - - [18/Sep/2024 13:05:59] "GET /data HTTP/1.1" 200 -
+2024-09-18 13:06:00,766:INFO:127.0.0.1 - - [18/Sep/2024 13:06:00] "GET /data HTTP/1.1" 200 -
+2024-09-18 13:06:01,765:INFO:127.0.0.1 - - [18/Sep/2024 13:06:01] "GET /data HTTP/1.1" 200 -
+2024-09-18 13:06:02,780:INFO:127.0.0.1 - - [18/Sep/2024 13:06:02] "GET /data HTTP/1.1" 200 -
+2024-09-18 13:06:03,765:INFO:127.0.0.1 - - [18/Sep/2024 13:06:03] "GET /data HTTP/1.1" 200 -
+2024-09-18 13:06:04,748:INFO:127.0.0.1 - - [18/Sep/2024 13:06:04] "GET /get_data HTTP/1.1" 200 -
+2024-09-18 13:06:04,784:INFO:127.0.0.1 - - [18/Sep/2024 13:06:04] "GET /data HTTP/1.1" 200 -
+2024-09-18 13:06:05,783:INFO:127.0.0.1 - - [18/Sep/2024 13:06:05] "GET /data HTTP/1.1" 200 -
+2024-09-18 13:06:06,770:INFO:127.0.0.1 - - [18/Sep/2024 13:06:06] "GET /data HTTP/1.1" 200 -
+2024-09-18 13:06:07,774:INFO:127.0.0.1 - - [18/Sep/2024 13:06:07] "GET /data HTTP/1.1" 200 -
+2024-09-18 13:06:08,775:INFO:127.0.0.1 - - [18/Sep/2024 13:06:08] "GET /data HTTP/1.1" 200 -
+2024-09-18 13:06:09,776:INFO:127.0.0.1 - - [18/Sep/2024 13:06:09] "GET /data HTTP/1.1" 200 -
+2024-09-18 13:06:10,770:INFO:127.0.0.1 - - [18/Sep/2024 13:06:10] "GET /data HTTP/1.1" 200 -
+2024-09-18 13:06:11,775:INFO:127.0.0.1 - - [18/Sep/2024 13:06:11] "GET /data HTTP/1.1" 200 -
+2024-09-18 13:06:12,766:INFO:127.0.0.1 - - [18/Sep/2024 13:06:12] "GET /data HTTP/1.1" 200 -
+2024-09-18 13:06:13,780:INFO:127.0.0.1 - - [18/Sep/2024 13:06:13] "GET /data HTTP/1.1" 200 -
+2024-09-18 13:06:14,299:INFO:127.0.0.1 - - [18/Sep/2024 13:06:14] "GET /get_data HTTP/1.1" 200 -
+2024-09-18 13:06:14,776:INFO:127.0.0.1 - - [18/Sep/2024 13:06:14] "GET /data HTTP/1.1" 200 -
+2024-09-18 13:06:15,765:INFO:127.0.0.1 - - [18/Sep/2024 13:06:15] "GET /data HTTP/1.1" 200 -
+2024-09-18 13:06:16,775:INFO:127.0.0.1 - - [18/Sep/2024 13:06:16] "GET /data HTTP/1.1" 200 -
+2024-09-18 13:06:17,782:INFO:127.0.0.1 - - [18/Sep/2024 13:06:17] "GET /data HTTP/1.1" 200 -
+2024-09-18 13:06:18,783:INFO:127.0.0.1 - - [18/Sep/2024 13:06:18] "GET /data HTTP/1.1" 200 -
+2024-09-18 13:06:19,765:INFO:127.0.0.1 - - [18/Sep/2024 13:06:19] "GET /data HTTP/1.1" 200 -
+2024-09-18 13:06:20,775:INFO:127.0.0.1 - - [18/Sep/2024 13:06:20] "GET /data HTTP/1.1" 200 -
+2024-09-18 13:06:21,777:INFO:127.0.0.1 - - [18/Sep/2024 13:06:21] "GET /data HTTP/1.1" 200 -
