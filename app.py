@@ -9,7 +9,27 @@ Registros = []
 
 app = Flask(__name__)
 
+@app.route('/result')
+def result():
+    return render_template('result.html')
+
 @app.route('/')
+def login():
+    return render_template('login.html')
+
+@app.route('/vistaIndicadores')
+def vistaIndicadores():
+    return render_template('vistaIndicadores.html')
+
+@app.route('/monitoreoVariables')
+def monitoreoVariables():
+    return render_template('monitoreoVariables.html')
+
+@app.route('/mapa')
+def mapa():
+    return render_template('mapa.html')
+
+@app.route('/index')
 def index():
     return render_template('index.html')  # Sirve la página HTML
 
@@ -168,11 +188,11 @@ def get_data():
         
         # Obtener los últimos 100 registros
         cursor.execute("""
-            SELECT TOP 100 timestamp, mag_x, mag_y, mag_z, barometro, ruido, 
+            SELECT timestamp, mag_x, mag_y, mag_z, barometro, ruido, 
                    giro_x, giro_y, giro_z, acel_x, acel_y, acel_z, 
                    vibracion, gps_lat, gps_lon
             FROM sensor_data
-            ORDER BY timestamp DESC
+            WHERE timestamp = (SELECT MAX(timestamp) FROM sensor_data)
         """)
         
         rows = cursor.fetchall()
