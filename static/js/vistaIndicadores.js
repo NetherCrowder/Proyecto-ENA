@@ -191,6 +191,8 @@ document.addEventListener('DOMContentLoaded', function () {
             .catch(error => console.error('Error al obtener datos históricos:', error));
     }
     
+    var i = 0
+
     function updateCharts(data) {
         var nuevadata = data[0];
         var maxDataPoints = 10; // Define la cantidad máxima de datos
@@ -205,8 +207,11 @@ document.addEventListener('DOMContentLoaded', function () {
             { chart: chart6, data: nuevadata.vibracion, keys: [null] }
         ];
 
+        i += 1
+    
         charts.forEach((chart, index) => {
-            chart.data.labels.push(nuevadata.timestamp);
+            //chart.data.labels.push(nuevadata.timestamp);
+            chart.data.labels.push(Math.round((i/60)*1000)/1000);
             sensors[index].keys.forEach((key, datasetIndex) => {
                 if (key) {
                     chart.data.datasets[datasetIndex].data.push(sensors[index].data[key]);

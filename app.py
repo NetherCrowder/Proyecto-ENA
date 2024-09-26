@@ -240,7 +240,7 @@ def select(query):
     conn = get_db_connection()
     cursor = conn.cursor()        
     # Obtener los últimos 100 registros
-    cursor.execute("""SELECT """f"{query}"""" FROM sensor_data""")
+    cursor.execute("""SELECT TOP """f"{query}"""" * FROM sensor_data""")
 
     rows = cursor.fetchall()
     column_names = [description[0] for description in cursor.description]

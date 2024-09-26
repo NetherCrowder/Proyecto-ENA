@@ -6,7 +6,7 @@ document.getElementById("loginForm").addEventListener("submit", function(event) 
 
     // Simular login correcto (Por ahora sin validación real)
     if (username && password) {
-        window.location.href = "monitoreoVariables.html";
+        window.location.href = "monitoreoVariables";
     } else {
         alert("Por favor ingrese un usuario y contraseña válidos.");
     }
