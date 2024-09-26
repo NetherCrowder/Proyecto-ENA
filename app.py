@@ -1,4 +1,4 @@
-from flask import Flask, jsonify, render_template
+from flask import Flask, jsonify, render_template, request
 import random
 import datetime
 import uuid
@@ -235,6 +235,30 @@ def get_data():
     finally:
         if conn:
             conn.close()
+
+def select(query):
+    conn = get_db_connection()
+    cursor = conn.cursor()        
+    # Obtener los últimos 100 registros
+    cursor.execute("""SELECT """f"{query}"""" FROM sensor_data""")
+
+    rows = cursor.fetchall()
+    column_names = [description[0] for description in cursor.description]
+    data = [dict(zip(column_names, row)) for row in rows]
+
+    return data
+
+@app.route('/consultaSQL/', methods=['GET'])
+def consulta_sql():
+    query = request.args.get('')
+    if not query:
+        return render_template('monitoreoVariables.html')
+
+    try:
+        data = select(query)
+        return jsonify(data)
+    except Exception as e:
+        return jsonify({"error": str(e)}), 500
 
 if __name__ == '__main__':
     if test_db_connection():
