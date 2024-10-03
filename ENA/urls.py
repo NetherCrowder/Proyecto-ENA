@@ -16,8 +16,10 @@ Including another URLconf
 """
 from django.contrib import admin
 from django.urls import path, include
+from ProyectoENA import views
 
 urlpatterns = [
     path('admin/', admin.site.urls),
-    path('', include('polls.urls')),
+    path('test/', include('test.urls', namespace='test')),
+    path('ENA/', include("ProyectoENA.urls", namespace='ProyectoENA')),
 ]

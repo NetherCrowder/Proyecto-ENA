@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Dashboard Monitoreo</title>
+    <link rel="stylesheet" href="../static/css/styles.css">
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/chartjs-chart-boxplot@0.2.0/dist/chartjs-chart-boxplot.min.js"></script>
+</head>
+<body>
+    <div class="container">
+        <nav class="sidebar">
+            <div class="logo">
+                <h2>COMPANY LOGO</h2>
+            </div>
+            <ul>
+              <li><a href="Variables">Monitoreo de variables</a></li>
+              <li><a href="Indices">Vista Indicadores</a></li>
+              <li><a href="Mapa">Vista Mapa</a></li>
+            </ul>
+            <div class="user-info">
+                <p>Username</p>
+                <button class="logout">Salir</button>
+            </div>
+        </nav>
+
+        <div class="main-content">
+            <div class="header">
+                <h1>Dashboard de Monitoreo</h1>
+            </div>
+
+            <div class="charts-container">
+                <div class="chart">
+                    <canvas id="chart1"></canvas>
+                </div>
+                <div class="chart">
+                    <canvas id="chart2"></canvas>
+                </div>
+                <div class="chart">
+                    <canvas id="chart3"></canvas>
+                </div>
+                <div class="chart">
+                    <canvas id="chart4"></canvas>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <script src="/static/js/monitoreoVariables.js"></script>
+</body>
+</html>

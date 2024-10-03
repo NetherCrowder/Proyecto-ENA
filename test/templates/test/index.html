@@ -1,0 +1,13 @@
+{% load static %}
+
+<link rel="stylesheet" href="{% static 'css/style.css' %}">
+
+{% if sensor_data %}
+    <ul>
+    {% for sensor_data in sensor_data %}
+        <li><a href="/test/{{ sensor_data.id }}/">{{ sensor_data }}</a></li>
+    {% endfor %}
+    </ul>
+{% else %}
+    <p>No polls are available.</p>
+{% endif %}

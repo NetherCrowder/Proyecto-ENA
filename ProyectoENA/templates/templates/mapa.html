@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Vista Mapa</title>
+    <link rel="stylesheet" href="../static/css/styles.css">
+    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.7.1/dist/leaflet.css" />
+</head>
+<body>
+
+    <div class="container">
+        <nav class="sidebar">
+            <div class="logo">
+                <h2>COMPANY LOGO</h2>
+            </div>
+            <ul>
+                <li><a href="Variables">Monitoreo de variables</a></li>
+                <li><a href="Indices">Vista Indicadores</a></li>
+                <li><a href="Mapa">Vista Mapa</a></li>
+            </ul>
+            <div class="user-info">
+                <p>Username</p>
+                <button class="logout">Salir</button>
+            </div>
+        </nav>
+
+        <div class="main-content">
+            <div class="header">
+                <h1>Mapa de Monitoreo</h1>
+            </div>
+
+            <div id="map"></div>
+        </div>
+    </div>
+
+    <script src="https://unpkg.com/leaflet@1.7.1/dist/leaflet.js"></script>
+    <script src="/static/js/mapa.js"></script>
+</body>
+</html>
