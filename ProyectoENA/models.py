@@ -64,6 +64,9 @@ class DB_Conexion():
         cursor = conn.cursor()        
         cursor.execute("""SELECT TOP """f"{query}"""" * FROM sensor_data""")
         rows = cursor.fetchall()
-        column_names = [description[0] for description in cursor.description]
-        data = [dict(zip(column_names, row)) for row in rows]
-        return JsonResponse(data, safe=False)
+        if rows is None or not rows:
+            return ("")
+        else:
+            column_names = [description[0] for description in cursor.description]
+            data = [dict(zip(column_names, row)) for row in rows]
+            return JsonResponse(data, safe=False)

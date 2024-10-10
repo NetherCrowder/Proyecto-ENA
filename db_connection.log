@@ -3271,3 +3271,1042 @@ AttributeError: type object 'DB_Conexion' has no attribute 'get_query'
 2024-10-03 02:37:36,194:WARNING:Not Found: /
 2024-10-03 02:37:36,250:WARNING:Not Found: /favicon.ico
 2024-10-03 02:40:15,905:WARNING:Not Found: /
+2024-10-03 03:01:24,261:INFO:Watching for file changes with StatReloader
+2024-10-03 03:01:34,146:WARNING:Not Found: /favicon.ico
+2024-10-08 18:03:54,998:INFO:Watching for file changes with StatReloader
+2024-10-08 18:04:02,821:WARNING:Not Found: /
+2024-10-08 18:04:02,905:WARNING:Not Found: /favicon.ico
+2024-10-08 18:11:13,424:INFO:Watching for file changes with StatReloader
+2024-10-08 18:14:28,648:INFO:Watching for file changes with StatReloader
+2024-10-10 07:08:25,529:INFO:Watching for file changes with StatReloader
+2024-10-10 07:08:37,278:WARNING:Not Found: /
+2024-10-10 07:08:37,325:WARNING:Not Found: /favicon.ico
+2024-10-10 07:25:03,578:INFO:Watching for file changes with StatReloader
+2024-10-10 07:28:50,749:WARNING:Not Found: /ENA/Indices
+2024-10-10 07:28:59,685:WARNING:Not Found: /ENA/Indices
+2024-10-10 07:44:09,555:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\views.py changed, reloading.
+2024-10-10 07:44:10,018:INFO:Watching for file changes with StatReloader
+2024-10-10 07:46:11,409:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ENA\urls.py changed, reloading.
+2024-10-10 07:46:11,845:INFO:Watching for file changes with StatReloader
+2024-10-10 07:46:13,373:WARNING:Not Found: /ENA/GetData
+2024-10-10 07:46:14,343:WARNING:Not Found: /ENA/GetData
+2024-10-10 07:46:15,348:WARNING:Not Found: /ENA/GetData
+2024-10-10 07:46:16,343:WARNING:Not Found: /ENA/GetData
+2024-10-10 07:46:17,352:WARNING:Not Found: /ENA/GetData
+2024-10-10 07:46:18,352:WARNING:Not Found: /ENA/GetData
+2024-10-10 07:46:19,352:WARNING:Not Found: /ENA/GetData
+2024-10-10 07:46:30,180:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ENA\urls.py changed, reloading.
+2024-10-10 07:46:30,638:INFO:Watching for file changes with StatReloader
+2024-10-10 07:46:53,575:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ENA\settings.py changed, reloading.
+2024-10-10 07:46:54,005:INFO:Watching for file changes with StatReloader
+2024-10-10 07:47:05,571:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ENA\settings.py changed, reloading.
+2024-10-10 07:47:06,018:INFO:Watching for file changes with StatReloader
+2024-10-10 07:47:39,757:WARNING:Not Found: /mapa
+2024-10-10 08:10:25,709:WARNING:Not Found: /ENA/Indicadores/10
+2024-10-10 08:23:26,223:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\views.py changed, reloading.
+2024-10-10 08:23:26,722:INFO:Watching for file changes with StatReloader
+2024-10-10 08:23:29,037:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\views.py changed, reloading.
+2024-10-10 08:23:29,580:INFO:Watching for file changes with StatReloader
+2024-10-10 08:23:31,105:ERROR:Internal Server Error: /Indicadores/1
+Traceback (most recent call last):
+  File "C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\views.py", line 21, in Consulta
+    if top_data is None or len(top_data) == 0:
+                           ^^^^^^^^^^^^^
+TypeError: object of type 'JsonResponse' has no len()
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\Aarón\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Aarón\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\views.py", line 23, in Consulta
+    except Http404():
+TypeError: catching classes that do not inherit from BaseException is not allowed
+2024-10-10 08:23:48,437:ERROR:Internal Server Error: /Indicadores/1
+Traceback (most recent call last):
+  File "C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\views.py", line 21, in Consulta
+    if top_data is None or len(top_data) == 0:
+                           ^^^^^^^^^^^^^
+TypeError: object of type 'JsonResponse' has no len()
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\Aarón\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Aarón\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\views.py", line 23, in Consulta
+    except Http404():
+TypeError: catching classes that do not inherit from BaseException is not allowed
+2024-10-10 08:23:51,098:ERROR:Internal Server Error: /Indicadores/1
+Traceback (most recent call last):
+  File "C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\views.py", line 21, in Consulta
+    if top_data is None or len(top_data) == 0:
+                           ^^^^^^^^^^^^^
+TypeError: object of type 'JsonResponse' has no len()
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\Aarón\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Aarón\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\views.py", line 23, in Consulta
+    except Http404():
+TypeError: catching classes that do not inherit from BaseException is not allowed
+2024-10-10 08:24:01,615:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\views.py changed, reloading.
+2024-10-10 08:24:02,064:INFO:Watching for file changes with StatReloader
+2024-10-10 08:24:04,263:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\views.py changed, reloading.
+2024-10-10 08:24:04,685:INFO:Watching for file changes with StatReloader
+2024-10-10 08:24:10,109:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\views.py changed, reloading.
+2024-10-10 08:24:10,668:INFO:Watching for file changes with StatReloader
+2024-10-10 08:24:11,271:ERROR:Internal Server Error: /Indicadores/1
+Traceback (most recent call last):
+  File "C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\views.py", line 21, in Consulta
+    if (top_data is None or len(top_data) == 0):
+                            ^^^^^^^^^^^^^
+TypeError: object of type 'JsonResponse' has no len()
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\Aarón\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Aarón\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\views.py", line 23, in Consulta
+    except Http404():
+TypeError: catching classes that do not inherit from BaseException is not allowed
+2024-10-10 08:24:15,697:ERROR:Internal Server Error: /Indicadores/10
+Traceback (most recent call last):
+  File "C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\views.py", line 21, in Consulta
+    if (top_data is None or len(top_data) == 0):
+                            ^^^^^^^^^^^^^
+TypeError: object of type 'JsonResponse' has no len()
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\Aarón\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Aarón\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\views.py", line 23, in Consulta
+    except Http404():
+TypeError: catching classes that do not inherit from BaseException is not allowed
+2024-10-10 08:24:42,194:ERROR:Internal Server Error: /Indicadores/10
+Traceback (most recent call last):
+  File "C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\views.py", line 21, in Consulta
+    if (top_data is None or len(top_data) == 0):
+                            ^^^^^^^^^^^^^
+TypeError: object of type 'JsonResponse' has no len()
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\Aarón\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Aarón\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\views.py", line 23, in Consulta
+    except Http404():
+TypeError: catching classes that do not inherit from BaseException is not allowed
+2024-10-10 08:24:48,291:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\views.py changed, reloading.
+2024-10-10 08:24:48,744:INFO:Watching for file changes with StatReloader
+2024-10-10 08:25:13,679:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\views.py changed, reloading.
+2024-10-10 08:25:14,159:INFO:Watching for file changes with StatReloader
+2024-10-10 08:25:15,463:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\views.py changed, reloading.
+2024-10-10 08:25:15,959:INFO:Watching for file changes with StatReloader
+2024-10-10 08:25:17,156:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\views.py changed, reloading.
+2024-10-10 08:25:17,589:INFO:Watching for file changes with StatReloader
+2024-10-10 08:25:19,931:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\views.py changed, reloading.
+2024-10-10 08:25:20,357:INFO:Watching for file changes with StatReloader
+2024-10-10 08:25:21,631:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\views.py changed, reloading.
+2024-10-10 08:25:22,103:INFO:Watching for file changes with StatReloader
+2024-10-10 08:25:23,390:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\views.py changed, reloading.
+2024-10-10 08:25:23,807:INFO:Watching for file changes with StatReloader
+2024-10-10 08:25:26,112:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\views.py changed, reloading.
+2024-10-10 08:25:26,557:INFO:Watching for file changes with StatReloader
+2024-10-10 08:25:28,199:ERROR:Internal Server Error: /Indicadores/10
+Traceback (most recent call last):
+  File "C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\views.py", line 21, in Consulta
+    if len(top_data) < 1:
+       ^^^^^^^^^^^^^
+TypeError: object of type 'JsonResponse' has no len()
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\Aarón\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Aarón\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\views.py", line 23, in Consulta
+    except Http404():
+TypeError: catching classes that do not inherit from BaseException is not allowed
+2024-10-10 08:25:52,843:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\views.py changed, reloading.
+2024-10-10 08:25:53,297:INFO:Watching for file changes with StatReloader
+2024-10-10 08:25:55,637:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\views.py changed, reloading.
+2024-10-10 08:25:56,101:INFO:Watching for file changes with StatReloader
+2024-10-10 08:25:57,446:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\views.py changed, reloading.
+2024-10-10 08:25:57,924:INFO:Watching for file changes with StatReloader
+2024-10-10 08:26:00,248:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\views.py changed, reloading.
+2024-10-10 08:26:00,677:INFO:Watching for file changes with StatReloader
+2024-10-10 08:26:06,052:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\views.py changed, reloading.
+2024-10-10 08:26:06,517:INFO:Watching for file changes with StatReloader
+2024-10-10 08:26:13,977:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\views.py changed, reloading.
+2024-10-10 08:26:14,456:INFO:Watching for file changes with StatReloader
+2024-10-10 08:26:16,844:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\views.py changed, reloading.
+2024-10-10 08:26:17,253:INFO:Watching for file changes with StatReloader
+2024-10-10 08:26:18,579:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\views.py changed, reloading.
+2024-10-10 08:26:19,059:INFO:Watching for file changes with StatReloader
+2024-10-10 08:26:19,284:ERROR:Internal Server Error: /Indicadores/10
+Traceback (most recent call last):
+  File "C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\views.py", line 21, in Consulta
+    if top_data is None or len(top_data) == 0:
+                           ^^^^^^^^^^^^^
+TypeError: object of type 'JsonResponse' has no len()
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\Aarón\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Aarón\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\views.py", line 23, in Consulta
+    except Http404():
+TypeError: catching classes that do not inherit from BaseException is not allowed
+2024-10-10 08:27:09,654:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\views.py changed, reloading.
+2024-10-10 08:27:10,182:INFO:Watching for file changes with StatReloader
+2024-10-10 08:27:17,644:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\views.py changed, reloading.
+2024-10-10 08:27:18,112:INFO:Watching for file changes with StatReloader
+2024-10-10 08:27:19,520:ERROR:Internal Server Error: /Indicadores/10
+Traceback (most recent call last):
+  File "C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\views.py", line 21, in Consulta
+    if top_data is None or len(top_data) == 0:
+                           ^^^^^^^^^^^^^
+TypeError: object of type 'JsonResponse' has no len()
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\Aarón\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Aarón\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\views.py", line 23, in Consulta
+    except Http404():
+TypeError: catching classes that do not inherit from BaseException is not allowed
+2024-10-10 08:27:56,474:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\views.py changed, reloading.
+2024-10-10 08:27:56,906:INFO:Watching for file changes with StatReloader
+2024-10-10 08:27:59,230:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\views.py changed, reloading.
+2024-10-10 08:27:59,757:INFO:Watching for file changes with StatReloader
+2024-10-10 08:28:43,591:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\views.py changed, reloading.
+2024-10-10 08:28:44,091:INFO:Watching for file changes with StatReloader
+2024-10-10 08:29:02,861:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\views.py changed, reloading.
+2024-10-10 08:29:03,328:INFO:Watching for file changes with StatReloader
+2024-10-10 08:29:08,741:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\views.py changed, reloading.
+2024-10-10 08:29:09,179:INFO:Watching for file changes with StatReloader
+2024-10-10 08:29:31,192:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\views.py changed, reloading.
+2024-10-10 08:29:31,632:INFO:Watching for file changes with StatReloader
+2024-10-10 08:29:32,938:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\views.py changed, reloading.
+2024-10-10 08:29:33,396:INFO:Watching for file changes with StatReloader
+2024-10-10 08:29:33,714:ERROR:Internal Server Error: /Indicadores/1
+Traceback (most recent call last):
+  File "C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\views.py", line 22, in Consulta
+    raise Http404()
+django.http.response.Http404
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\Aarón\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Aarón\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\views.py", line 23, in Consulta
+    except Http404():
+TypeError: catching classes that do not inherit from BaseException is not allowed
+2024-10-10 08:29:44,094:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\views.py changed, reloading.
+2024-10-10 08:29:44,571:INFO:Watching for file changes with StatReloader
+2024-10-10 08:29:46,762:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\views.py changed, reloading.
+2024-10-10 08:29:47,204:INFO:Watching for file changes with StatReloader
+2024-10-10 08:29:52,583:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\views.py changed, reloading.
+2024-10-10 08:29:53,014:INFO:Watching for file changes with StatReloader
+2024-10-10 08:29:56,337:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\views.py changed, reloading.
+2024-10-10 08:29:56,810:INFO:Watching for file changes with StatReloader
+2024-10-10 08:29:58,081:ERROR:Internal Server Error: /Indicadores/1
+Traceback (most recent call last):
+  File "C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\views.py", line 22, in Consulta
+    raise Http404()
+django.http.response.Http404
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\Aarón\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Aarón\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\views.py", line 23, in Consulta
+    except Http404():
+TypeError: catching classes that do not inherit from BaseException is not allowed
+2024-10-10 08:30:09,545:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\views.py changed, reloading.
+2024-10-10 08:30:10,017:INFO:Watching for file changes with StatReloader
+2024-10-10 08:30:11,005:ERROR:Internal Server Error: /Indicadores/1
+Traceback (most recent call last):
+  File "C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\views.py", line 22, in Consulta
+    raise Http404()
+django.http.response.Http404
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\Aarón\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Aarón\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\views.py", line 23, in Consulta
+    except Http404():
+TypeError: catching classes that do not inherit from BaseException is not allowed
+2024-10-10 08:30:19,590:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\views.py changed, reloading.
+2024-10-10 08:30:20,020:INFO:Watching for file changes with StatReloader
+2024-10-10 08:30:24,214:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\views.py changed, reloading.
+2024-10-10 08:30:24,669:INFO:Watching for file changes with StatReloader
+2024-10-10 08:30:31,085:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\views.py changed, reloading.
+2024-10-10 08:30:31,504:INFO:Watching for file changes with StatReloader
+2024-10-10 08:31:25,494:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\views.py changed, reloading.
+2024-10-10 08:31:25,951:INFO:Watching for file changes with StatReloader
+2024-10-10 08:31:30,313:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\views.py changed, reloading.
+2024-10-10 08:31:30,733:INFO:Watching for file changes with StatReloader
+2024-10-10 08:31:38,177:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\views.py changed, reloading.
+2024-10-10 08:31:38,631:INFO:Watching for file changes with StatReloader
+2024-10-10 08:31:40,950:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\views.py changed, reloading.
+2024-10-10 08:31:41,371:INFO:Watching for file changes with StatReloader
+2024-10-10 08:32:04,342:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\views.py changed, reloading.
+2024-10-10 08:32:04,901:INFO:Watching for file changes with StatReloader
+2024-10-10 08:32:14,464:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\views.py changed, reloading.
+2024-10-10 08:32:14,958:INFO:Watching for file changes with StatReloader
+2024-10-10 08:33:37,547:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\views.py changed, reloading.
+2024-10-10 08:33:38,013:INFO:Watching for file changes with StatReloader
+2024-10-10 08:34:15,184:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\views.py changed, reloading.
+2024-10-10 08:34:15,645:INFO:Watching for file changes with StatReloader
+2024-10-10 08:34:16,789:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\views.py changed, reloading.
+2024-10-10 08:34:17,226:INFO:Watching for file changes with StatReloader
+2024-10-10 08:34:29,772:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\views.py changed, reloading.
+2024-10-10 08:34:30,207:INFO:Watching for file changes with StatReloader
+2024-10-10 08:34:39,540:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\views.py changed, reloading.
+2024-10-10 08:34:39,964:INFO:Watching for file changes with StatReloader
+2024-10-10 08:34:45,361:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\views.py changed, reloading.
+2024-10-10 08:34:45,852:INFO:Watching for file changes with StatReloader
+2024-10-10 08:34:49,249:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\views.py changed, reloading.
+2024-10-10 08:34:49,665:INFO:Watching for file changes with StatReloader
+2024-10-10 08:35:01,028:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\views.py changed, reloading.
+2024-10-10 08:35:01,476:INFO:Watching for file changes with StatReloader
+2024-10-10 08:35:04,690:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\views.py changed, reloading.
+2024-10-10 08:35:05,145:INFO:Watching for file changes with StatReloader
+2024-10-10 08:35:06,296:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\views.py changed, reloading.
+2024-10-10 08:35:06,730:INFO:Watching for file changes with StatReloader
+2024-10-10 08:35:09,811:ERROR:Internal Server Error: /Indicadores/1
+Traceback (most recent call last):
+  File "C:\Users\Aarón\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Aarón\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\views.py", line 25, in Consulta
+    return render('templates/consulta.html', top_data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Aarón\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\django\shortcuts.py", line 25, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Aarón\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\django\template\loader.py", line 61, in render_to_string
+    template = get_template(template_name, using=using)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Aarón\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\django\template\loader.py", line 15, in get_template
+    return engine.get_template(template_name)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Aarón\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\django\template\backends\django.py", line 79, in get_template
+    return Template(self.engine.get_template(template_name), self)
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Aarón\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\django\template\engine.py", line 177, in get_template
+    template, origin = self.find_template(template_name)
+                       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Aarón\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\django\template\engine.py", line 159, in find_template
+    template = loader.get_template(name, skip=skip)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Aarón\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\django\template\loaders\cached.py", line 57, in get_template
+    template = super().get_template(template_name, skip)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Aarón\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\django\template\loaders\base.py", line 17, in get_template
+    for origin in self.get_template_sources(template_name):
+  File "C:\Users\Aarón\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\django\template\loaders\cached.py", line 70, in get_template_sources
+    yield from loader.get_template_sources(template_name)
+  File "C:\Users\Aarón\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\django\template\loaders\filesystem.py", line 35, in get_template_sources
+    name = safe_join(template_dir, template_name)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Aarón\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\django\utils\_os.py", line 17, in safe_join
+    final_path = abspath(join(base, *paths))
+                         ^^^^^^^^^^^^^^^^^^
+  File "<frozen ntpath>", line 147, in join
+  File "<frozen genericpath>", line 152, in _check_arg_types
+TypeError: join() argument must be str, bytes, or os.PathLike object, not 'JsonResponse'
+2024-10-10 08:35:24,199:ERROR:Internal Server Error: /Indicadores/1
+Traceback (most recent call last):
+  File "C:\Users\Aarón\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Aarón\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\views.py", line 25, in Consulta
+    return render('templates/consulta.html', top_data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Aarón\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\django\shortcuts.py", line 25, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Aarón\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\django\template\loader.py", line 61, in render_to_string
+    template = get_template(template_name, using=using)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Aarón\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\django\template\loader.py", line 15, in get_template
+    return engine.get_template(template_name)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Aarón\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\django\template\backends\django.py", line 79, in get_template
+    return Template(self.engine.get_template(template_name), self)
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Aarón\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\django\template\engine.py", line 177, in get_template
+    template, origin = self.find_template(template_name)
+                       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Aarón\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\django\template\engine.py", line 159, in find_template
+    template = loader.get_template(name, skip=skip)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Aarón\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\django\template\loaders\cached.py", line 57, in get_template
+    template = super().get_template(template_name, skip)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Aarón\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\django\template\loaders\base.py", line 17, in get_template
+    for origin in self.get_template_sources(template_name):
+  File "C:\Users\Aarón\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\django\template\loaders\cached.py", line 70, in get_template_sources
+    yield from loader.get_template_sources(template_name)
+  File "C:\Users\Aarón\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\django\template\loaders\filesystem.py", line 35, in get_template_sources
+    name = safe_join(template_dir, template_name)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Aarón\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\django\utils\_os.py", line 17, in safe_join
+    final_path = abspath(join(base, *paths))
+                         ^^^^^^^^^^^^^^^^^^
+  File "<frozen ntpath>", line 147, in join
+  File "<frozen genericpath>", line 152, in _check_arg_types
+TypeError: join() argument must be str, bytes, or os.PathLike object, not 'JsonResponse'
+2024-10-10 08:35:29,780:ERROR:Internal Server Error: /Indicadores/10
+Traceback (most recent call last):
+  File "C:\Users\Aarón\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Aarón\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\views.py", line 25, in Consulta
+    return render('templates/consulta.html', top_data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Aarón\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\django\shortcuts.py", line 25, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Aarón\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\django\template\loader.py", line 61, in render_to_string
+    template = get_template(template_name, using=using)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Aarón\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\django\template\loader.py", line 15, in get_template
+    return engine.get_template(template_name)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Aarón\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\django\template\backends\django.py", line 79, in get_template
+    return Template(self.engine.get_template(template_name), self)
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Aarón\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\django\template\engine.py", line 177, in get_template
+    template, origin = self.find_template(template_name)
+                       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Aarón\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\django\template\engine.py", line 159, in find_template
+    template = loader.get_template(name, skip=skip)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Aarón\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\django\template\loaders\cached.py", line 57, in get_template
+    template = super().get_template(template_name, skip)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Aarón\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\django\template\loaders\base.py", line 17, in get_template
+    for origin in self.get_template_sources(template_name):
+  File "C:\Users\Aarón\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\django\template\loaders\cached.py", line 70, in get_template_sources
+    yield from loader.get_template_sources(template_name)
+  File "C:\Users\Aarón\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\django\template\loaders\filesystem.py", line 35, in get_template_sources
+    name = safe_join(template_dir, template_name)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Aarón\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\django\utils\_os.py", line 17, in safe_join
+    final_path = abspath(join(base, *paths))
+                         ^^^^^^^^^^^^^^^^^^
+  File "<frozen ntpath>", line 147, in join
+  File "<frozen genericpath>", line 152, in _check_arg_types
+TypeError: join() argument must be str, bytes, or os.PathLike object, not 'JsonResponse'
+2024-10-10 08:37:13,915:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\views.py changed, reloading.
+2024-10-10 08:37:14,381:INFO:Watching for file changes with StatReloader
+2024-10-10 08:37:16,559:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\views.py changed, reloading.
+2024-10-10 08:37:17,013:INFO:Watching for file changes with StatReloader
+2024-10-10 08:37:24,476:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\views.py changed, reloading.
+2024-10-10 08:37:24,963:INFO:Watching for file changes with StatReloader
+2024-10-10 08:37:27,180:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\views.py changed, reloading.
+2024-10-10 08:37:27,626:INFO:Watching for file changes with StatReloader
+2024-10-10 08:37:31,877:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\views.py changed, reloading.
+2024-10-10 08:37:32,292:INFO:Watching for file changes with StatReloader
+2024-10-10 08:37:34,478:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\views.py changed, reloading.
+2024-10-10 08:37:34,888:INFO:Watching for file changes with StatReloader
+2024-10-10 08:37:37,074:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\views.py changed, reloading.
+2024-10-10 08:37:37,490:INFO:Watching for file changes with StatReloader
+2024-10-10 08:37:43,757:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\views.py changed, reloading.
+2024-10-10 08:37:44,208:INFO:Watching for file changes with StatReloader
+2024-10-10 08:37:46,400:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\views.py changed, reloading.
+2024-10-10 08:37:46,878:INFO:Watching for file changes with StatReloader
+2024-10-10 08:37:51,116:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\views.py changed, reloading.
+2024-10-10 08:37:51,566:INFO:Watching for file changes with StatReloader
+2024-10-10 08:37:53,876:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\views.py changed, reloading.
+2024-10-10 08:37:54,299:INFO:Watching for file changes with StatReloader
+2024-10-10 08:39:55,133:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\views.py changed, reloading.
+2024-10-10 08:39:55,576:INFO:Watching for file changes with StatReloader
+2024-10-10 08:39:59,242:ERROR:Internal Server Error: /Indicadores/1
+Traceback (most recent call last):
+  File "C:\Users\Aarón\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Aarón\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\views.py", line 25, in Consulta
+    return render(top_data)
+           ^^^^^^^^^^^^^^^^
+TypeError: render() missing 1 required positional argument: 'template_name'
+2024-10-10 08:40:05,227:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\views.py changed, reloading.
+2024-10-10 08:40:05,672:INFO:Watching for file changes with StatReloader
+2024-10-10 08:40:15,187:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\views.py changed, reloading.
+2024-10-10 08:40:15,654:INFO:Watching for file changes with StatReloader
+2024-10-10 08:40:17,982:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\views.py changed, reloading.
+2024-10-10 08:40:18,416:INFO:Watching for file changes with StatReloader
+2024-10-10 08:40:28,803:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\views.py changed, reloading.
+2024-10-10 08:40:29,210:INFO:Watching for file changes with StatReloader
+2024-10-10 08:40:59,679:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\views.py changed, reloading.
+2024-10-10 08:41:00,107:INFO:Watching for file changes with StatReloader
+2024-10-10 08:41:01,270:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\views.py changed, reloading.
+2024-10-10 08:41:01,726:INFO:Watching for file changes with StatReloader
+2024-10-10 08:41:03,024:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\views.py changed, reloading.
+2024-10-10 08:41:03,448:INFO:Watching for file changes with StatReloader
+2024-10-10 08:41:04,612:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\views.py changed, reloading.
+2024-10-10 08:41:05,048:INFO:Watching for file changes with StatReloader
+2024-10-10 08:41:06,192:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\views.py changed, reloading.
+2024-10-10 08:41:06,715:INFO:Watching for file changes with StatReloader
+2024-10-10 08:41:38,788:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\views.py changed, reloading.
+2024-10-10 08:41:39,288:INFO:Watching for file changes with StatReloader
+2024-10-10 08:41:42,660:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\views.py changed, reloading.
+2024-10-10 08:41:43,127:INFO:Watching for file changes with StatReloader
+2024-10-10 08:41:46,450:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\views.py changed, reloading.
+2024-10-10 08:41:46,914:INFO:Watching for file changes with StatReloader
+2024-10-10 08:41:48,265:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\views.py changed, reloading.
+2024-10-10 08:41:48,692:INFO:Watching for file changes with StatReloader
+2024-10-10 08:41:50,868:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\views.py changed, reloading.
+2024-10-10 08:41:51,292:INFO:Watching for file changes with StatReloader
+2024-10-10 08:42:36,700:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\views.py changed, reloading.
+2024-10-10 08:42:37,160:INFO:Watching for file changes with StatReloader
+2024-10-10 08:42:38,500:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\views.py changed, reloading.
+2024-10-10 08:42:39,041:INFO:Watching for file changes with StatReloader
+2024-10-10 08:42:39,996:ERROR:Internal Server Error: /Indicadores/0
+Traceback (most recent call last):
+  File "C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\views.py", line 22, in Consulta
+    raise Http404()
+django.http.response.Http404
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\Aarón\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Aarón\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\views.py", line 23, in Consulta
+    except Http404():
+TypeError: catching classes that do not inherit from BaseException is not allowed
+2024-10-10 08:43:53,175:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\views.py changed, reloading.
+2024-10-10 08:43:53,619:INFO:Watching for file changes with StatReloader
+2024-10-10 08:46:21,729:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\views.py changed, reloading.
+2024-10-10 08:46:22,215:INFO:Watching for file changes with StatReloader
+2024-10-10 08:46:23,511:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\views.py changed, reloading.
+2024-10-10 08:46:23,961:INFO:Watching for file changes with StatReloader
+2024-10-10 08:46:47,028:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\views.py changed, reloading.
+2024-10-10 08:46:47,459:INFO:Watching for file changes with StatReloader
+2024-10-10 08:46:48,778:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\views.py changed, reloading.
+2024-10-10 08:46:49,209:INFO:Watching for file changes with StatReloader
+2024-10-10 08:46:50,354:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\views.py changed, reloading.
+2024-10-10 08:46:50,806:INFO:Watching for file changes with StatReloader
+2024-10-10 08:46:59,311:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\views.py changed, reloading.
+2024-10-10 08:46:59,794:INFO:Watching for file changes with StatReloader
+2024-10-10 08:47:00,952:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\views.py changed, reloading.
+2024-10-10 08:47:01,419:INFO:Watching for file changes with StatReloader
+2024-10-10 08:47:12,973:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\views.py changed, reloading.
+2024-10-10 08:47:13,398:INFO:Watching for file changes with StatReloader
+2024-10-10 08:47:18,808:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\views.py changed, reloading.
+2024-10-10 08:47:19,247:INFO:Watching for file changes with StatReloader
+2024-10-10 08:47:21,426:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\views.py changed, reloading.
+2024-10-10 08:47:21,896:INFO:Watching for file changes with StatReloader
+2024-10-10 08:47:33,460:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\views.py changed, reloading.
+2024-10-10 08:47:33,922:INFO:Watching for file changes with StatReloader
+2024-10-10 08:47:35,230:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\views.py changed, reloading.
+2024-10-10 08:47:35,641:INFO:Watching for file changes with StatReloader
+2024-10-10 08:47:36,968:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\views.py changed, reloading.
+2024-10-10 08:47:37,486:INFO:Watching for file changes with StatReloader
+2024-10-10 08:47:43,942:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\views.py changed, reloading.
+2024-10-10 08:47:44,390:INFO:Watching for file changes with StatReloader
+2024-10-10 08:47:57,091:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\views.py changed, reloading.
+2024-10-10 08:47:57,503:INFO:Watching for file changes with StatReloader
+2024-10-10 08:47:58,850:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\views.py changed, reloading.
+2024-10-10 08:47:59,303:INFO:Watching for file changes with StatReloader
+2024-10-10 08:48:01,663:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\views.py changed, reloading.
+2024-10-10 08:48:02,104:INFO:Watching for file changes with StatReloader
+2024-10-10 08:48:03,243:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\views.py changed, reloading.
+2024-10-10 08:48:03,687:INFO:Watching for file changes with StatReloader
+2024-10-10 08:48:20,531:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\views.py changed, reloading.
+2024-10-10 08:48:20,953:INFO:Watching for file changes with StatReloader
+2024-10-10 08:48:23,135:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\views.py changed, reloading.
+2024-10-10 08:48:23,643:INFO:Watching for file changes with StatReloader
+2024-10-10 09:12:38,470:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\views.py changed, reloading.
+2024-10-10 09:12:39,327:INFO:Watching for file changes with StatReloader
+2024-10-10 09:12:41,944:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\views.py changed, reloading.
+2024-10-10 09:12:42,666:INFO:Watching for file changes with StatReloader
+2024-10-10 09:12:44,226:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\views.py changed, reloading.
+2024-10-10 09:12:45,163:INFO:Watching for file changes with StatReloader
+2024-10-10 09:12:46,493:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\views.py changed, reloading.
+2024-10-10 09:12:47,269:INFO:Watching for file changes with StatReloader
+2024-10-10 09:12:54,165:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\views.py changed, reloading.
+2024-10-10 09:12:54,978:INFO:Watching for file changes with StatReloader
+2024-10-10 09:12:57,333:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\views.py changed, reloading.
+2024-10-10 09:12:58,238:INFO:Watching for file changes with StatReloader
+2024-10-10 09:13:04,167:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\views.py changed, reloading.
+2024-10-10 09:13:04,945:INFO:Watching for file changes with StatReloader
+2024-10-10 09:13:07,281:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\views.py changed, reloading.
+2024-10-10 09:13:08,161:INFO:Watching for file changes with StatReloader
+2024-10-10 09:13:23,589:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\views.py changed, reloading.
+2024-10-10 09:13:24,321:INFO:Watching for file changes with StatReloader
+2024-10-10 09:13:45,498:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\views.py changed, reloading.
+2024-10-10 09:13:46,269:INFO:Watching for file changes with StatReloader
+2024-10-10 09:13:50,703:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\views.py changed, reloading.
+2024-10-10 09:13:51,575:INFO:Watching for file changes with StatReloader
+2024-10-10 09:13:56,261:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\views.py changed, reloading.
+2024-10-10 09:13:57,020:INFO:Watching for file changes with StatReloader
+2024-10-10 09:14:00,683:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\views.py changed, reloading.
+2024-10-10 09:14:01,552:INFO:Watching for file changes with StatReloader
+2024-10-10 09:14:26,133:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\views.py changed, reloading.
+2024-10-10 09:14:26,970:INFO:Watching for file changes with StatReloader
+2024-10-10 09:15:38,001:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\views.py changed, reloading.
+2024-10-10 09:15:38,788:INFO:Watching for file changes with StatReloader
+2024-10-10 09:15:56,171:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\views.py changed, reloading.
+2024-10-10 09:15:56,886:INFO:Watching for file changes with StatReloader
+2024-10-10 09:16:01,665:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\views.py changed, reloading.
+2024-10-10 09:16:02,424:INFO:Watching for file changes with StatReloader
+2024-10-10 09:16:03,716:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\views.py changed, reloading.
+2024-10-10 09:16:04,536:INFO:Watching for file changes with StatReloader
+2024-10-10 09:16:13,456:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\views.py changed, reloading.
+2024-10-10 09:16:14,236:INFO:Watching for file changes with StatReloader
+2024-10-10 09:16:20,011:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\views.py changed, reloading.
+2024-10-10 09:16:20,850:INFO:Watching for file changes with StatReloader
+2024-10-10 09:16:21,819:ERROR:Internal Server Error: /Indicadores/1
+Traceback (most recent call last):
+  File "C:\Users\Aarón\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Aarón\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\views.py", line 21, in Consulta
+    data = json.loads(top_data)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\Lib\json\__init__.py", line 339, in loads
+    raise TypeError(f'the JSON object must be str, bytes or bytearray, '
+TypeError: the JSON object must be str, bytes or bytearray, not JsonResponse
+2024-10-10 09:16:34,454:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\views.py changed, reloading.
+2024-10-10 09:16:35,305:INFO:Watching for file changes with StatReloader
+2024-10-10 09:16:37,926:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\views.py changed, reloading.
+2024-10-10 09:16:38,684:INFO:Watching for file changes with StatReloader
+2024-10-10 09:16:40,252:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\views.py changed, reloading.
+2024-10-10 09:16:41,029:INFO:Watching for file changes with StatReloader
+2024-10-10 09:16:41,290:ERROR:Internal Server Error: /Indicadores/1
+Traceback (most recent call last):
+  File "C:\Users\Aarón\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Aarón\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\views.py", line 21, in Consulta
+    data = json.loads(top_data)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\Lib\json\__init__.py", line 339, in loads
+    raise TypeError(f'the JSON object must be str, bytes or bytearray, '
+TypeError: the JSON object must be str, bytes or bytearray, not JsonResponse
+2024-10-10 09:16:50,113:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\views.py changed, reloading.
+2024-10-10 09:16:51,089:INFO:Watching for file changes with StatReloader
+2024-10-10 09:16:57,966:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\views.py changed, reloading.
+2024-10-10 09:16:58,773:INFO:Watching for file changes with StatReloader
+2024-10-10 09:17:03,588:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\views.py changed, reloading.
+2024-10-10 09:17:04,433:INFO:Watching for file changes with StatReloader
+2024-10-10 09:17:06,000:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\views.py changed, reloading.
+2024-10-10 09:17:06,831:INFO:Watching for file changes with StatReloader
+2024-10-10 09:17:07,802:ERROR:Internal Server Error: /Indicadores/1
+Traceback (most recent call last):
+  File "C:\Users\Aarón\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Aarón\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\views.py", line 21, in Consulta
+    print(json.loads(top_data))
+          ^^^^^^^^^^^^^^^^^^^^
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\Lib\json\__init__.py", line 339, in loads
+    raise TypeError(f'the JSON object must be str, bytes or bytearray, '
+TypeError: the JSON object must be str, bytes or bytearray, not JsonResponse
+2024-10-10 09:17:16,879:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\views.py changed, reloading.
+2024-10-10 09:17:17,688:INFO:Watching for file changes with StatReloader
+2024-10-10 09:17:22,153:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\views.py changed, reloading.
+2024-10-10 09:17:23,044:INFO:Watching for file changes with StatReloader
+2024-10-10 09:17:25,465:ERROR:Internal Server Error: /Indicadores/1
+Traceback (most recent call last):
+  File "C:\Users\Aarón\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Aarón\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\views.py", line 21, in Consulta
+    print(str(json.loads(top_data)))
+              ^^^^^^^^^^^^^^^^^^^^
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\Lib\json\__init__.py", line 339, in loads
+    raise TypeError(f'the JSON object must be str, bytes or bytearray, '
+TypeError: the JSON object must be str, bytes or bytearray, not JsonResponse
+2024-10-10 09:18:19,844:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\views.py changed, reloading.
+2024-10-10 09:18:20,636:INFO:Watching for file changes with StatReloader
+2024-10-10 09:18:29,685:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\views.py changed, reloading.
+2024-10-10 09:18:30,593:INFO:Watching for file changes with StatReloader
+2024-10-10 09:18:51,324:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\views.py changed, reloading.
+2024-10-10 09:18:52,276:INFO:Watching for file changes with StatReloader
+2024-10-10 09:18:53,895:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\views.py changed, reloading.
+2024-10-10 09:18:54,648:INFO:Watching for file changes with StatReloader
+2024-10-10 09:18:55,952:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\views.py changed, reloading.
+2024-10-10 09:18:57,026:INFO:Watching for file changes with StatReloader
+2024-10-10 09:19:09,242:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\views.py changed, reloading.
+2024-10-10 09:19:09,948:INFO:Watching for file changes with StatReloader
+2024-10-10 09:19:13,304:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\views.py changed, reloading.
+2024-10-10 09:19:14,049:INFO:Watching for file changes with StatReloader
+2024-10-10 09:19:16,366:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\views.py changed, reloading.
+2024-10-10 09:19:17,182:INFO:Watching for file changes with StatReloader
+2024-10-10 09:19:21,959:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\views.py changed, reloading.
+2024-10-10 09:19:22,663:INFO:Watching for file changes with StatReloader
+2024-10-10 09:19:33,674:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\views.py changed, reloading.
+2024-10-10 09:19:34,486:INFO:Watching for file changes with StatReloader
+2024-10-10 09:19:37,135:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\views.py changed, reloading.
+2024-10-10 09:19:37,888:INFO:Watching for file changes with StatReloader
+2024-10-10 09:19:39,684:ERROR:Internal Server Error: /Indicadores/0
+Traceback (most recent call last):
+  File "C:\Users\Aarón\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Aarón\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\views.py", line 22, in Consulta
+    if top_data is None or not top_data or json.load(str(top_data)):
+                                           ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\Lib\json\__init__.py", line 293, in load
+    return loads(fp.read(),
+                 ^^^^^^^
+AttributeError: 'str' object has no attribute 'read'
+2024-10-10 09:19:49,294:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\views.py changed, reloading.
+2024-10-10 09:19:50,130:INFO:Watching for file changes with StatReloader
+2024-10-10 09:19:50,979:ERROR:Internal Server Error: /Indicadores/0
+Traceback (most recent call last):
+  File "C:\Users\Aarón\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Aarón\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\views.py", line 22, in Consulta
+    if top_data is None or not top_data or json.loads(str(top_data)):
+                                           ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\Lib\json\__init__.py", line 346, in loads
+    return _default_decoder.decode(s)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\Lib\json\decoder.py", line 337, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\Lib\json\decoder.py", line 355, in raw_decode
+    raise JSONDecodeError("Expecting value", s, err.value) from None
+json.decoder.JSONDecodeError: Expecting value: line 1 column 1 (char 0)
+2024-10-10 09:19:55,618:ERROR:Internal Server Error: /Indicadores/1
+Traceback (most recent call last):
+  File "C:\Users\Aarón\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Aarón\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\views.py", line 22, in Consulta
+    if top_data is None or not top_data or json.loads(str(top_data)):
+                                           ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\Lib\json\__init__.py", line 346, in loads
+    return _default_decoder.decode(s)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\Lib\json\decoder.py", line 337, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\Lib\json\decoder.py", line 355, in raw_decode
+    raise JSONDecodeError("Expecting value", s, err.value) from None
+json.decoder.JSONDecodeError: Expecting value: line 1 column 1 (char 0)
+2024-10-10 09:20:05,027:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\views.py changed, reloading.
+2024-10-10 09:20:06,108:INFO:Watching for file changes with StatReloader
+2024-10-10 09:20:09,837:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\views.py changed, reloading.
+2024-10-10 09:20:10,871:INFO:Watching for file changes with StatReloader
+2024-10-10 09:20:12,117:ERROR:Internal Server Error: /Indicadores/1
+Traceback (most recent call last):
+  File "C:\Users\Aarón\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Aarón\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\views.py", line 21, in Consulta
+    print(json.loads(str(top_data)))
+          ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\Lib\json\__init__.py", line 346, in loads
+    return _default_decoder.decode(s)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\Lib\json\decoder.py", line 337, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\Lib\json\decoder.py", line 355, in raw_decode
+    raise JSONDecodeError("Expecting value", s, err.value) from None
+json.decoder.JSONDecodeError: Expecting value: line 1 column 1 (char 0)
+2024-10-10 09:20:19,530:ERROR:Internal Server Error: /Indicadores/10
+Traceback (most recent call last):
+  File "C:\Users\Aarón\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Aarón\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\views.py", line 21, in Consulta
+    print(json.loads(str(top_data)))
+          ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\Lib\json\__init__.py", line 346, in loads
+    return _default_decoder.decode(s)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\Lib\json\decoder.py", line 337, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\Lib\json\decoder.py", line 355, in raw_decode
+    raise JSONDecodeError("Expecting value", s, err.value) from None
+json.decoder.JSONDecodeError: Expecting value: line 1 column 1 (char 0)
+2024-10-10 09:21:10,773:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\views.py changed, reloading.
+2024-10-10 09:21:11,878:INFO:Watching for file changes with StatReloader
+2024-10-10 09:21:13,354:ERROR:Internal Server Error: /Indicadores/10
+Traceback (most recent call last):
+  File "C:\Users\Aarón\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Aarón\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\views.py", line 21, in Consulta
+    print(json.loads(str(top_data)))
+          ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\Lib\json\__init__.py", line 346, in loads
+    return _default_decoder.decode(s)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\Lib\json\decoder.py", line 337, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\Lib\json\decoder.py", line 355, in raw_decode
+    raise JSONDecodeError("Expecting value", s, err.value) from None
+json.decoder.JSONDecodeError: Expecting value: line 1 column 1 (char 0)
+2024-10-10 09:21:19,981:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\views.py changed, reloading.
+2024-10-10 09:21:20,832:INFO:Watching for file changes with StatReloader
+2024-10-10 09:24:16,940:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\models.py changed, reloading.
+2024-10-10 09:24:17,858:INFO:Watching for file changes with StatReloader
+2024-10-10 09:24:19,466:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\models.py changed, reloading.
+2024-10-10 09:25:28,535:INFO:Watching for file changes with StatReloader
+2024-10-10 09:25:33,224:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\models.py changed, reloading.
+2024-10-10 09:25:34,006:INFO:Watching for file changes with StatReloader
+2024-10-10 09:25:42,890:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\models.py changed, reloading.
+2024-10-10 09:25:43,727:INFO:Watching for file changes with StatReloader
+2024-10-10 09:25:49,505:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\models.py changed, reloading.
+2024-10-10 09:25:52,386:INFO:Watching for file changes with StatReloader
+2024-10-10 09:26:42,639:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\views.py changed, reloading.
+2024-10-10 09:26:43,610:INFO:Watching for file changes with StatReloader
+2024-10-10 09:26:52,577:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\views.py changed, reloading.
+2024-10-10 09:26:53,422:INFO:Watching for file changes with StatReloader
+2024-10-10 09:27:17,169:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\views.py changed, reloading.
+2024-10-10 09:27:17,952:INFO:Watching for file changes with StatReloader
+2024-10-10 09:27:21,705:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\views.py changed, reloading.
+2024-10-10 09:27:22,534:INFO:Watching for file changes with StatReloader
+2024-10-10 09:27:24,114:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\views.py changed, reloading.
+2024-10-10 09:27:24,811:INFO:Watching for file changes with StatReloader
+2024-10-10 09:27:28,429:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\views.py changed, reloading.
+2024-10-10 09:27:29,325:INFO:Watching for file changes with StatReloader
+2024-10-10 09:27:41,460:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\models.py changed, reloading.
+2024-10-10 09:27:42,315:INFO:Watching for file changes with StatReloader
+2024-10-10 09:27:57,562:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\views.py changed, reloading.
+2024-10-10 09:27:58,427:INFO:Watching for file changes with StatReloader
+2024-10-10 09:28:10,739:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\models.py changed, reloading.
+2024-10-10 09:28:11,622:INFO:Watching for file changes with StatReloader
+2024-10-10 09:28:14,276:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\models.py changed, reloading.
+2024-10-10 09:28:18,070:INFO:Watching for file changes with StatReloader
+2024-10-10 09:28:30,450:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\models.py changed, reloading.
+2024-10-10 09:28:31,307:INFO:Watching for file changes with StatReloader
+2024-10-10 09:28:34,973:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\models.py changed, reloading.
+2024-10-10 09:28:35,780:INFO:Watching for file changes with StatReloader
+2024-10-10 09:28:42,592:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\models.py changed, reloading.
+2024-10-10 09:28:43,522:INFO:Watching for file changes with StatReloader
+2024-10-10 09:28:47,325:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\views.py changed, reloading.
+2024-10-10 09:28:48,374:INFO:Watching for file changes with StatReloader
+2024-10-10 09:28:52,373:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\views.py changed, reloading.
+2024-10-10 09:28:53,480:INFO:Watching for file changes with StatReloader
+2024-10-10 09:29:27,796:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\views.py changed, reloading.
+2024-10-10 09:29:28,610:INFO:Watching for file changes with StatReloader
+2024-10-10 09:29:32,231:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\views.py changed, reloading.
+2024-10-10 09:29:33,132:INFO:Watching for file changes with StatReloader
+2024-10-10 09:29:53,686:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\views.py changed, reloading.
+2024-10-10 09:29:54,483:INFO:Watching for file changes with StatReloader
+2024-10-10 09:30:14,534:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\views.py changed, reloading.
+2024-10-10 09:30:15,434:INFO:Watching for file changes with StatReloader
+2024-10-10 09:30:34,902:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\views.py changed, reloading.
+2024-10-10 09:30:35,628:INFO:Watching for file changes with StatReloader
+2024-10-10 09:30:39,304:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\views.py changed, reloading.
+2024-10-10 09:30:40,039:INFO:Watching for file changes with StatReloader
+2024-10-10 09:30:41,573:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\views.py changed, reloading.
+2024-10-10 09:30:42,710:INFO:Watching for file changes with StatReloader
+2024-10-10 09:30:43,478:ERROR:Internal Server Error: /Indicadores/10
+Traceback (most recent call last):
+  File "C:\Users\Aarón\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Aarón\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\views.py", line 26, in Consulta
+    return JsonResponse(top_data)
+           ^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Aarón\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\django\http\response.py", line 726, in __init__
+    raise TypeError(
+TypeError: In order to allow non-dict objects to be serialized set the safe parameter to False.
+2024-10-10 09:30:49,647:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\views.py changed, reloading.
+2024-10-10 09:30:50,475:INFO:Watching for file changes with StatReloader
+2024-10-10 09:30:56,226:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\views.py changed, reloading.
+2024-10-10 09:30:56,996:INFO:Watching for file changes with StatReloader
+2024-10-10 09:30:59,352:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\views.py changed, reloading.
+2024-10-10 09:31:00,322:INFO:Watching for file changes with StatReloader
+2024-10-10 09:31:01,678:ERROR:Internal Server Error: /Indicadores/10
+Traceback (most recent call last):
+  File "C:\Users\Aarón\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Aarón\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\views.py", line 26, in Consulta
+    return JsonResponse(top_data, safe=False)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Aarón\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\django\http\response.py", line 733, in __init__
+    data = json.dumps(data, cls=encoder, **json_dumps_params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\Lib\json\__init__.py", line 238, in dumps
+    **kw).encode(obj)
+          ^^^^^^^^^^^
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\Lib\json\encoder.py", line 200, in encode
+    chunks = self.iterencode(o, _one_shot=True)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\Lib\json\encoder.py", line 258, in iterencode
+    return _iterencode(o, 0)
+           ^^^^^^^^^^^^^^^^^
+  File "C:\Users\Aarón\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\django\core\serializers\json.py", line 106, in default
+    return super().default(o)
+           ^^^^^^^^^^^^^^^^^^
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\Lib\json\encoder.py", line 180, in default
+    raise TypeError(f'Object of type {o.__class__.__name__} '
+TypeError: Object of type JsonResponse is not JSON serializable
+2024-10-10 09:31:08,336:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\views.py changed, reloading.
+2024-10-10 09:31:09,311:INFO:Watching for file changes with StatReloader
+2024-10-10 09:31:43,557:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\models.py changed, reloading.
+2024-10-10 09:31:44,337:INFO:Watching for file changes with StatReloader
+2024-10-10 09:31:47,038:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\models.py changed, reloading.
+2024-10-10 09:31:47,872:INFO:Watching for file changes with StatReloader
+2024-10-10 09:31:51,581:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\models.py changed, reloading.
+2024-10-10 09:31:54,718:INFO:Watching for file changes with StatReloader
+2024-10-10 09:31:57,356:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\views.py changed, reloading.
+2024-10-10 09:31:58,189:INFO:Watching for file changes with StatReloader
+2024-10-10 09:32:03,942:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\views.py changed, reloading.
+2024-10-10 09:32:04,724:INFO:Watching for file changes with StatReloader
+2024-10-10 09:32:23,116:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\views.py changed, reloading.
+2024-10-10 09:32:23,986:INFO:Watching for file changes with StatReloader
+2024-10-10 09:32:39,991:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\views.py changed, reloading.
+2024-10-10 09:32:40,892:INFO:Watching for file changes with StatReloader
+2024-10-10 09:32:45,892:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\views.py changed, reloading.
+2024-10-10 09:32:46,668:INFO:Watching for file changes with StatReloader
+2024-10-10 09:34:34,734:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\views.py changed, reloading.
+2024-10-10 09:34:35,579:INFO:Watching for file changes with StatReloader
+2024-10-10 09:34:39,328:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\views.py changed, reloading.
+2024-10-10 09:34:40,062:INFO:Watching for file changes with StatReloader
+2024-10-10 09:34:40,462:ERROR:Internal Server Error: /Indicadores/1
+Traceback (most recent call last):
+  File "C:\Users\Aarón\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Aarón\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\views.py", line 26, in Consulta
+    return render   (top_data)
+           ^^^^^^^^^^^^^^^^^^^
+TypeError: render() missing 1 required positional argument: 'template_name'
+2024-10-10 09:34:44,925:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\views.py changed, reloading.
+2024-10-10 09:34:45,942:INFO:Watching for file changes with StatReloader
+2024-10-10 09:34:50,758:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\views.py changed, reloading.
+2024-10-10 09:34:51,554:INFO:Watching for file changes with StatReloader
+2024-10-10 09:34:53,117:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\views.py changed, reloading.
+2024-10-10 09:34:53,873:INFO:Watching for file changes with StatReloader
+2024-10-10 09:34:57,488:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\views.py changed, reloading.
+2024-10-10 09:34:58,240:INFO:Watching for file changes with StatReloader
+2024-10-10 09:35:01,940:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\views.py changed, reloading.
+2024-10-10 09:35:02,796:INFO:Watching for file changes with StatReloader
+2024-10-10 09:36:49,563:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\views.py changed, reloading.
+2024-10-10 09:36:50,441:INFO:Watching for file changes with StatReloader
+2024-10-10 09:37:05,831:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\views.py changed, reloading.

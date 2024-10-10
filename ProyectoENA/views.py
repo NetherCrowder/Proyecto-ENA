@@ -17,12 +17,13 @@ def Variables(request):
 
 def Consulta(request, top):
     top_data = DB_Conexion.get_query(top)
+    print((top_data))
     try:
-        if top_data is None or not top_data:
-            raise Http404()
-    except Http404():
-        return HttpResponse("No hay datos hay datos en la base de datos")
-    return top_data
+        if top_data is "":
+            raise Http404  # Cambié esto para evitar el error
+    except Http404:
+        return HttpResponse("No hay datos disponibles")
+    return HttpResponse(top_data)
 
 def GetData(request):
     data = DB_Conexion.get_data()

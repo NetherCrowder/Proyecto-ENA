@@ -20,6 +20,5 @@ from ProyectoENA import views
 
 urlpatterns = [
     path('admin/', admin.site.urls),
-    path('test/', include('test.urls', namespace='test')),
-    path('ENA/', include("ProyectoENA.urls", namespace='ProyectoENA')),
+    path('', include("ProyectoENA.urls", namespace='ProyectoENA')),
 ]
