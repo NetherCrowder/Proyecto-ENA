@@ -4310,3 +4310,1961 @@ TypeError: render() missing 1 required positional argument: 'template_name'
 2024-10-10 09:36:49,563:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\views.py changed, reloading.
 2024-10-10 09:36:50,441:INFO:Watching for file changes with StatReloader
 2024-10-10 09:37:05,831:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\views.py changed, reloading.
+2024-10-10 11:38:15,259:INFO:Watching for file changes with StatReloader
+2024-10-10 11:38:26,961:WARNING:Not Found: /favicon.ico
+2024-10-10 11:54:47,989:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\models.py changed, reloading.
+2024-10-10 11:54:48,935:INFO:Watching for file changes with StatReloader
+2024-10-10 11:55:21,495:WARNING:Not Found: /monitoreoVariables
+2024-10-10 11:56:27,149:WARNING:Not Found: /monitoreoVariables
+2024-10-10 11:56:45,875:INFO:Watching for file changes with StatReloader
+2024-10-10 11:56:52,626:WARNING:Not Found: /monitoreoVariables
+2024-10-10 11:59:08,768:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\models.py changed, reloading.
+2024-10-10 11:59:09,609:INFO:Watching for file changes with StatReloader
+2024-10-10 11:59:12,240:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\models.py changed, reloading.
+2024-10-10 11:59:13,084:INFO:Watching for file changes with StatReloader
+2024-10-10 11:59:21,979:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\models.py changed, reloading.
+2024-10-10 11:59:22,825:INFO:Watching for file changes with StatReloader
+2024-10-10 11:59:24,357:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\models.py changed, reloading.
+2024-10-10 11:59:25,283:INFO:Watching for file changes with StatReloader
+2024-10-10 11:59:27,893:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\models.py changed, reloading.
+2024-10-10 11:59:28,770:INFO:Watching for file changes with StatReloader
+2024-10-10 12:01:23,446:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\models.py changed, reloading.
+2024-10-10 12:01:24,308:INFO:Watching for file changes with StatReloader
+2024-10-10 12:01:29,012:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\models.py changed, reloading.
+2024-10-10 12:01:29,863:INFO:Watching for file changes with StatReloader
+2024-10-10 12:01:32,512:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\models.py changed, reloading.
+2024-10-10 12:01:33,345:INFO:Watching for file changes with StatReloader
+2024-10-10 12:01:39,074:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\models.py changed, reloading.
+2024-10-10 12:01:41,989:INFO:Watching for file changes with StatReloader
+2024-10-10 12:02:05,498:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\models.py changed, reloading.
+2024-10-10 12:02:06,278:INFO:Watching for file changes with StatReloader
+2024-10-10 12:02:12,041:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\models.py changed, reloading.
+2024-10-10 12:02:12,931:INFO:Watching for file changes with StatReloader
+2024-10-10 12:02:21,844:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\models.py changed, reloading.
+2024-10-10 12:02:22,725:INFO:Watching for file changes with StatReloader
+2024-10-10 12:05:08,822:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\urls.py changed, reloading.
+2024-10-10 12:05:09,724:INFO:Watching for file changes with StatReloader
+2024-10-10 12:05:19,694:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\urls.py changed, reloading.
+2024-10-10 12:05:20,521:INFO:Watching for file changes with StatReloader
+2024-10-10 12:05:23,100:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\urls.py changed, reloading.
+2024-10-10 12:05:23,897:INFO:Watching for file changes with StatReloader
+2024-10-10 12:05:30,704:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\views.py changed, reloading.
+2024-10-10 12:05:31,471:INFO:Watching for file changes with StatReloader
+2024-10-10 12:05:36,115:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\views.py changed, reloading.
+2024-10-10 12:05:36,980:INFO:Watching for file changes with StatReloader
+2024-10-10 12:05:43,809:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\views.py changed, reloading.
+2024-10-10 12:05:44,714:INFO:Watching for file changes with StatReloader
+2024-10-10 12:05:47,028:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\views.py changed, reloading.
+2024-10-10 12:05:47,837:INFO:Watching for file changes with StatReloader
+2024-10-10 12:05:55,695:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\views.py changed, reloading.
+2024-10-10 12:05:56,453:INFO:Watching for file changes with StatReloader
+2024-10-10 12:06:00,096:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\views.py changed, reloading.
+2024-10-10 12:06:00,974:INFO:Watching for file changes with StatReloader
+2024-10-10 12:06:11,989:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\views.py changed, reloading.
+2024-10-10 12:06:12,871:INFO:Watching for file changes with StatReloader
+2024-10-10 12:06:14,489:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\views.py changed, reloading.
+2024-10-10 12:06:15,343:INFO:Watching for file changes with StatReloader
+2024-10-10 12:06:17,952:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\views.py changed, reloading.
+2024-10-10 12:06:18,789:INFO:Watching for file changes with StatReloader
+2024-10-10 12:07:02,297:WARNING:Forbidden (CSRF cookie not set.): /GetUsers
+2024-10-10 12:07:18,773:WARNING:Forbidden (CSRF cookie not set.): /GetUsers
+2024-10-10 12:07:39,235:WARNING:Forbidden (CSRF cookie not set.): /GetUsers
+2024-10-10 12:07:56,202:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\urls.py changed, reloading.
+2024-10-10 12:07:57,040:INFO:Watching for file changes with StatReloader
+2024-10-10 12:08:00,426:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\urls.py changed, reloading.
+2024-10-10 12:08:01,247:INFO:Watching for file changes with StatReloader
+2024-10-10 12:08:04,880:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\urls.py changed, reloading.
+2024-10-10 12:08:05,631:INFO:Watching for file changes with StatReloader
+2024-10-10 12:08:18,688:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\urls.py changed, reloading.
+2024-10-10 12:08:19,529:INFO:Watching for file changes with StatReloader
+2024-10-10 12:08:26,273:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\urls.py changed, reloading.
+2024-10-10 12:08:27,141:INFO:Watching for file changes with StatReloader
+2024-10-10 12:10:46,506:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\views.py changed, reloading.
+2024-10-10 12:10:47,337:INFO:Watching for file changes with StatReloader
+2024-10-10 12:10:50,996:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\views.py changed, reloading.
+2024-10-10 12:10:51,759:INFO:Watching for file changes with StatReloader
+2024-10-10 12:11:18,380:WARNING:Forbidden (CSRF cookie not set.): /GetUsers
+2024-10-10 12:12:40,103:INFO:Watching for file changes with StatReloader
+2024-10-10 12:13:32,760:WARNING:Forbidden (CSRF cookie not set.): /GetUsers
+2024-10-10 12:16:15,653:ERROR:Internal Server Error: /GetUsers
+Traceback (most recent call last):
+  File "C:\Users\Aarón\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Aarón\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+TypeError: GetUsers() missing 2 required positional arguments: 'username' and 'password'
+2024-10-10 12:17:22,951:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\urls.py changed, reloading.
+2024-10-10 12:17:23,840:INFO:Watching for file changes with StatReloader
+2024-10-10 12:17:42,192:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\urls.py changed, reloading.
+2024-10-10 12:17:42,990:INFO:Watching for file changes with StatReloader
+2024-10-10 12:17:44,566:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\urls.py changed, reloading.
+2024-10-10 12:17:45,385:INFO:Watching for file changes with StatReloader
+2024-10-10 12:17:53,191:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\urls.py changed, reloading.
+2024-10-10 12:17:53,986:INFO:Watching for file changes with StatReloader
+2024-10-10 12:17:55,568:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\urls.py changed, reloading.
+2024-10-10 12:17:56,344:INFO:Watching for file changes with StatReloader
+2024-10-10 12:18:00,024:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\urls.py changed, reloading.
+2024-10-10 12:18:00,811:INFO:Watching for file changes with StatReloader
+2024-10-10 12:18:05,498:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\urls.py changed, reloading.
+2024-10-10 12:18:06,334:INFO:Watching for file changes with StatReloader
+2024-10-10 12:18:08,967:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\urls.py changed, reloading.
+2024-10-10 12:18:09,844:INFO:Watching for file changes with StatReloader
+2024-10-10 12:18:19,797:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\urls.py changed, reloading.
+2024-10-10 12:18:20,627:INFO:Watching for file changes with StatReloader
+2024-10-10 12:18:23,544:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\urls.py changed, reloading.
+2024-10-10 12:18:24,384:INFO:Watching for file changes with StatReloader
+2024-10-10 12:19:20,182:ERROR:Internal Server Error: /GetUsers/A&A
+2024-10-10 12:19:31,406:ERROR:Internal Server Error: /GetUsers/Aaron&Aar
+2024-10-10 12:19:38,898:ERROR:Internal Server Error: /GetUsers/Aaron&Aar
+2024-10-10 12:20:06,563:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\urls.py changed, reloading.
+2024-10-10 12:20:07,484:INFO:Watching for file changes with StatReloader
+2024-10-10 12:20:25,831:ERROR:Internal Server Error: /GetUsers/Aaron & Aar
+2024-10-10 12:22:19,981:WARNING:Not Found: /GetUsers
+2024-10-10 12:22:38,610:WARNING:Not Found: /GetUsers/Aaron&Aar
+2024-10-10 12:23:04,966:WARNING:Not Found: /GetUsers
+2024-10-10 12:23:10,896:WARNING:Not Found: /GetUsers
+2024-10-10 12:23:11,580:WARNING:Not Found: /GetUsers
+2024-10-10 12:23:18,168:WARNING:Not Found: /GetUsers
+2024-10-10 12:23:18,707:WARNING:Not Found: /GetUsers
+2024-10-10 12:23:18,871:WARNING:Not Found: /GetUsers
+2024-10-10 12:23:19,035:WARNING:Not Found: /GetUsers
+2024-10-10 12:23:19,190:WARNING:Not Found: /GetUsers
+2024-10-10 12:23:30,794:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\urls.py changed, reloading.
+2024-10-10 12:23:31,739:INFO:Watching for file changes with StatReloader
+2024-10-10 12:23:33,186:WARNING:Not Found: /GetUsers
+2024-10-10 12:23:43,188:ERROR:Internal Server Error: /GetUsers/Aaron&Aar
+2024-10-10 12:24:13,982:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\views.py changed, reloading.
+2024-10-10 12:24:14,830:INFO:Watching for file changes with StatReloader
+2024-10-10 12:24:19,372:ERROR:Internal Server Error: /GetUsers/Aaron&Aar
+Traceback (most recent call last):
+  File "C:\Users\Aarón\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Aarón\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\views.py", line 33, in GetUsers
+    data = DB_Conexion.autenticar_usuario(username, password)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+TypeError: DB_Conexion.autenticar_usuario() missing 1 required positional argument: 'password'
+2024-10-10 12:24:34,498:ERROR:Internal Server Error: /GetUsers/Aaron&Aar
+Traceback (most recent call last):
+  File "C:\Users\Aarón\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Aarón\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\views.py", line 33, in GetUsers
+    data = DB_Conexion.autenticar_usuario(username, password)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+TypeError: DB_Conexion.autenticar_usuario() missing 1 required positional argument: 'password'
+2024-10-10 12:25:29,036:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\urls.py changed, reloading.
+2024-10-10 12:25:29,876:INFO:Watching for file changes with StatReloader
+2024-10-10 12:25:40,571:WARNING:Not Found: /GetUsers/Aaron&Aar
+2024-10-10 12:25:47,018:ERROR:Internal Server Error: /GetUsers/Aaron & Aar
+Traceback (most recent call last):
+  File "C:\Users\Aarón\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Aarón\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\views.py", line 33, in GetUsers
+    data = DB_Conexion.autenticar_usuario(username, password)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+TypeError: DB_Conexion.autenticar_usuario() missing 1 required positional argument: 'password'
+2024-10-10 12:26:03,614:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\urls.py changed, reloading.
+2024-10-10 12:26:04,494:INFO:Watching for file changes with StatReloader
+2024-10-10 12:26:32,228:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\views.py changed, reloading.
+2024-10-10 12:26:33,094:INFO:Watching for file changes with StatReloader
+2024-10-10 12:26:33,935:WARNING:Not Found: /GetUsers/Aaron & Aar
+2024-10-10 12:26:40,114:ERROR:Internal Server Error: /GetUsers/Aaron&&Aar
+Traceback (most recent call last):
+  File "C:\Users\Aarón\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Aarón\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\views.py", line 33, in GetUsers
+    data = DB_Conexion.autenticar_usuario(username, password)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+TypeError: DB_Conexion.autenticar_usuario() missing 1 required positional argument: 'password'
+2024-10-10 12:28:43,193:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\urls.py changed, reloading.
+2024-10-10 12:28:43,974:INFO:Watching for file changes with StatReloader
+2024-10-10 12:28:58,959:ERROR:Internal Server Error: /GetUsers/Aaron
+Traceback (most recent call last):
+  File "C:\Users\Aarón\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Aarón\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\views.py", line 33, in GetUsers
+    data = DB_Conexion.autenticar_usuario(username, password)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+TypeError: DB_Conexion.autenticar_usuario() missing 1 required positional argument: 'password'
+2024-10-10 12:29:06,956:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\urls.py changed, reloading.
+2024-10-10 12:29:07,869:INFO:Watching for file changes with StatReloader
+2024-10-10 12:29:08,491:WARNING:Not Found: /GetUsers/Aaron
+2024-10-10 12:29:13,558:ERROR:Internal Server Error: /GetUsers/Aaron/Aar
+Traceback (most recent call last):
+  File "C:\Users\Aarón\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Aarón\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\views.py", line 33, in GetUsers
+    data = DB_Conexion.autenticar_usuario(username, password)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+TypeError: DB_Conexion.autenticar_usuario() missing 1 required positional argument: 'password'
+2024-10-10 12:29:21,254:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\urls.py changed, reloading.
+2024-10-10 12:29:22,080:INFO:Watching for file changes with StatReloader
+2024-10-10 12:29:24,713:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\urls.py changed, reloading.
+2024-10-10 12:29:25,482:INFO:Watching for file changes with StatReloader
+2024-10-10 12:29:29,109:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\urls.py changed, reloading.
+2024-10-10 12:29:29,970:INFO:Watching for file changes with StatReloader
+2024-10-10 12:29:32,528:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\urls.py changed, reloading.
+2024-10-10 12:29:33,305:INFO:Watching for file changes with StatReloader
+2024-10-10 12:29:34,887:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\urls.py changed, reloading.
+2024-10-10 12:29:35,631:INFO:Watching for file changes with StatReloader
+2024-10-10 12:29:37,194:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\urls.py changed, reloading.
+2024-10-10 12:29:38,052:INFO:Watching for file changes with StatReloader
+2024-10-10 12:29:39,612:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\urls.py changed, reloading.
+2024-10-10 12:29:40,365:INFO:Watching for file changes with StatReloader
+2024-10-10 12:29:40,726:WARNING:Not Found: /GetUsers/Aaron/Aar
+2024-10-10 12:29:52,122:WARNING:Not Found: /GetUsers
+2024-10-10 12:30:32,441:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\urls.py changed, reloading.
+2024-10-10 12:30:33,271:INFO:Watching for file changes with StatReloader
+2024-10-10 12:30:35,870:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\urls.py changed, reloading.
+2024-10-10 12:30:36,693:INFO:Watching for file changes with StatReloader
+2024-10-10 12:30:38,299:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\urls.py changed, reloading.
+2024-10-10 12:30:39,078:INFO:Watching for file changes with StatReloader
+2024-10-10 12:31:55,902:INFO:Watching for file changes with StatReloader
+2024-10-10 12:31:58,765:WARNING:Not Found: /GetUsers
+2024-10-10 12:32:23,198:ERROR:Internal Server Error: /GetUsers/username=Aaron&password=Aar
+Traceback (most recent call last):
+  File "C:\Users\Aarón\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Aarón\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\views.py", line 33, in GetUsers
+    data = DB_Conexion.autenticar_usuario(username, password)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+TypeError: DB_Conexion.autenticar_usuario() missing 1 required positional argument: 'password'
+2024-10-10 12:34:24,254:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\urls.py changed, reloading.
+2024-10-10 12:34:25,187:INFO:Watching for file changes with StatReloader
+2024-10-10 12:34:29,838:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\urls.py changed, reloading.
+2024-10-10 12:34:30,689:INFO:Watching for file changes with StatReloader
+2024-10-10 12:34:51,728:WARNING:Not Found: /Get
+2024-10-10 12:35:03,894:ERROR:Internal Server Error: /GetUsers/Aaron/Aaron/
+Traceback (most recent call last):
+  File "C:\Users\Aarón\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Aarón\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\views.py", line 33, in GetUsers
+    data = DB_Conexion.autenticar_usuario(username, password)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+TypeError: DB_Conexion.autenticar_usuario() missing 1 required positional argument: 'password'
+2024-10-10 12:35:24,878:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\views.py changed, reloading.
+2024-10-10 12:35:25,739:INFO:Watching for file changes with StatReloader
+2024-10-10 12:35:28,336:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\views.py changed, reloading.
+2024-10-10 12:35:29,127:INFO:Watching for file changes with StatReloader
+2024-10-10 12:35:32,777:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\views.py changed, reloading.
+2024-10-10 12:35:33,593:INFO:Watching for file changes with StatReloader
+2024-10-10 12:35:34,202:ERROR:Internal Server Error: /GetUsers/Aaron/Aaron/
+Traceback (most recent call last):
+  File "C:\Users\Aarón\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Aarón\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\views.py", line 34, in GetUsers
+    data = DB_Conexion.autenticar_usuario(username, password)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+TypeError: DB_Conexion.autenticar_usuario() missing 1 required positional argument: 'password'
+2024-10-10 12:35:38,033:ERROR:Internal Server Error: /GetUsers/Aaron/Aaron/
+Traceback (most recent call last):
+  File "C:\Users\Aarón\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Aarón\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\views.py", line 34, in GetUsers
+    data = DB_Conexion.autenticar_usuario(username, password)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+TypeError: DB_Conexion.autenticar_usuario() missing 1 required positional argument: 'password'
+2024-10-10 12:35:39,719:ERROR:Internal Server Error: /GetUsers/Aaron/Aaron/
+Traceback (most recent call last):
+  File "C:\Users\Aarón\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Aarón\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\views.py", line 34, in GetUsers
+    data = DB_Conexion.autenticar_usuario(username, password)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+TypeError: DB_Conexion.autenticar_usuario() missing 1 required positional argument: 'password'
+2024-10-10 12:35:56,541:WARNING:Not Found: /GetUsers
+2024-10-10 12:36:06,072:WARNING:Not Found: /GetUsers/Aarón
+2024-10-10 12:36:17,465:WARNING:Not Found: /GetUsers/Aarón, Usua
+2024-10-10 12:36:24,291:ERROR:Internal Server Error: /GetUsers/Aarón/Usua/
+Traceback (most recent call last):
+  File "C:\Users\Aarón\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Aarón\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\views.py", line 34, in GetUsers
+    data = DB_Conexion.autenticar_usuario(username, password)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+TypeError: DB_Conexion.autenticar_usuario() missing 1 required positional argument: 'password'
+2024-10-10 12:36:52,010:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\urls.py changed, reloading.
+2024-10-10 12:36:52,900:INFO:Watching for file changes with StatReloader
+2024-10-10 12:36:53,575:WARNING:Not Found: /GetUsers/Aarón, Usua
+2024-10-10 12:36:59,937:ERROR:Internal Server Error: /GetUsers/Aarón%Usua/
+Traceback (most recent call last):
+  File "C:\Users\Aarón\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Aarón\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\views.py", line 34, in GetUsers
+    data = DB_Conexion.autenticar_usuario(username, password)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+TypeError: DB_Conexion.autenticar_usuario() missing 1 required positional argument: 'password'
+2024-10-10 12:37:26,477:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\models.py changed, reloading.
+2024-10-10 12:37:27,349:INFO:Watching for file changes with StatReloader
+2024-10-10 12:37:28,508:ERROR:Internal Server Error: /GetUsers/Aarón%Usua/
+2024-10-10 12:37:44,760:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\urls.py changed, reloading.
+2024-10-10 12:37:45,607:INFO:Watching for file changes with StatReloader
+2024-10-10 12:37:51,983:ERROR:Internal Server Error: /GetUsers/Aaron&&Aar/
+2024-10-10 12:38:20,873:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\urls.py changed, reloading.
+2024-10-10 12:38:21,686:INFO:Watching for file changes with StatReloader
+2024-10-10 12:38:43,205:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\models.py changed, reloading.
+2024-10-10 12:38:44,103:INFO:Watching for file changes with StatReloader
+2024-10-10 12:38:47,770:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\models.py changed, reloading.
+2024-10-10 12:38:48,597:INFO:Watching for file changes with StatReloader
+2024-10-10 12:38:56,482:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\views.py changed, reloading.
+2024-10-10 12:38:57,346:INFO:Watching for file changes with StatReloader
+2024-10-10 12:38:58,941:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\views.py changed, reloading.
+2024-10-10 12:38:59,768:INFO:Watching for file changes with StatReloader
+2024-10-10 12:39:02,445:ERROR:Internal Server Error: /GetUsers/Aaron&&Aar/
+2024-10-10 12:39:14,237:ERROR:Internal Server Error: /GetUsers/Aaron&Aar/
+2024-10-10 12:40:04,602:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\models.py changed, reloading.
+2024-10-10 12:40:05,410:INFO:Watching for file changes with StatReloader
+2024-10-10 12:40:12,221:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\models.py changed, reloading.
+2024-10-10 12:40:13,024:INFO:Watching for file changes with StatReloader
+2024-10-10 12:40:46,072:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\views.py changed, reloading.
+2024-10-10 12:40:46,950:INFO:Watching for file changes with StatReloader
+2024-10-10 12:40:50,342:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\views.py changed, reloading.
+2024-10-10 12:40:51,063:INFO:Watching for file changes with StatReloader
+2024-10-10 12:41:05,163:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\models.py changed, reloading.
+2024-10-10 12:41:05,859:INFO:Watching for file changes with StatReloader
+2024-10-10 12:41:13,689:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\models.py changed, reloading.
+2024-10-10 12:41:14,462:INFO:Watching for file changes with StatReloader
+2024-10-10 12:41:33,780:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\models.py changed, reloading.
+2024-10-10 12:41:51,177:INFO:Watching for file changes with StatReloader
+2024-10-10 12:41:55,811:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\models.py changed, reloading.
+2024-10-10 12:42:22,710:INFO:Watching for file changes with StatReloader
+2024-10-10 12:42:25,317:ERROR:Internal Server Error: /GetUsers/Aaron&Aar/
+2024-10-10 12:42:31,416:ERROR:Internal Server Error: /GetUsers/Aaron&Aar/
+2024-10-10 12:42:47,488:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\models.py changed, reloading.
+2024-10-10 12:42:48,318:INFO:Watching for file changes with StatReloader
+2024-10-10 12:42:49,994:ERROR:Internal Server Error: /GetUsers/Aaron&Aar/
+2024-10-10 12:42:51,689:ERROR:Internal Server Error: /GetUsers/Aaron&Aar/
+2024-10-10 12:43:26,814:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\models.py changed, reloading.
+2024-10-10 12:43:27,653:INFO:Watching for file changes with StatReloader
+2024-10-10 12:43:29,202:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\models.py changed, reloading.
+2024-10-10 12:43:29,951:INFO:Watching for file changes with StatReloader
+2024-10-10 12:43:31,486:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\models.py changed, reloading.
+2024-10-10 12:43:32,286:INFO:Watching for file changes with StatReloader
+2024-10-10 12:43:35,919:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\models.py changed, reloading.
+2024-10-10 12:43:39,829:INFO:Watching for file changes with StatReloader
+2024-10-10 12:43:41,930:ERROR:Internal Server Error: /GetUsers/Aaron&Aar/
+2024-10-10 12:46:18,781:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\models.py changed, reloading.
+2024-10-10 12:46:19,641:INFO:Watching for file changes with StatReloader
+2024-10-10 12:46:25,374:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\models.py changed, reloading.
+2024-10-10 12:46:26,156:INFO:Watching for file changes with StatReloader
+2024-10-10 12:46:31,908:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\models.py changed, reloading.
+2024-10-10 12:46:32,710:INFO:Watching for file changes with StatReloader
+2024-10-10 12:46:36,304:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\models.py changed, reloading.
+2024-10-10 12:46:37,111:INFO:Watching for file changes with StatReloader
+2024-10-10 12:47:22,850:WARNING:Unauthorized: /GetUsers/username=Aaron&password=Aar/
+2024-10-10 12:48:05,006:WARNING:Unauthorized: /GetUsers/username=Aaron&password=Aar/
+2024-10-10 12:48:44,037:WARNING:Unauthorized: /GetUsers/Aaron&Aar1/
+2024-10-11 22:48:25,978:INFO:Watching for file changes with StatReloader
+2024-10-11 22:48:45,504:WARNING:Not Found: /ENA
+2024-10-11 22:48:45,588:WARNING:Not Found: /favicon.ico
+2024-10-13 00:12:08,334:INFO:Watching for file changes with StatReloader
+2024-10-13 00:12:44,479:WARNING:Not Found: /favicon.ico
+2024-10-16 20:04:26,530:INFO:Watching for file changes with StatReloader
+2024-10-16 20:04:35,348:WARNING:Not Found: /favicon.ico
+2024-10-16 20:23:37,057:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\models.py changed, reloading.
+2024-10-16 20:23:37,803:INFO:Watching for file changes with StatReloader
+2024-10-16 20:23:45,327:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\models.py changed, reloading.
+2024-10-16 20:24:52,806:INFO:Watching for file changes with StatReloader
+2024-10-16 20:24:54,075:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\models.py changed, reloading.
+2024-10-16 20:24:54,666:INFO:Watching for file changes with StatReloader
+2024-10-16 20:24:56,965:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\models.py changed, reloading.
+2024-10-16 20:25:00,365:INFO:Watching for file changes with StatReloader
+2024-10-16 20:25:01,649:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\models.py changed, reloading.
+2024-10-16 20:25:02,170:INFO:Watching for file changes with StatReloader
+2024-10-16 20:25:06,512:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\models.py changed, reloading.
+2024-10-16 20:25:07,084:INFO:Watching for file changes with StatReloader
+2024-10-16 20:25:14,570:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\models.py changed, reloading.
+2024-10-16 20:25:15,096:INFO:Watching for file changes with StatReloader
+2024-10-16 20:25:22,510:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\models.py changed, reloading.
+2024-10-16 20:25:23,104:INFO:Watching for file changes with StatReloader
+2024-10-16 20:25:24,396:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\models.py changed, reloading.
+2024-10-16 20:25:24,972:INFO:Watching for file changes with StatReloader
+2024-10-16 20:25:26,267:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\models.py changed, reloading.
+2024-10-16 20:25:26,849:INFO:Watching for file changes with StatReloader
+2024-10-16 20:25:28,107:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\models.py changed, reloading.
+2024-10-16 20:25:28,773:INFO:Watching for file changes with StatReloader
+2024-10-16 20:25:33,179:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\models.py changed, reloading.
+2024-10-16 20:25:33,690:INFO:Watching for file changes with StatReloader
+2024-10-16 20:25:35,997:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\models.py changed, reloading.
+2024-10-16 20:25:36,577:INFO:Watching for file changes with StatReloader
+2024-10-16 20:25:37,824:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\models.py changed, reloading.
+2024-10-16 20:25:38,352:INFO:Watching for file changes with StatReloader
+2024-10-16 20:25:43,705:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\models.py changed, reloading.
+2024-10-16 20:25:44,300:INFO:Watching for file changes with StatReloader
+2024-10-16 20:25:45,653:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\models.py changed, reloading.
+2024-10-16 20:25:50,054:INFO:Watching for file changes with StatReloader
+2024-10-16 20:25:51,366:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\models.py changed, reloading.
+2024-10-16 20:25:51,993:INFO:Watching for file changes with StatReloader
+2024-10-16 20:25:55,364:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\models.py changed, reloading.
+2024-10-16 20:25:55,844:INFO:Watching for file changes with StatReloader
+2024-10-16 20:26:03,257:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\models.py changed, reloading.
+2024-10-16 20:26:04,006:INFO:Watching for file changes with StatReloader
+2024-10-16 20:26:12,455:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\models.py changed, reloading.
+2024-10-16 20:26:13,037:INFO:Watching for file changes with StatReloader
+2024-10-16 20:26:31,078:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\models.py changed, reloading.
+2024-10-16 20:26:31,674:INFO:Watching for file changes with StatReloader
+2024-10-16 20:26:33,049:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\models.py changed, reloading.
+2024-10-16 20:26:33,740:INFO:Watching for file changes with StatReloader
+2024-10-16 20:26:36,150:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\models.py changed, reloading.
+2024-10-16 20:26:36,888:INFO:Watching for file changes with StatReloader
+2024-10-16 20:26:44,551:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\models.py changed, reloading.
+2024-10-16 20:26:45,111:INFO:Watching for file changes with StatReloader
+2024-10-16 20:26:48,606:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\models.py changed, reloading.
+2024-10-16 20:26:49,167:INFO:Watching for file changes with StatReloader
+2024-10-16 20:26:50,622:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\models.py changed, reloading.
+2024-10-16 20:26:51,234:INFO:Watching for file changes with StatReloader
+2024-10-16 20:26:52,589:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\models.py changed, reloading.
+2024-10-16 20:26:53,149:INFO:Watching for file changes with StatReloader
+2024-10-16 20:26:57,597:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\models.py changed, reloading.
+2024-10-16 20:26:58,207:INFO:Watching for file changes with StatReloader
+2024-10-16 20:27:01,725:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\models.py changed, reloading.
+2024-10-16 20:27:02,386:INFO:Watching for file changes with StatReloader
+2024-10-16 20:27:03,768:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\models.py changed, reloading.
+2024-10-16 20:27:04,357:INFO:Watching for file changes with StatReloader
+2024-10-16 20:27:11,957:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\models.py changed, reloading.
+2024-10-16 20:27:12,529:INFO:Watching for file changes with StatReloader
+2024-10-16 20:27:14,928:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\models.py changed, reloading.
+2024-10-16 20:27:15,587:INFO:Watching for file changes with StatReloader
+2024-10-16 20:27:16,922:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\models.py changed, reloading.
+2024-10-16 20:27:17,494:INFO:Watching for file changes with StatReloader
+2024-10-16 20:27:18,910:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\models.py changed, reloading.
+2024-10-16 20:27:19,449:INFO:Watching for file changes with StatReloader
+2024-10-16 20:27:22,933:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\models.py changed, reloading.
+2024-10-16 20:27:23,536:INFO:Watching for file changes with StatReloader
+2024-10-16 20:27:25,944:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\models.py changed, reloading.
+2024-10-16 20:27:26,538:INFO:Watching for file changes with StatReloader
+2024-10-16 20:27:28,947:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\models.py changed, reloading.
+2024-10-16 20:27:29,507:INFO:Watching for file changes with StatReloader
+2024-10-16 20:28:11,071:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\models.py changed, reloading.
+2024-10-16 20:28:11,574:INFO:Watching for file changes with StatReloader
+2024-10-16 20:28:12,934:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\models.py changed, reloading.
+2024-10-16 20:28:13,464:INFO:Watching for file changes with StatReloader
+2024-10-16 20:28:16,972:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\models.py changed, reloading.
+2024-10-16 20:28:17,497:INFO:Watching for file changes with StatReloader
+2024-10-16 20:28:18,854:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\models.py changed, reloading.
+2024-10-16 20:28:19,388:INFO:Watching for file changes with StatReloader
+2024-10-16 20:28:24,796:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\models.py changed, reloading.
+2024-10-16 20:28:25,291:INFO:Watching for file changes with StatReloader
+2024-10-16 20:28:28,687:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\models.py changed, reloading.
+2024-10-16 20:28:29,192:INFO:Watching for file changes with StatReloader
+2024-10-16 20:28:34,662:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\models.py changed, reloading.
+2024-10-16 20:28:35,190:INFO:Watching for file changes with StatReloader
+2024-10-16 20:28:37,568:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\models.py changed, reloading.
+2024-10-16 20:28:38,082:INFO:Watching for file changes with StatReloader
+2024-10-16 20:28:52,999:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\models.py changed, reloading.
+2024-10-16 20:28:53,629:INFO:Watching for file changes with StatReloader
+2024-10-16 20:28:54,951:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\models.py changed, reloading.
+2024-10-16 20:28:55,478:INFO:Watching for file changes with StatReloader
+2024-10-16 20:28:58,867:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\models.py changed, reloading.
+2024-10-16 20:28:59,394:INFO:Watching for file changes with StatReloader
+2024-10-16 20:29:02,788:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\models.py changed, reloading.
+2024-10-16 20:29:03,305:INFO:Watching for file changes with StatReloader
+2024-10-16 20:29:04,664:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\models.py changed, reloading.
+2024-10-16 20:29:05,222:INFO:Watching for file changes with StatReloader
+2024-10-16 20:29:11,691:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\models.py changed, reloading.
+2024-10-16 20:29:12,191:INFO:Watching for file changes with StatReloader
+2024-10-16 20:29:13,554:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\models.py changed, reloading.
+2024-10-16 20:29:14,058:INFO:Watching for file changes with StatReloader
+2024-10-16 20:29:16,575:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\models.py changed, reloading.
+2024-10-16 20:29:17,143:INFO:Watching for file changes with StatReloader
+2024-10-16 20:29:18,475:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\models.py changed, reloading.
+2024-10-16 20:29:19,036:INFO:Watching for file changes with StatReloader
+2024-10-16 20:29:21,417:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\models.py changed, reloading.
+2024-10-16 20:29:21,947:INFO:Watching for file changes with StatReloader
+2024-10-16 20:29:23,281:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\models.py changed, reloading.
+2024-10-16 20:29:23,790:INFO:Watching for file changes with StatReloader
+2024-10-16 20:29:35,446:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\models.py changed, reloading.
+2024-10-16 20:29:36,034:INFO:Watching for file changes with StatReloader
+2024-10-16 20:29:40,498:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\models.py changed, reloading.
+2024-10-16 20:29:41,013:INFO:Watching for file changes with StatReloader
+2024-10-16 20:29:47,495:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\models.py changed, reloading.
+2024-10-16 20:29:48,120:INFO:Watching for file changes with StatReloader
+2024-10-16 20:29:52,569:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\models.py changed, reloading.
+2024-10-16 20:29:53,100:INFO:Watching for file changes with StatReloader
+2024-10-16 20:29:57,509:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\models.py changed, reloading.
+2024-10-16 20:29:58,016:INFO:Watching for file changes with StatReloader
+2024-10-16 20:30:03,510:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\models.py changed, reloading.
+2024-10-16 20:30:04,057:INFO:Watching for file changes with StatReloader
+2024-10-16 20:30:07,501:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\models.py changed, reloading.
+2024-10-16 20:30:08,095:INFO:Watching for file changes with StatReloader
+2024-10-16 20:30:09,479:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\models.py changed, reloading.
+2024-10-16 20:30:10,069:INFO:Watching for file changes with StatReloader
+2024-10-16 20:30:11,428:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\models.py changed, reloading.
+2024-10-16 20:30:11,929:INFO:Watching for file changes with StatReloader
+2024-10-16 20:30:13,242:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\models.py changed, reloading.
+2024-10-16 20:30:13,839:INFO:Watching for file changes with StatReloader
+2024-10-16 20:30:17,389:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\models.py changed, reloading.
+2024-10-16 20:30:17,947:INFO:Watching for file changes with StatReloader
+2024-10-16 20:30:19,261:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\models.py changed, reloading.
+2024-10-16 20:30:19,822:INFO:Watching for file changes with StatReloader
+2024-10-16 20:31:01,467:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\models.py changed, reloading.
+2024-10-16 20:31:02,050:INFO:Watching for file changes with StatReloader
+2024-10-16 20:31:03,441:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\models.py changed, reloading.
+2024-10-16 20:32:24,034:INFO:Watching for file changes with StatReloader
+2024-10-16 20:32:35,651:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\models.py changed, reloading.
+2024-10-16 20:32:36,176:INFO:Watching for file changes with StatReloader
+2024-10-16 20:35:24,872:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\models.py changed, reloading.
+2024-10-16 20:35:25,412:INFO:Watching for file changes with StatReloader
+2024-10-16 20:35:29,748:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\models.py changed, reloading.
+2024-10-16 20:35:30,324:INFO:Watching for file changes with StatReloader
+2024-10-16 20:42:11,959:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\models.py changed, reloading.
+2024-10-16 20:42:12,495:INFO:Watching for file changes with StatReloader
+2024-10-16 20:42:22,981:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\models.py changed, reloading.
+2024-10-16 20:42:23,471:INFO:Watching for file changes with StatReloader
+2024-10-16 20:43:15,906:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\models.py changed, reloading.
+2024-10-16 20:43:16,416:INFO:Watching for file changes with StatReloader
+2024-10-16 20:45:41,569:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\models.py changed, reloading.
+2024-10-16 20:45:42,251:INFO:Watching for file changes with StatReloader
+2024-10-16 20:46:34,966:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\models.py changed, reloading.
+2024-10-16 20:46:35,591:INFO:Watching for file changes with StatReloader
+2024-10-16 20:46:57,338:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\models.py changed, reloading.
+2024-10-16 20:46:57,987:INFO:Watching for file changes with StatReloader
+2024-10-16 20:47:52,760:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\models.py changed, reloading.
+2024-10-16 20:47:53,263:INFO:Watching for file changes with StatReloader
+2024-10-16 20:47:59,693:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\models.py changed, reloading.
+2024-10-16 20:48:00,273:INFO:Watching for file changes with StatReloader
+2024-10-16 20:48:02,576:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\models.py changed, reloading.
+2024-10-16 20:48:03,079:INFO:Watching for file changes with StatReloader
+2024-10-16 20:48:42,246:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\models.py changed, reloading.
+2024-10-16 20:48:42,712:INFO:Watching for file changes with StatReloader
+2024-10-16 20:48:44,000:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\models.py changed, reloading.
+2024-10-16 20:48:44,553:INFO:Watching for file changes with StatReloader
+2024-10-16 20:49:19,661:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\models.py changed, reloading.
+2024-10-16 20:49:22,587:INFO:Requested http://ipinfo.io/json
+2024-10-16 20:49:22,610:INFO:Watching for file changes with StatReloader
+2024-10-16 20:49:35,381:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\models.py changed, reloading.
+2024-10-16 20:49:36,422:INFO:Requested http://ipinfo.io/json
+2024-10-16 20:49:36,447:INFO:Watching for file changes with StatReloader
+2024-10-16 20:49:39,901:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\models.py changed, reloading.
+2024-10-16 20:49:40,934:INFO:Requested http://ipinfo.io/json
+2024-10-16 20:49:40,949:INFO:Watching for file changes with StatReloader
+2024-10-16 20:49:41,194:INFO:Requested http://ipinfo.io/json
+2024-10-16 20:49:46,574:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\models.py changed, reloading.
+2024-10-16 20:49:47,618:INFO:Requested http://ipinfo.io/json
+2024-10-16 20:49:47,643:INFO:Watching for file changes with StatReloader
+2024-10-16 20:54:42,953:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\models.py changed, reloading.
+2024-10-16 20:54:43,953:INFO:Requested http://ipinfo.io/json
+2024-10-16 20:54:43,975:INFO:Watching for file changes with StatReloader
+2024-10-16 21:00:32,902:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\models.py changed, reloading.
+2024-10-16 21:00:33,894:INFO:Requested http://ipinfo.io/json
+2024-10-16 21:00:33,919:INFO:Watching for file changes with StatReloader
+2024-10-16 21:00:50,794:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\models.py changed, reloading.
+2024-10-16 21:00:51,778:INFO:Requested http://ipinfo.io/json
+2024-10-16 21:00:51,801:INFO:Watching for file changes with StatReloader
+2024-10-16 21:00:57,289:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\models.py changed, reloading.
+2024-10-16 21:00:58,354:INFO:Requested http://ipinfo.io/json
+2024-10-16 21:00:58,379:INFO:Watching for file changes with StatReloader
+2024-10-16 21:04:20,256:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\models.py changed, reloading.
+2024-10-16 21:04:21,271:INFO:Requested http://ipinfo.io/json
+2024-10-16 21:04:21,297:INFO:Watching for file changes with StatReloader
+2024-10-16 21:04:33,035:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\models.py changed, reloading.
+2024-10-16 21:04:34,013:INFO:Requested http://ipinfo.io/json
+2024-10-16 21:04:34,034:INFO:Watching for file changes with StatReloader
+2024-10-16 21:05:35,872:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\models.py changed, reloading.
+2024-10-16 21:05:36,936:INFO:Requested http://ipinfo.io/json
+2024-10-16 21:05:36,963:INFO:Watching for file changes with StatReloader
+2024-10-16 21:11:45,270:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\models.py changed, reloading.
+2024-10-16 21:11:59,889:INFO:Requested http://ipinfo.io/json
+2024-10-16 21:12:00,449:INFO:Watching for file changes with StatReloader
+2024-10-16 21:12:20,759:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\models.py changed, reloading.
+2024-10-16 21:12:21,838:INFO:Requested http://ipinfo.io/json
+2024-10-16 21:12:21,868:INFO:Watching for file changes with StatReloader
+2024-10-16 21:12:54,404:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\models.py changed, reloading.
+2024-10-16 21:12:55,386:INFO:Requested http://ipinfo.io/json
+2024-10-16 21:12:55,414:INFO:Watching for file changes with StatReloader
+2024-10-16 21:12:57,872:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\models.py changed, reloading.
+2024-10-16 21:12:58,947:INFO:Requested http://ipinfo.io/json
+2024-10-16 21:12:58,971:INFO:Watching for file changes with StatReloader
+2024-10-16 21:22:51,611:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\models.py changed, reloading.
+2024-10-16 21:22:53,347:INFO:Requested http://ipinfo.io/json
+2024-10-16 21:22:53,373:INFO:Watching for file changes with StatReloader
+2024-10-16 21:23:36,240:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\models.py changed, reloading.
+2024-10-16 21:23:37,210:INFO:Requested http://ipinfo.io/json
+2024-10-16 21:23:37,234:INFO:Watching for file changes with StatReloader
+2024-10-16 21:23:39,681:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\models.py changed, reloading.
+2024-10-16 21:23:40,690:INFO:Requested http://ipinfo.io/json
+2024-10-16 21:23:40,713:INFO:Watching for file changes with StatReloader
+2024-10-16 21:23:45,222:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\models.py changed, reloading.
+2024-10-16 21:23:46,206:INFO:Requested http://ipinfo.io/json
+2024-10-16 21:23:46,236:INFO:Watching for file changes with StatReloader
+2024-10-16 21:23:54,900:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\models.py changed, reloading.
+2024-10-16 21:23:56,060:INFO:Requested http://ipinfo.io/json
+2024-10-16 21:23:56,083:INFO:Watching for file changes with StatReloader
+2024-10-16 21:24:50,299:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\views.py changed, reloading.
+2024-10-16 21:24:51,413:INFO:Requested http://ipinfo.io/json
+2024-10-16 21:24:51,435:INFO:Watching for file changes with StatReloader
+2024-10-16 21:24:54,759:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\views.py changed, reloading.
+2024-10-16 21:24:55,746:INFO:Requested http://ipinfo.io/json
+2024-10-16 21:24:55,771:INFO:Watching for file changes with StatReloader
+2024-10-16 21:25:00,085:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\views.py changed, reloading.
+2024-10-16 21:25:01,111:INFO:Requested http://ipinfo.io/json
+2024-10-16 21:25:01,134:INFO:Watching for file changes with StatReloader
+2024-10-16 21:25:05,452:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\views.py changed, reloading.
+2024-10-16 21:25:06,464:INFO:Requested http://ipinfo.io/json
+2024-10-16 21:25:06,494:INFO:Watching for file changes with StatReloader
+2024-10-16 21:25:22,212:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\models.py changed, reloading.
+2024-10-16 21:25:23,285:INFO:Watching for file changes with StatReloader
+2024-10-16 21:25:26,660:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\models.py changed, reloading.
+2024-10-16 21:25:27,958:INFO:Requested http://ipinfo.io/json
+2024-10-16 21:25:27,993:INFO:Watching for file changes with StatReloader
+2024-10-16 21:25:43,774:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\views.py changed, reloading.
+2024-10-16 21:25:44,814:INFO:Requested http://ipinfo.io/json
+2024-10-16 21:25:44,836:INFO:Watching for file changes with StatReloader
+2024-10-16 21:25:46,066:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\views.py changed, reloading.
+2024-10-16 21:25:47,005:INFO:Requested http://ipinfo.io/json
+2024-10-16 21:25:47,030:INFO:Watching for file changes with StatReloader
+2024-10-16 21:25:48,274:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\views.py changed, reloading.
+2024-10-16 21:25:49,379:INFO:Requested http://ipinfo.io/json
+2024-10-16 21:25:49,400:INFO:Watching for file changes with StatReloader
+2024-10-16 21:26:42,264:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\views.py changed, reloading.
+2024-10-16 21:26:43,223:INFO:Requested http://ipinfo.io/json
+2024-10-16 21:26:43,243:INFO:Watching for file changes with StatReloader
+2024-10-16 21:26:47,556:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\views.py changed, reloading.
+2024-10-16 21:26:48,534:INFO:Requested http://ipinfo.io/json
+2024-10-16 21:26:48,556:INFO:Watching for file changes with StatReloader
+2024-10-16 21:26:49,764:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\views.py changed, reloading.
+2024-10-16 21:26:50,796:INFO:Requested http://ipinfo.io/json
+2024-10-16 21:26:50,820:INFO:Watching for file changes with StatReloader
+2024-10-16 21:26:52,007:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\views.py changed, reloading.
+2024-10-16 21:26:53,044:INFO:Requested http://ipinfo.io/json
+2024-10-16 21:26:53,068:INFO:Watching for file changes with StatReloader
+2024-10-16 21:27:05,978:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\views.py changed, reloading.
+2024-10-16 21:27:07,085:INFO:Requested http://ipinfo.io/json
+2024-10-16 21:27:07,110:INFO:Watching for file changes with StatReloader
+2024-10-16 21:27:44,864:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\views.py changed, reloading.
+2024-10-16 21:27:45,873:INFO:Requested http://ipinfo.io/json
+2024-10-16 21:27:45,897:INFO:Watching for file changes with StatReloader
+2024-10-16 21:27:47,322:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\views.py changed, reloading.
+2024-10-16 21:27:48,277:INFO:Requested http://ipinfo.io/json
+2024-10-16 21:27:48,299:INFO:Watching for file changes with StatReloader
+2024-10-16 21:27:52,847:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\views.py changed, reloading.
+2024-10-16 21:27:53,837:INFO:Requested http://ipinfo.io/json
+2024-10-16 21:27:53,861:INFO:Watching for file changes with StatReloader
+2024-10-16 21:27:56,361:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\views.py changed, reloading.
+2024-10-16 21:27:57,424:INFO:Requested http://ipinfo.io/json
+2024-10-16 21:27:57,450:INFO:Watching for file changes with StatReloader
+2024-10-16 21:28:40,746:INFO:Requested http://ipinfo.io/json
+2024-10-16 21:28:41,764:INFO:Requested http://ipinfo.io/json
+2024-10-16 21:28:41,788:INFO:Watching for file changes with StatReloader
+2024-10-16 21:28:56,950:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\urls.py changed, reloading.
+2024-10-16 21:28:57,786:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\urls.py changed, reloading.
+2024-10-16 21:28:58,040:INFO:Requested http://ipinfo.io/json
+2024-10-16 21:28:58,065:INFO:Watching for file changes with StatReloader
+2024-10-16 21:28:58,891:INFO:Requested http://ipinfo.io/json
+2024-10-16 21:28:58,921:INFO:Watching for file changes with StatReloader
+2024-10-16 21:29:00,451:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\urls.py changed, reloading.
+2024-10-16 21:29:00,527:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\urls.py changed, reloading.
+2024-10-16 21:29:01,610:INFO:Requested http://ipinfo.io/json
+2024-10-16 21:29:01,639:INFO:Watching for file changes with StatReloader
+2024-10-16 21:29:01,674:INFO:Requested http://ipinfo.io/json
+2024-10-16 21:29:01,707:INFO:Watching for file changes with StatReloader
+2024-10-16 21:29:04,002:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\urls.py changed, reloading.
+2024-10-16 21:29:04,144:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\urls.py changed, reloading.
+2024-10-16 21:29:05,151:INFO:Requested http://ipinfo.io/json
+2024-10-16 21:29:05,181:INFO:Watching for file changes with StatReloader
+2024-10-16 21:29:05,214:INFO:Requested http://ipinfo.io/json
+2024-10-16 21:29:05,255:INFO:Watching for file changes with StatReloader
+2024-10-16 21:29:06,521:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\urls.py changed, reloading.
+2024-10-16 21:29:06,682:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\urls.py changed, reloading.
+2024-10-16 21:29:07,578:INFO:Requested http://ipinfo.io/json
+2024-10-16 21:29:07,605:INFO:Watching for file changes with StatReloader
+2024-10-16 21:29:07,720:INFO:Requested http://ipinfo.io/json
+2024-10-16 21:29:07,753:INFO:Watching for file changes with StatReloader
+2024-10-16 21:29:15,203:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\urls.py changed, reloading.
+2024-10-16 21:29:15,266:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\urls.py changed, reloading.
+2024-10-16 21:29:16,374:INFO:Requested http://ipinfo.io/json
+2024-10-16 21:29:16,402:INFO:Watching for file changes with StatReloader
+2024-10-16 21:29:16,439:INFO:Requested http://ipinfo.io/json
+2024-10-16 21:29:16,469:INFO:Watching for file changes with StatReloader
+2024-10-16 21:29:24,939:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\urls.py changed, reloading.
+2024-10-16 21:29:24,975:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\urls.py changed, reloading.
+2024-10-16 21:29:26,180:INFO:Requested http://ipinfo.io/json
+2024-10-16 21:29:26,186:INFO:Requested http://ipinfo.io/json
+2024-10-16 21:29:26,210:INFO:Watching for file changes with StatReloader
+2024-10-16 21:29:26,212:INFO:Watching for file changes with StatReloader
+2024-10-16 21:29:28,616:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\urls.py changed, reloading.
+2024-10-16 21:29:28,739:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\urls.py changed, reloading.
+2024-10-16 21:29:29,767:INFO:Requested http://ipinfo.io/json
+2024-10-16 21:29:29,798:INFO:Watching for file changes with StatReloader
+2024-10-16 21:29:29,912:INFO:Requested http://ipinfo.io/json
+2024-10-16 21:29:29,943:INFO:Watching for file changes with StatReloader
+2024-10-16 21:29:41,373:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\urls.py changed, reloading.
+2024-10-16 21:29:41,440:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\urls.py changed, reloading.
+2024-10-16 21:29:42,533:INFO:Requested http://ipinfo.io/json
+2024-10-16 21:29:42,556:INFO:Watching for file changes with StatReloader
+2024-10-16 21:29:42,631:INFO:Requested http://ipinfo.io/json
+2024-10-16 21:29:42,669:INFO:Watching for file changes with StatReloader
+2024-10-16 21:29:43,875:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\urls.py changed, reloading.
+2024-10-16 21:29:43,941:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\urls.py changed, reloading.
+2024-10-16 21:29:44,963:INFO:Requested http://ipinfo.io/json
+2024-10-16 21:29:44,989:INFO:Watching for file changes with StatReloader
+2024-10-16 21:29:45,013:INFO:Requested http://ipinfo.io/json
+2024-10-16 21:29:45,045:INFO:Watching for file changes with StatReloader
+2024-10-16 21:29:46,533:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\urls.py changed, reloading.
+2024-10-16 21:29:46,610:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\urls.py changed, reloading.
+2024-10-16 21:29:47,993:INFO:Requested http://ipinfo.io/json
+2024-10-16 21:29:48,017:INFO:Watching for file changes with StatReloader
+2024-10-16 21:29:48,024:INFO:Requested http://ipinfo.io/json
+2024-10-16 21:29:48,046:INFO:Watching for file changes with StatReloader
+2024-10-16 21:30:04,315:ERROR:Internal Server Error: /GetGPS
+Traceback (most recent call last):
+  File "C:\Users\Aarón\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Aarón\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\views.py", line 37, in GetGPS
+    data = GPS.get_position()
+           ^^^^^^^^^^^^^^^^^^
+TypeError: GPS.get_position() missing 1 required positional argument: 'self'
+2024-10-16 21:31:19,903:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\models.py changed, reloading.
+2024-10-16 21:31:19,956:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\models.py changed, reloading.
+2024-10-16 21:31:21,083:INFO:Requested http://ipinfo.io/json
+2024-10-16 21:31:21,084:INFO:Requested http://ipinfo.io/json
+2024-10-16 21:31:21,114:INFO:Watching for file changes with StatReloader
+2024-10-16 21:31:21,116:INFO:Watching for file changes with StatReloader
+2024-10-16 21:31:22,702:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\models.py changed, reloading.
+2024-10-16 21:31:22,711:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\models.py changed, reloading.
+2024-10-16 21:31:23,863:INFO:Requested http://ipinfo.io/json
+2024-10-16 21:31:23,867:INFO:Requested http://ipinfo.io/json
+2024-10-16 21:31:23,893:INFO:Watching for file changes with StatReloader
+2024-10-16 21:31:23,895:INFO:Watching for file changes with StatReloader
+2024-10-16 21:31:32,751:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\views.py changed, reloading.
+2024-10-16 21:31:32,773:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\views.py changed, reloading.
+2024-10-16 21:31:34,295:INFO:Requested http://ipinfo.io/json
+2024-10-16 21:31:34,314:INFO:Requested http://ipinfo.io/json
+2024-10-16 21:31:34,326:INFO:Watching for file changes with StatReloader
+2024-10-16 21:31:34,348:INFO:Watching for file changes with StatReloader
+2024-10-16 21:31:35,386:ERROR:Internal Server Error: /GetGPS
+Traceback (most recent call last):
+  File "C:\Users\Aarón\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Aarón\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\views.py", line 37, in GetGPS
+    data = GPS.get_position("")
+           ^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\models.py", line 195, in get_position
+    self.update_position()
+    ^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'str' object has no attribute 'update_position'
+2024-10-16 21:31:40,034:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\views.py changed, reloading.
+2024-10-16 21:31:40,049:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\views.py changed, reloading.
+2024-10-16 21:31:41,312:INFO:Requested http://ipinfo.io/json
+2024-10-16 21:31:41,319:INFO:Requested http://ipinfo.io/json
+2024-10-16 21:31:41,338:INFO:Watching for file changes with StatReloader
+2024-10-16 21:31:41,348:INFO:Watching for file changes with StatReloader
+2024-10-16 21:31:41,769:ERROR:Internal Server Error: /GetGPS
+Traceback (most recent call last):
+  File "C:\Users\Aarón\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Aarón\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\views.py", line 37, in GetGPS
+    data = GPS.get_position(0)
+           ^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\models.py", line 195, in get_position
+    self.update_position()
+    ^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'int' object has no attribute 'update_position'
+2024-10-16 21:31:45,993:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\views.py changed, reloading.
+2024-10-16 21:31:46,001:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\views.py changed, reloading.
+2024-10-16 21:31:47,178:INFO:Requested http://ipinfo.io/json
+2024-10-16 21:31:47,179:INFO:Requested http://ipinfo.io/json
+2024-10-16 21:31:47,202:INFO:Watching for file changes with StatReloader
+2024-10-16 21:31:47,204:INFO:Watching for file changes with StatReloader
+2024-10-16 21:32:48,863:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\models.py changed, reloading.
+2024-10-16 21:32:48,872:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\models.py changed, reloading.
+2024-10-16 21:32:50,121:INFO:Watching for file changes with StatReloader
+2024-10-16 21:32:50,138:INFO:Watching for file changes with StatReloader
+2024-10-16 21:32:55,887:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\models.py changed, reloading.
+2024-10-16 21:32:55,892:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\models.py changed, reloading.
+2024-10-16 21:32:59,931:INFO:Watching for file changes with StatReloader
+2024-10-16 21:32:59,971:INFO:Watching for file changes with StatReloader
+2024-10-16 21:34:07,455:ERROR:Internal Server Error: /GetGPS
+Traceback (most recent call last):
+  File "C:\Users\Aarón\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Aarón\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\views.py", line 37, in GetGPS
+    data = GPS.get_position()
+           ^^^^^^^^^^^^^^^^^^
+TypeError: GPS.get_position() missing 1 required positional argument: 'self'
+2024-10-16 21:35:12,652:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\views.py changed, reloading.
+2024-10-16 21:35:12,657:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\views.py changed, reloading.
+2024-10-16 21:35:13,791:INFO:Watching for file changes with StatReloader
+2024-10-16 21:35:13,806:INFO:Watching for file changes with StatReloader
+2024-10-16 21:35:15,097:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\views.py changed, reloading.
+2024-10-16 21:35:15,118:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\views.py changed, reloading.
+2024-10-16 21:35:16,193:INFO:Watching for file changes with StatReloader
+2024-10-16 21:35:16,215:INFO:Watching for file changes with StatReloader
+2024-10-16 21:35:18,751:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\views.py changed, reloading.
+2024-10-16 21:35:18,758:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\views.py changed, reloading.
+2024-10-16 21:35:19,914:INFO:Watching for file changes with StatReloader
+2024-10-16 21:35:19,914:INFO:Watching for file changes with StatReloader
+2024-10-16 21:35:22,233:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\views.py changed, reloading.
+2024-10-16 21:35:22,247:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\views.py changed, reloading.
+2024-10-16 21:35:23,328:INFO:Watching for file changes with StatReloader
+2024-10-16 21:35:23,332:INFO:Watching for file changes with StatReloader
+2024-10-16 21:35:31,030:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\views.py changed, reloading.
+2024-10-16 21:35:31,051:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\views.py changed, reloading.
+2024-10-16 21:35:32,036:INFO:Watching for file changes with StatReloader
+2024-10-16 21:35:32,054:INFO:Watching for file changes with StatReloader
+2024-10-16 21:35:36,628:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\views.py changed, reloading.
+2024-10-16 21:35:36,628:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\views.py changed, reloading.
+2024-10-16 21:35:37,685:INFO:Watching for file changes with StatReloader
+2024-10-16 21:35:37,693:INFO:Watching for file changes with StatReloader
+2024-10-16 21:35:44,350:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\views.py changed, reloading.
+2024-10-16 21:35:44,363:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\views.py changed, reloading.
+2024-10-16 21:35:45,438:INFO:Watching for file changes with StatReloader
+2024-10-16 21:35:45,457:INFO:Watching for file changes with StatReloader
+2024-10-16 21:35:48,762:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\views.py changed, reloading.
+2024-10-16 21:35:48,770:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\views.py changed, reloading.
+2024-10-16 21:35:49,783:INFO:Watching for file changes with StatReloader
+2024-10-16 21:35:49,803:INFO:Watching for file changes with StatReloader
+2024-10-16 21:35:52,319:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\views.py changed, reloading.
+2024-10-16 21:35:52,338:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\views.py changed, reloading.
+2024-10-16 21:35:53,399:INFO:Watching for file changes with StatReloader
+2024-10-16 21:35:53,460:INFO:Watching for file changes with StatReloader
+2024-10-16 21:35:54,753:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\views.py changed, reloading.
+2024-10-16 21:35:54,784:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\views.py changed, reloading.
+2024-10-16 21:35:55,872:INFO:Watching for file changes with StatReloader
+2024-10-16 21:35:55,878:INFO:Watching for file changes with StatReloader
+2024-10-16 21:35:58,836:INFO:Requested http://ipinfo.io/json
+2024-10-16 21:35:58,859:ERROR:Internal Server Error: /GetGPS
+Traceback (most recent call last):
+  File "C:\Users\Aarón\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Aarón\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\views.py", line 38, in GetGPS
+    data = gps.get_position()
+           ^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\models.py", line 195, in get_position
+    self.update_position()
+TypeError: GPS.update_position() missing 4 required positional arguments: 'new_lat', 'new_lon', 'new_speed', and 'new_bearing'
+2024-10-16 21:36:03,007:INFO:Requested http://ipinfo.io/json
+2024-10-16 21:36:03,018:ERROR:Internal Server Error: /GetGPS
+Traceback (most recent call last):
+  File "C:\Users\Aarón\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Aarón\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\views.py", line 38, in GetGPS
+    data = gps.get_position()
+           ^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\models.py", line 195, in get_position
+    self.update_position()
+TypeError: GPS.update_position() missing 4 required positional arguments: 'new_lat', 'new_lon', 'new_speed', and 'new_bearing'
+2024-10-16 21:36:18,228:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\models.py changed, reloading.
+2024-10-16 21:36:18,405:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\models.py changed, reloading.
+2024-10-16 21:36:19,440:INFO:Watching for file changes with StatReloader
+2024-10-16 21:36:19,623:INFO:Watching for file changes with StatReloader
+2024-10-16 21:36:25,073:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\models.py changed, reloading.
+2024-10-16 21:36:25,186:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\models.py changed, reloading.
+2024-10-16 21:36:26,135:INFO:Watching for file changes with StatReloader
+2024-10-16 21:36:26,287:INFO:Watching for file changes with StatReloader
+2024-10-16 21:36:45,698:INFO:Requested http://ipinfo.io/json
+2024-10-16 21:36:45,715:ERROR:Internal Server Error: /GetGPS
+Traceback (most recent call last):
+  File "C:\Users\Aarón\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Aarón\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\views.py", line 38, in GetGPS
+    data = gps.get_position()
+           ^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\models.py", line 195, in get_position
+    self.update_position()
+TypeError: GPS.update_position() missing 4 required positional arguments: 'new_lat', 'new_lon', 'new_speed', and 'new_bearing'
+2024-10-16 21:39:40,968:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\views.py changed, reloading.
+2024-10-16 21:39:40,968:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\views.py changed, reloading.
+2024-10-16 21:39:42,174:INFO:Watching for file changes with StatReloader
+2024-10-16 21:39:42,177:INFO:Watching for file changes with StatReloader
+2024-10-16 21:39:45,544:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\views.py changed, reloading.
+2024-10-16 21:39:45,547:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\views.py changed, reloading.
+2024-10-16 21:39:46,617:INFO:Watching for file changes with StatReloader
+2024-10-16 21:39:46,640:INFO:Watching for file changes with StatReloader
+2024-10-16 21:39:48,162:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\views.py changed, reloading.
+2024-10-16 21:39:48,166:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\views.py changed, reloading.
+2024-10-16 21:39:49,242:INFO:Watching for file changes with StatReloader
+2024-10-16 21:39:49,255:INFO:Watching for file changes with StatReloader
+2024-10-16 21:42:21,319:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\models.py changed, reloading.
+2024-10-16 21:42:21,350:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\models.py changed, reloading.
+2024-10-16 21:42:22,423:INFO:Watching for file changes with StatReloader
+2024-10-16 21:42:22,439:INFO:Watching for file changes with StatReloader
+2024-10-16 21:45:20,214:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\models.py changed, reloading.
+2024-10-16 21:45:20,215:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\models.py changed, reloading.
+2024-10-16 21:45:21,418:INFO:Watching for file changes with StatReloader
+2024-10-16 21:45:21,475:INFO:Watching for file changes with StatReloader
+2024-10-16 21:46:10,780:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\models.py changed, reloading.
+2024-10-16 21:46:10,795:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\models.py changed, reloading.
+2024-10-16 21:46:12,231:INFO:Watching for file changes with StatReloader
+2024-10-16 21:46:12,233:INFO:Watching for file changes with StatReloader
+2024-10-16 21:46:12,480:INFO:Requested http://ipinfo.io/json
+2024-10-16 21:46:12,523:ERROR:Internal Server Error: /GetGPS
+Traceback (most recent call last):
+  File "C:\Users\Aarón\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Aarón\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\django\utils\deprecation.py", line 131, in __call__
+    response = self.process_response(request, response)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Aarón\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\django\middleware\clickjacking.py", line 34, in process_response
+    response.headers["X-Frame-Options"] = self.get_xframe_options_value(
+    ^^^^^^^^^^^^^^^^
+AttributeError: 'dict' object has no attribute 'headers'
+2024-10-16 21:46:58,507:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\views.py changed, reloading.
+2024-10-16 21:46:58,515:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\views.py changed, reloading.
+2024-10-16 21:46:59,664:INFO:Watching for file changes with StatReloader
+2024-10-16 21:46:59,684:INFO:Watching for file changes with StatReloader
+2024-10-16 21:47:02,013:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\views.py changed, reloading.
+2024-10-16 21:47:02,018:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\views.py changed, reloading.
+2024-10-16 21:47:03,111:INFO:Watching for file changes with StatReloader
+2024-10-16 21:47:03,125:INFO:Watching for file changes with StatReloader
+2024-10-16 21:47:04,411:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\views.py changed, reloading.
+2024-10-16 21:47:04,416:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\views.py changed, reloading.
+2024-10-16 21:47:05,402:INFO:Watching for file changes with StatReloader
+2024-10-16 21:47:05,404:INFO:Watching for file changes with StatReloader
+2024-10-16 21:47:07,064:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\views.py changed, reloading.
+2024-10-16 21:47:07,071:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\views.py changed, reloading.
+2024-10-16 21:47:08,342:INFO:Watching for file changes with StatReloader
+2024-10-16 21:47:08,347:INFO:Watching for file changes with StatReloader
+2024-10-16 21:47:08,713:INFO:Requested http://ipinfo.io/json
+2024-10-16 21:49:05,228:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\models.py changed, reloading.
+2024-10-16 21:49:05,259:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\models.py changed, reloading.
+2024-10-16 21:49:12,272:INFO:Watching for file changes with StatReloader
+2024-10-16 21:49:12,272:INFO:Watching for file changes with StatReloader
+2024-10-16 21:49:16,916:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\models.py changed, reloading.
+2024-10-16 21:49:16,953:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\models.py changed, reloading.
+2024-10-16 21:49:18,040:INFO:Watching for file changes with StatReloader
+2024-10-16 21:49:18,072:INFO:Watching for file changes with StatReloader
+2024-10-16 21:49:21,650:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\models.py changed, reloading.
+2024-10-16 21:49:21,687:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\models.py changed, reloading.
+2024-10-16 21:49:22,759:INFO:Watching for file changes with StatReloader
+2024-10-16 21:49:22,850:INFO:Watching for file changes with StatReloader
+2024-10-16 21:49:24,520:INFO:Requested http://ipinfo.io/json
+2024-10-16 21:49:24,538:ERROR:Internal Server Error: /GetGPS
+Traceback (most recent call last):
+  File "C:\Users\Aarón\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Aarón\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\views.py", line 38, in GetGPS
+    data = gps.get_position()
+           ^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\models.py", line 201, in get_position
+    return JsonResponse(data)
+                        ^^
+NameError: name 'da' is not defined
+2024-10-16 21:49:54,453:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\models.py changed, reloading.
+2024-10-16 21:49:54,500:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\models.py changed, reloading.
+2024-10-16 21:49:55,643:INFO:Watching for file changes with StatReloader
+2024-10-16 21:49:55,697:INFO:Watching for file changes with StatReloader
+2024-10-16 21:49:56,191:INFO:Requested http://ipinfo.io/json
+2024-10-16 21:51:42,593:INFO:Requested http://ipinfo.io/json
+2024-10-16 21:51:43,669:INFO:Requested http://ipinfo.io/json
+2024-10-16 21:51:44,617:INFO:Requested http://ipinfo.io/json
+2024-10-16 21:52:09,606:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\views.py changed, reloading.
+2024-10-16 21:52:09,610:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\views.py changed, reloading.
+2024-10-16 21:52:10,847:INFO:Watching for file changes with StatReloader
+2024-10-16 21:52:10,857:INFO:Watching for file changes with StatReloader
+2024-10-16 21:52:11,316:INFO:Requested http://ipinfo.io/json
+2024-10-16 21:52:40,588:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\models.py changed, reloading.
+2024-10-16 21:52:40,615:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\models.py changed, reloading.
+2024-10-16 21:52:41,732:INFO:Watching for file changes with StatReloader
+2024-10-16 21:52:41,739:INFO:Watching for file changes with StatReloader
+2024-10-16 21:52:43,226:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\models.py changed, reloading.
+2024-10-16 21:52:43,250:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\models.py changed, reloading.
+2024-10-16 21:52:44,356:INFO:Watching for file changes with StatReloader
+2024-10-16 21:52:44,371:INFO:Watching for file changes with StatReloader
+2024-10-16 21:52:52,142:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\models.py changed, reloading.
+2024-10-16 21:52:52,163:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\models.py changed, reloading.
+2024-10-16 21:52:53,377:INFO:Watching for file changes with StatReloader
+2024-10-16 21:52:53,441:INFO:Watching for file changes with StatReloader
+2024-10-16 21:53:14,720:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\models.py changed, reloading.
+2024-10-16 21:53:14,742:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\models.py changed, reloading.
+2024-10-16 21:53:15,828:INFO:Watching for file changes with StatReloader
+2024-10-16 21:53:15,830:INFO:Watching for file changes with StatReloader
+2024-10-16 21:53:19,459:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\models.py changed, reloading.
+2024-10-16 21:53:19,467:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\models.py changed, reloading.
+2024-10-16 21:53:20,486:INFO:Watching for file changes with StatReloader
+2024-10-16 21:53:20,487:INFO:Watching for file changes with StatReloader
+2024-10-16 21:54:41,997:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\models.py changed, reloading.
+2024-10-16 21:54:42,003:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\models.py changed, reloading.
+2024-10-16 21:54:43,301:INFO:Watching for file changes with StatReloader
+2024-10-16 21:54:43,324:INFO:Watching for file changes with StatReloader
+2024-10-16 21:54:47,932:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\models.py changed, reloading.
+2024-10-16 21:54:47,940:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\models.py changed, reloading.
+2024-10-16 21:54:49,130:INFO:Watching for file changes with StatReloader
+2024-10-16 21:54:49,147:INFO:Watching for file changes with StatReloader
+2024-10-16 21:54:53,738:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\models.py changed, reloading.
+2024-10-16 21:54:53,758:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\models.py changed, reloading.
+2024-10-16 21:54:54,896:INFO:Watching for file changes with StatReloader
+2024-10-16 21:54:54,900:INFO:Watching for file changes with StatReloader
+2024-10-16 21:55:05,788:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\models.py changed, reloading.
+2024-10-16 21:55:05,792:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\models.py changed, reloading.
+2024-10-16 21:55:12,439:INFO:Watching for file changes with StatReloader
+2024-10-16 21:55:12,469:INFO:Watching for file changes with StatReloader
+2024-10-16 21:55:13,925:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\models.py changed, reloading.
+2024-10-16 21:55:13,973:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\models.py changed, reloading.
+2024-10-16 21:55:15,064:INFO:Watching for file changes with StatReloader
+2024-10-16 21:55:15,101:INFO:Watching for file changes with StatReloader
+2024-10-16 21:55:18,628:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\models.py changed, reloading.
+2024-10-16 21:55:18,649:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\models.py changed, reloading.
+2024-10-16 21:55:19,728:INFO:Watching for file changes with StatReloader
+2024-10-16 21:55:19,776:INFO:Watching for file changes with StatReloader
+2024-10-16 21:55:23,318:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\models.py changed, reloading.
+2024-10-16 21:55:23,366:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\models.py changed, reloading.
+2024-10-16 21:55:24,362:INFO:Watching for file changes with StatReloader
+2024-10-16 21:55:24,424:INFO:Watching for file changes with StatReloader
+2024-10-16 21:55:26,942:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\models.py changed, reloading.
+2024-10-16 21:55:26,952:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\models.py changed, reloading.
+2024-10-16 21:55:28,063:INFO:Watching for file changes with StatReloader
+2024-10-16 21:55:28,066:INFO:Watching for file changes with StatReloader
+2024-10-16 21:55:30,670:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\models.py changed, reloading.
+2024-10-16 21:55:30,675:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\models.py changed, reloading.
+2024-10-16 21:55:31,838:INFO:Watching for file changes with StatReloader
+2024-10-16 21:55:31,843:INFO:Watching for file changes with StatReloader
+2024-10-16 21:55:34,367:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\models.py changed, reloading.
+2024-10-16 21:55:34,377:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\models.py changed, reloading.
+2024-10-16 21:55:35,503:INFO:Watching for file changes with StatReloader
+2024-10-16 21:55:35,524:INFO:Watching for file changes with StatReloader
+2024-10-16 21:55:39,110:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\models.py changed, reloading.
+2024-10-16 21:55:39,120:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\models.py changed, reloading.
+2024-10-16 21:55:40,190:INFO:Watching for file changes with StatReloader
+2024-10-16 21:55:40,221:INFO:Watching for file changes with StatReloader
+2024-10-16 21:55:43,802:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\models.py changed, reloading.
+2024-10-16 21:55:43,827:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\models.py changed, reloading.
+2024-10-16 21:55:45,006:INFO:Watching for file changes with StatReloader
+2024-10-16 21:55:45,010:INFO:Watching for file changes with StatReloader
+2024-10-16 21:55:49,633:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\models.py changed, reloading.
+2024-10-16 21:55:49,644:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\models.py changed, reloading.
+2024-10-16 21:55:50,777:INFO:Watching for file changes with StatReloader
+2024-10-16 21:55:50,821:INFO:Watching for file changes with StatReloader
+2024-10-16 21:55:52,398:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\models.py changed, reloading.
+2024-10-16 21:55:52,420:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\models.py changed, reloading.
+2024-10-16 21:55:53,556:INFO:Watching for file changes with StatReloader
+2024-10-16 21:55:53,556:INFO:Watching for file changes with StatReloader
+2024-10-16 21:56:05,497:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\models.py changed, reloading.
+2024-10-16 21:56:05,508:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\models.py changed, reloading.
+2024-10-16 21:56:06,521:INFO:Watching for file changes with StatReloader
+2024-10-16 21:56:06,537:INFO:Watching for file changes with StatReloader
+2024-10-16 21:57:08,196:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\views.py changed, reloading.
+2024-10-16 21:57:08,198:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\views.py changed, reloading.
+2024-10-16 21:57:09,270:INFO:Watching for file changes with StatReloader
+2024-10-16 21:57:09,273:INFO:Watching for file changes with StatReloader
+2024-10-16 21:57:10,605:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\views.py changed, reloading.
+2024-10-16 21:57:10,605:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\views.py changed, reloading.
+2024-10-16 21:57:11,775:INFO:Watching for file changes with StatReloader
+2024-10-16 21:57:11,775:INFO:Watching for file changes with StatReloader
+2024-10-16 21:57:30,695:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\views.py changed, reloading.
+2024-10-16 21:57:30,725:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\views.py changed, reloading.
+2024-10-16 21:57:31,735:INFO:Watching for file changes with StatReloader
+2024-10-16 21:57:31,743:INFO:Watching for file changes with StatReloader
+2024-10-16 21:57:39,189:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\views.py changed, reloading.
+2024-10-16 21:57:39,201:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\views.py changed, reloading.
+2024-10-16 21:57:40,332:INFO:Watching for file changes with StatReloader
+2024-10-16 21:57:40,333:INFO:Watching for file changes with StatReloader
+2024-10-16 21:57:43,695:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\views.py changed, reloading.
+2024-10-16 21:57:43,713:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\views.py changed, reloading.
+2024-10-16 21:57:44,822:INFO:Watching for file changes with StatReloader
+2024-10-16 21:57:44,831:INFO:Watching for file changes with StatReloader
+2024-10-16 21:57:46,132:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\views.py changed, reloading.
+2024-10-16 21:57:46,151:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\views.py changed, reloading.
+2024-10-16 21:57:47,156:INFO:Watching for file changes with StatReloader
+2024-10-16 21:57:47,162:INFO:Watching for file changes with StatReloader
+2024-10-16 21:57:50,496:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\views.py changed, reloading.
+2024-10-16 21:57:50,504:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\views.py changed, reloading.
+2024-10-16 21:57:51,583:INFO:Watching for file changes with StatReloader
+2024-10-16 21:57:51,589:INFO:Watching for file changes with StatReloader
+2024-10-16 21:57:53,854:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\views.py changed, reloading.
+2024-10-16 21:57:53,863:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\views.py changed, reloading.
+2024-10-16 21:57:54,911:INFO:Watching for file changes with StatReloader
+2024-10-16 21:57:54,923:INFO:Watching for file changes with StatReloader
+2024-10-16 21:58:05,483:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\views.py changed, reloading.
+2024-10-16 21:58:05,512:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\views.py changed, reloading.
+2024-10-16 21:58:06,703:INFO:Watching for file changes with StatReloader
+2024-10-16 21:58:06,712:INFO:Watching for file changes with StatReloader
+2024-10-16 21:58:11,073:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\views.py changed, reloading.
+2024-10-16 21:58:11,074:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\views.py changed, reloading.
+2024-10-16 21:58:12,179:INFO:Watching for file changes with StatReloader
+2024-10-16 21:58:12,182:INFO:Watching for file changes with StatReloader
+2024-10-16 21:58:28,987:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\views.py changed, reloading.
+2024-10-16 21:58:28,990:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\views.py changed, reloading.
+2024-10-16 21:58:30,102:INFO:Watching for file changes with StatReloader
+2024-10-16 21:58:30,105:INFO:Watching for file changes with StatReloader
+2024-10-16 21:58:37,570:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\views.py changed, reloading.
+2024-10-16 21:58:37,586:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\views.py changed, reloading.
+2024-10-16 21:58:38,633:INFO:Watching for file changes with StatReloader
+2024-10-16 21:58:38,634:INFO:Watching for file changes with StatReloader
+2024-10-16 21:59:07,908:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\urls.py changed, reloading.
+2024-10-16 21:59:07,915:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\urls.py changed, reloading.
+2024-10-16 21:59:09,152:INFO:Watching for file changes with StatReloader
+2024-10-16 21:59:09,163:INFO:Watching for file changes with StatReloader
+2024-10-16 21:59:11,758:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\urls.py changed, reloading.
+2024-10-16 21:59:12,739:INFO:Watching for file changes with StatReloader
+2024-10-16 21:59:12,780:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\urls.py changed, reloading.
+2024-10-16 21:59:13,700:INFO:Watching for file changes with StatReloader
+2024-10-16 21:59:16,282:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\urls.py changed, reloading.
+2024-10-16 21:59:16,336:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\urls.py changed, reloading.
+2024-10-16 21:59:17,414:INFO:Watching for file changes with StatReloader
+2024-10-16 21:59:17,466:INFO:Watching for file changes with StatReloader
+2024-10-16 21:59:20,022:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\urls.py changed, reloading.
+2024-10-16 21:59:20,081:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\urls.py changed, reloading.
+2024-10-16 21:59:21,114:INFO:Watching for file changes with StatReloader
+2024-10-16 21:59:21,200:INFO:Watching for file changes with StatReloader
+2024-10-16 21:59:22,650:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\urls.py changed, reloading.
+2024-10-16 21:59:22,696:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\urls.py changed, reloading.
+2024-10-16 21:59:23,770:INFO:Watching for file changes with StatReloader
+2024-10-16 21:59:23,792:INFO:Watching for file changes with StatReloader
+2024-10-16 22:02:14,437:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\urls.py changed, reloading.
+2024-10-16 22:02:15,290:INFO:Watching for file changes with StatReloader
+2024-10-16 22:02:15,359:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\urls.py changed, reloading.
+2024-10-16 22:02:16,252:INFO:Watching for file changes with StatReloader
+2024-10-16 22:02:41,873:INFO:Watching for file changes with StatReloader
+2024-10-16 22:03:27,410:INFO:Watching for file changes with StatReloader
+2024-10-16 22:04:20,634:INFO:Watching for file changes with StatReloader
+2024-10-16 22:05:18,481:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\urls.py changed, reloading.
+2024-10-16 22:05:19,352:INFO:Watching for file changes with StatReloader
+2024-10-16 22:05:29,183:INFO:Watching for file changes with StatReloader
+2024-10-16 22:05:49,093:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\models.py changed, reloading.
+2024-10-16 22:05:52,610:INFO:Watching for file changes with StatReloader
+2024-10-16 22:05:55,028:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\models.py changed, reloading.
+2024-10-16 22:05:55,965:INFO:Watching for file changes with StatReloader
+2024-10-16 22:06:00,460:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\models.py changed, reloading.
+2024-10-16 22:06:04,041:INFO:Watching for file changes with StatReloader
+2024-10-16 22:06:05,430:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\models.py changed, reloading.
+2024-10-16 22:06:06,421:INFO:Watching for file changes with StatReloader
+2024-10-16 22:06:07,794:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\models.py changed, reloading.
+2024-10-16 22:06:08,750:INFO:Watching for file changes with StatReloader
+2024-10-16 22:06:11,200:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\models.py changed, reloading.
+2024-10-16 22:06:13,787:INFO:Watching for file changes with StatReloader
+2024-10-16 22:06:16,237:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\models.py changed, reloading.
+2024-10-16 22:06:25,628:INFO:Watching for file changes with StatReloader
+2024-10-16 22:06:27,061:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\models.py changed, reloading.
+2024-10-16 22:06:29,678:INFO:Watching for file changes with StatReloader
+2024-10-16 22:06:31,086:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\models.py changed, reloading.
+2024-10-16 22:06:33,639:INFO:Watching for file changes with StatReloader
+2024-10-16 22:06:37,126:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\models.py changed, reloading.
+2024-10-16 22:06:41,298:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\models.py changed, reloading.
+2024-10-16 22:06:44,038:INFO:Watching for file changes with StatReloader
+2024-10-16 22:06:46,480:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\models.py changed, reloading.
+2024-10-16 22:06:47,363:INFO:Watching for file changes with StatReloader
+2024-10-16 22:06:50,823:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\models.py changed, reloading.
+2024-10-16 22:06:53,422:INFO:Watching for file changes with StatReloader
+2024-10-16 22:07:04,336:INFO:Watching for file changes with StatReloader
+2024-10-16 22:07:11,425:WARNING:Not Found: /GetGPS
+2024-10-16 22:07:25,785:WARNING:Not Found: /InsertData
+2024-10-16 22:08:55,326:INFO:Requested http://ipinfo.io/json
+2024-10-16 22:08:55,352:ERROR:Internal Server Error: /InsertData/1.0/1.5/2.0/10/2.5/3.33/2/3/1.1/11/12.5/5/
+Traceback (most recent call last):
+  File "C:\Users\Aarón\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Aarón\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\views.py", line 37, in InsertData
+    DB_Conexion.insert_data(mag_x, mag_y, mag_z,barometro,ruido, giro_x, giro_y, giro_z, acel_x, acel_y, acel_z, vibracion)
+  File "C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\models.py", line 54, in insert_data
+    'latitud': gps_data['latitude'],
+               ~~~~~~~~^^^^^^^^^^^^
+  File "C:\Users\Aarón\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\django\http\response.py", line 199, in __getitem__
+    return self.headers[header]
+           ~~~~~~~~~~~~^^^^^^^^
+  File "C:\Users\Aarón\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\django\utils\datastructures.py", line 308, in __getitem__
+    return self._store[key.lower()][1]
+           ~~~~~~~~~~~^^^^^^^^^^^^^
+KeyError: 'latitude'
+2024-10-16 22:11:25,842:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\models.py changed, reloading.
+2024-10-16 22:11:26,703:INFO:Watching for file changes with StatReloader
+2024-10-16 22:11:28,081:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\models.py changed, reloading.
+2024-10-16 22:11:28,915:INFO:Watching for file changes with StatReloader
+2024-10-16 22:12:01,138:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\models.py changed, reloading.
+2024-10-16 22:12:01,984:INFO:Watching for file changes with StatReloader
+2024-10-16 22:12:14,680:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\models.py changed, reloading.
+2024-10-16 22:12:15,560:INFO:Watching for file changes with StatReloader
+2024-10-16 22:12:18,374:INFO:Requested http://ipinfo.io/json
+2024-10-16 22:12:18,392:ERROR:Internal Server Error: /InsertData/1.0/1.5/2.0/10/2.5/3.33/2/3/1.1/11/12.5/5/
+Traceback (most recent call last):
+  File "C:\Users\Aarón\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Aarón\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\views.py", line 37, in InsertData
+    DB_Conexion.insert_data(mag_x, mag_y, mag_z,barometro,ruido, giro_x, giro_y, giro_z, acel_x, acel_y, acel_z, vibracion)
+  File "C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\models.py", line 54, in insert_data
+    'latitud': gps_data['latitude'],
+               ~~~~~~~~^^^^^^^^^^^^
+  File "C:\Users\Aarón\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\django\http\response.py", line 199, in __getitem__
+    return self.headers[header]
+           ~~~~~~~~~~~~^^^^^^^^
+  File "C:\Users\Aarón\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\django\utils\datastructures.py", line 308, in __getitem__
+    return self._store[key.lower()][1]
+           ~~~~~~~~~~~^^^^^^^^^^^^^
+KeyError: 'latitude'
+2024-10-16 22:12:51,028:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\models.py changed, reloading.
+2024-10-16 22:12:53,620:INFO:Watching for file changes with StatReloader
+2024-10-16 22:13:55,586:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\models.py changed, reloading.
+2024-10-16 22:14:03,158:INFO:Watching for file changes with StatReloader
+2024-10-16 22:14:04,994:INFO:Requested http://ipinfo.io/json
+2024-10-16 22:14:05,014:ERROR:Internal Server Error: /InsertData/1.0/1.5/2.0/10/2.5/3.33/2/3/1.1/11/12.5/5/
+Traceback (most recent call last):
+  File "C:\Users\Aarón\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Aarón\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\views.py", line 37, in InsertData
+    DB_Conexion.insert_data(mag_x, mag_y, mag_z,barometro,ruido, giro_x, giro_y, giro_z, acel_x, acel_y, acel_z, vibracion)
+  File "C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\models.py", line 54, in insert_data
+    'latitud': gps_data['data']['latitude'],
+               ~~~~~~~~^^^^^^^^
+  File "C:\Users\Aarón\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\django\http\response.py", line 199, in __getitem__
+    return self.headers[header]
+           ~~~~~~~~~~~~^^^^^^^^
+  File "C:\Users\Aarón\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\django\utils\datastructures.py", line 308, in __getitem__
+    return self._store[key.lower()][1]
+           ~~~~~~~~~~~^^^^^^^^^^^^^
+KeyError: 'data'
+2024-10-16 22:14:15,050:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\models.py changed, reloading.
+2024-10-16 22:14:16,022:INFO:Watching for file changes with StatReloader
+2024-10-16 22:14:17,386:INFO:Requested http://ipinfo.io/json
+2024-10-16 22:14:17,407:ERROR:Internal Server Error: /InsertData/1.0/1.5/2.0/10/2.5/3.33/2/3/1.1/11/12.5/5/
+Traceback (most recent call last):
+  File "C:\Users\Aarón\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Aarón\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\views.py", line 37, in InsertData
+    DB_Conexion.insert_data(mag_x, mag_y, mag_z,barometro,ruido, giro_x, giro_y, giro_z, acel_x, acel_y, acel_z, vibracion)
+  File "C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\models.py", line 54, in insert_data
+    'latitud': gps_data['latitude'],
+               ~~~~~~~~^^^^^^^^^^^^
+  File "C:\Users\Aarón\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\django\http\response.py", line 199, in __getitem__
+    return self.headers[header]
+           ~~~~~~~~~~~~^^^^^^^^
+  File "C:\Users\Aarón\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\django\utils\datastructures.py", line 308, in __getitem__
+    return self._store[key.lower()][1]
+           ~~~~~~~~~~~^^^^^^^^^^^^^
+KeyError: 'latitude'
+2024-10-16 22:14:47,414:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\models.py changed, reloading.
+2024-10-16 22:14:48,308:INFO:Watching for file changes with StatReloader
+2024-10-16 22:14:49,692:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\models.py changed, reloading.
+2024-10-16 22:14:50,567:INFO:Watching for file changes with StatReloader
+2024-10-16 22:14:52,965:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\models.py changed, reloading.
+2024-10-16 22:14:53,770:INFO:Watching for file changes with StatReloader
+2024-10-16 22:14:55,135:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\models.py changed, reloading.
+2024-10-16 22:14:56,051:INFO:Watching for file changes with StatReloader
+2024-10-16 22:14:56,729:INFO:Requested http://ipinfo.io/json
+2024-10-16 22:14:56,750:ERROR:Internal Server Error: /InsertData/1.0/1.5/2.0/10/2.5/3.33/2/3/1.1/11/12.5/5/
+Traceback (most recent call last):
+  File "C:\Users\Aarón\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Aarón\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\views.py", line 37, in InsertData
+    DB_Conexion.insert_data(mag_x, mag_y, mag_z,barometro,ruido, giro_x, giro_y, giro_z, acel_x, acel_y, acel_z, vibracion)
+  File "C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\models.py", line 55, in insert_data
+    'latitud': gps_data['latitude'],
+               ~~~~~~~~^^^^^^^^^^^^
+  File "C:\Users\Aarón\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\django\http\response.py", line 199, in __getitem__
+    return self.headers[header]
+           ~~~~~~~~~~~~^^^^^^^^
+  File "C:\Users\Aarón\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\django\utils\datastructures.py", line 308, in __getitem__
+    return self._store[key.lower()][1]
+           ~~~~~~~~~~~^^^^^^^^^^^^^
+KeyError: 'latitude'
+2024-10-16 22:15:18,015:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\models.py changed, reloading.
+2024-10-16 22:15:20,497:INFO:Watching for file changes with StatReloader
+2024-10-16 22:15:24,760:INFO:Requested http://ipinfo.io/json
+2024-10-16 22:15:24,867:ERROR:Internal Server Error: /InsertData/1.0/1.5/2.0/10/2.5/3.33/2/3/1.1/11/12.5/5/
+Traceback (most recent call last):
+  File "C:\Users\Aarón\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Aarón\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\django\core\handlers\base.py", line 204, in _get_response
+    self.check_response(response, callback)
+  File "C:\Users\Aarón\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\django\core\handlers\base.py", line 332, in check_response
+    raise ValueError(
+ValueError: The view ProyectoENA.views.InsertData didn't return an HttpResponse object. It returned None instead.
+2024-10-16 22:16:05,579:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\views.py changed, reloading.
+2024-10-16 22:16:06,426:INFO:Watching for file changes with StatReloader
+2024-10-16 22:16:10,872:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\views.py changed, reloading.
+2024-10-16 22:16:11,676:INFO:Watching for file changes with StatReloader
+2024-10-16 22:16:17,157:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\views.py changed, reloading.
+2024-10-16 22:16:18,014:INFO:Watching for file changes with StatReloader
+2024-10-16 22:16:19,405:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\views.py changed, reloading.
+2024-10-16 22:16:20,209:INFO:Watching for file changes with StatReloader
+2024-10-16 22:16:23,695:INFO:Requested http://ipinfo.io/json
+2024-10-16 22:16:23,816:ERROR:Internal Server Error: /InsertData/1.0/1.5/2.0/10/2.5/3.33/2/3/1.1/11/12.5/5/
+Traceback (most recent call last):
+  File "C:\Users\Aarón\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Aarón\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\django\core\handlers\base.py", line 204, in _get_response
+    self.check_response(response, callback)
+  File "C:\Users\Aarón\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\django\core\handlers\base.py", line 332, in check_response
+    raise ValueError(
+ValueError: The view ProyectoENA.views.InsertData didn't return an HttpResponse object. It returned None instead.
+2024-10-16 22:16:28,136:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\views.py changed, reloading.
+2024-10-16 22:16:28,991:INFO:Watching for file changes with StatReloader
+2024-10-16 22:16:30,191:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\views.py changed, reloading.
+2024-10-16 22:16:31,040:INFO:Watching for file changes with StatReloader
+2024-10-16 22:16:33,247:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\views.py changed, reloading.
+2024-10-16 22:16:34,044:INFO:Watching for file changes with StatReloader
+2024-10-16 22:16:35,626:INFO:Requested http://ipinfo.io/json
+2024-10-16 22:17:52,546:INFO:Requested http://ipinfo.io/json
+2024-10-16 22:20:31,075:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\views.py changed, reloading.
+2024-10-16 22:20:32,053:INFO:Watching for file changes with StatReloader
+2024-10-16 22:24:02,069:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\views.py changed, reloading.
+2024-10-16 22:24:02,934:INFO:Watching for file changes with StatReloader
+2024-10-16 22:24:05,171:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\views.py changed, reloading.
+2024-10-16 22:24:05,980:INFO:Watching for file changes with StatReloader
+2024-10-16 22:24:09,220:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\views.py changed, reloading.
+2024-10-16 22:24:10,079:INFO:Watching for file changes with StatReloader
+2024-10-16 22:24:11,267:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\views.py changed, reloading.
+2024-10-16 22:24:12,122:INFO:Watching for file changes with StatReloader
+2024-10-16 22:24:13,327:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\views.py changed, reloading.
+2024-10-16 22:24:14,155:INFO:Watching for file changes with StatReloader
+2024-10-16 22:24:15,340:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\views.py changed, reloading.
+2024-10-16 22:24:16,176:INFO:Watching for file changes with StatReloader
+2024-10-16 22:24:21,643:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\views.py changed, reloading.
+2024-10-16 22:24:22,404:INFO:Watching for file changes with StatReloader
+2024-10-16 22:24:29,931:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\views.py changed, reloading.
+2024-10-16 22:24:30,877:INFO:Watching for file changes with StatReloader
+2024-10-16 22:24:32,093:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\views.py changed, reloading.
+2024-10-16 22:24:33,006:INFO:Watching for file changes with StatReloader
+2024-10-16 22:25:02,110:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\views.py changed, reloading.
+2024-10-16 22:25:02,899:INFO:Watching for file changes with StatReloader
+2024-10-16 22:25:10,199:WARNING:Bad Request: /InsertData/1.0/1.5/2.0/10/2.5/3.33/2/3/1.1/11/12.5/10/
+2024-10-16 22:28:54,715:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\views.py changed, reloading.
+2024-10-16 22:28:55,626:INFO:Watching for file changes with StatReloader
+2024-10-16 22:28:58,025:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\views.py changed, reloading.
+2024-10-16 22:28:58,842:INFO:Watching for file changes with StatReloader
+2024-10-16 22:29:01,065:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\views.py changed, reloading.
+2024-10-16 22:29:01,883:INFO:Watching for file changes with StatReloader
+2024-10-16 22:29:09,415:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\views.py changed, reloading.
+2024-10-16 22:29:10,209:INFO:Watching for file changes with StatReloader
+2024-10-16 22:29:15,513:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\views.py changed, reloading.
+2024-10-16 22:29:16,302:INFO:Watching for file changes with StatReloader
+2024-10-16 22:29:20,762:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\views.py changed, reloading.
+2024-10-16 22:29:21,533:INFO:Watching for file changes with StatReloader
+2024-10-16 22:29:23,930:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\views.py changed, reloading.
+2024-10-16 22:29:24,699:INFO:Watching for file changes with StatReloader
+2024-10-16 22:31:56,107:WARNING:Not Found: /InsertData/
+2024-10-16 22:32:11,588:WARNING:Not Found: /InsertData/
+2024-10-16 22:33:23,135:WARNING:Not Found: /InsertData/
+2024-10-16 22:33:31,271:WARNING:Not Found: /InsertData/1.0/1.5/2.0/10/2.5/3.33/2/3/1.1/11/12.5/10/InsertData/<str:mag_x>/<str:mag_y>/<str:mag_z>/<str:barometro>/<str:ruido>/<str:giro_x>/<str:giro_y>/<str:giro_z>/<str:acel_x>/<str:acel_y>/<str:acel_z>/<str:vibracion>/
+2024-10-16 22:33:55,335:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\urls.py changed, reloading.
+2024-10-16 22:33:56,143:INFO:Watching for file changes with StatReloader
+2024-10-16 22:33:57,353:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\urls.py changed, reloading.
+2024-10-16 22:33:58,256:INFO:Watching for file changes with StatReloader
+2024-10-16 22:34:01,719:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\urls.py changed, reloading.
+2024-10-16 22:34:02,592:INFO:Watching for file changes with StatReloader
+2024-10-16 22:34:06,033:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\urls.py changed, reloading.
+2024-10-16 22:34:06,890:INFO:Watching for file changes with StatReloader
+2024-10-16 22:34:22,023:WARNING:Not Found: /InsertData/1.0/1.5/2.0/10/2.5/3.33/2/3/1.1/11/12.5/10/
+2024-10-16 22:34:28,291:ERROR:Internal Server Error: /InsertData/
+Traceback (most recent call last):
+  File "C:\Users\Aarón\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Aarón\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+TypeError: InsertData() missing 12 required positional arguments: 'mag_x', 'mag_y', 'mag_z', 'barometro', 'ruido', 'giro_x', 'giro_y', 'giro_z', 'acel_x', 'acel_y', 'acel_z', and 'vibracion'
+2024-10-16 22:34:47,104:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\views.py changed, reloading.
+2024-10-16 22:34:47,909:INFO:Watching for file changes with StatReloader
+2024-10-16 22:35:20,151:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\urls.py changed, reloading.
+2024-10-16 22:35:21,082:INFO:Watching for file changes with StatReloader
+2024-10-16 22:35:35,835:WARNING:Not Found: /InsertData/1.0/1.5/2.0/10/2.5/3.33/2/3/1.1/11/12.5/10/InsertData/
+2024-10-16 22:36:36,625:WARNING:Not Found: /InsertData/1.0/1.5/2.0/10/2.5/3.33/2/3/1.1/11/12.5/10/InsertData/
+2024-10-16 22:37:10,633:WARNING:Not Found: /favicon.ico
+2024-10-16 22:37:49,757:WARNING:Not Found: /InsertData
+2024-10-16 22:38:44,287:WARNING:Not Found: /InsertData/1/1/1/1/1/1/1/1/1/1/1/1/InsertData/
+2024-10-16 22:39:07,165:WARNING:Not Found: /InsertData/1/1/1/1/1/1/1/1/1/1/1/1/InsertData/
+2024-10-16 22:40:29,617:WARNING:Not Found: /InsertData/
+2024-10-16 22:41:25,981:WARNING:Forbidden (CSRF cookie not set.): /InsertData/<str:mag_x>/<str:mag_y>/<str:mag_z>/<str:barometro>/<str:ruido>/<str:giro_x>/<str:giro_y>/<str:giro_z>/<str:acel_x>/<str:acel_y>/<str:acel_z>/<str:vibracion>/
+2024-10-16 22:42:21,828:WARNING:Forbidden (CSRF cookie not set.): /InsertData/<str:mag_x>/<str:mag_y>/<str:mag_z>/<str:barometro>/<str:ruido>/<str:giro_x>/<str:giro_y>/<str:giro_z>/<str:acel_x>/<str:acel_y>/<str:acel_z>/<str:vibracion>/
+2024-10-16 22:43:29,721:INFO:Watching for file changes with StatReloader
+2024-10-16 22:43:45,178:WARNING:Not Found: /favicon.ico
+2024-10-16 22:43:56,403:WARNING:Forbidden (CSRF cookie not set.): /InsertData/<str:mag_x>/<str:mag_y>/<str:mag_z>/<str:barometro>/<str:ruido>/<str:giro_x>/<str:giro_y>/<str:giro_z>/<str:acel_x>/<str:acel_y>/<str:acel_z>/<str:vibracion>/
+2024-10-16 22:46:12,192:INFO:Watching for file changes with StatReloader
+2024-10-16 22:46:24,829:WARNING:Not Found: /favicon.ico
+2024-10-16 22:46:58,952:WARNING:Not Found: /insertdata
+2024-10-16 22:54:00,420:WARNING:Not Found: /InsertData
+2024-10-16 22:54:23,772:WARNING:Forbidden (CSRF cookie not set.): /InsertData/<str:mag_x>/<str:mag_y>/<str:mag_z>/<str:barometro>/<str:ruido>/<str:giro_x>/<str:giro_y>/<str:giro_z>/<str:acel_x>/<str:acel_y>/<str:acel_z>/<str:vibracion>/
+2024-10-16 22:54:44,744:WARNING:Not Found: /InsertData/
+2024-10-16 22:55:15,866:WARNING:Forbidden (CSRF cookie not set.): /InsertData/<str:mag_x>/<str:mag_y>/<str:mag_z>/<str:barometro>/<str:ruido>/<str:giro_x>/<str:giro_y>/<str:giro_z>/<str:acel_x>/<str:acel_y>/<str:acel_z>/<str:vibracion>/
+2024-10-16 22:55:29,172:WARNING:Forbidden (CSRF cookie not set.): /InsertData/<str:mag_x>/<str:mag_y>/<str:mag_z>/<str:barometro>/<str:ruido>/<str:giro_x>/<str:giro_y>/<str:giro_z>/<str:acel_x>/<str:acel_y>/<str:acel_z>/<str:vibracion>/
+2024-10-16 22:56:29,538:INFO:Watching for file changes with StatReloader
+2024-10-16 22:57:24,175:WARNING:Forbidden (CSRF cookie not set.): /InsertData/1/1/1/1/1/1/1/1/1/1/1/1/
+2024-10-16 22:59:07,657:WARNING:Forbidden (CSRF cookie not set.): /InsertData/1/1/1/1/1/1/1/1/1/1/1/1/
+2024-10-16 23:00:12,410:WARNING:Forbidden (CSRF cookie not set.): /InsertData/1/1/1/1/1/1/1/1/1/1/1/1/
+2024-10-16 23:02:05,139:WARNING:Forbidden (CSRF cookie not set.): /InsertData/1/1/1/1/1/1/1/1/1/1/1/1/
+2024-10-16 23:05:57,186:INFO:Requested http://ipinfo.io/json
+2024-10-16 23:05:57,215:ERROR:Internal Server Error: /InsertData/<str:mag_x>/<str:mag_y>/<str:mag_z>/<str:barometro>/<str:ruido>/<str:giro_x>/<str:giro_y>/<str:giro_z>/<str:acel_x>/<str:acel_y>/<str:acel_z>/<str:vibracion>/
+Traceback (most recent call last):
+  File "C:\Users\Aarón\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Aarón\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\views.py", line 38, in InsertData
+    return HttpResponse(DB_Conexion.insert_data(mag_x, mag_y, mag_z,barometro,ruido, giro_x, giro_y, giro_z, acel_x, acel_y, acel_z, vibracion))
+                        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\models.py", line 37, in insert_data
+    'x': float(mag_x),
+         ^^^^^^^^^^^^
+ValueError: could not convert string to float: '<str:mag_x>'
+2024-10-16 23:08:35,924:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\urls.py changed, reloading.
+2024-10-16 23:08:36,789:INFO:Watching for file changes with StatReloader
+2024-10-16 23:08:56,699:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\urls.py changed, reloading.
+2024-10-16 23:08:57,652:INFO:Watching for file changes with StatReloader
+2024-10-16 23:10:17,105:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\urls.py changed, reloading.
+2024-10-16 23:10:18,119:INFO:Watching for file changes with StatReloader
+2024-10-16 23:10:41,154:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\views.py changed, reloading.
+2024-10-16 23:10:42,107:INFO:Watching for file changes with StatReloader
+2024-10-16 23:10:44,591:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\views.py changed, reloading.
+2024-10-16 23:10:45,452:INFO:Watching for file changes with StatReloader
+2024-10-16 23:10:48,888:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\views.py changed, reloading.
+2024-10-16 23:10:49,734:INFO:Watching for file changes with StatReloader
+2024-10-16 23:11:06,574:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\views.py changed, reloading.
+2024-10-16 23:11:07,514:INFO:Watching for file changes with StatReloader
+2024-10-16 23:11:08,224:WARNING:Not Found: /InsertData/1/1/1/1/1/1/1/1/1/1/1/1/
+2024-10-16 23:11:17,542:WARNING:Method Not Allowed: /InsertData/
+2024-10-16 23:11:31,797:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\urls.py changed, reloading.
+2024-10-16 23:11:32,637:INFO:Watching for file changes with StatReloader
+2024-10-16 23:11:37,078:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\urls.py changed, reloading.
+2024-10-16 23:11:37,908:INFO:Watching for file changes with StatReloader
+2024-10-16 23:11:39,318:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\urls.py changed, reloading.
+2024-10-16 23:11:40,149:INFO:Watching for file changes with StatReloader
+2024-10-16 23:11:42,542:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\urls.py changed, reloading.
+2024-10-16 23:11:43,402:INFO:Watching for file changes with StatReloader
+2024-10-16 23:11:46,670:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\urls.py changed, reloading.
+2024-10-16 23:11:47,548:INFO:Watching for file changes with StatReloader
+2024-10-16 23:11:48,872:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\urls.py changed, reloading.
+2024-10-16 23:11:49,839:INFO:Watching for file changes with StatReloader
+2024-10-16 23:11:51,228:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\urls.py changed, reloading.
+2024-10-16 23:11:52,114:INFO:Watching for file changes with StatReloader
+2024-10-16 23:11:57,596:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\urls.py changed, reloading.
+2024-10-16 23:11:58,423:INFO:Watching for file changes with StatReloader
+2024-10-16 23:11:59,794:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\urls.py changed, reloading.
+2024-10-16 23:12:00,663:INFO:Watching for file changes with StatReloader
+2024-10-16 23:12:06,171:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\views.py changed, reloading.
+2024-10-16 23:12:07,049:INFO:Watching for file changes with StatReloader
+2024-10-16 23:12:11,332:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\views.py changed, reloading.
+2024-10-16 23:12:12,181:INFO:Watching for file changes with StatReloader
+2024-10-16 23:12:15,441:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\views.py changed, reloading.
+2024-10-16 23:12:16,357:INFO:Watching for file changes with StatReloader
+2024-10-16 23:12:17,579:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\views.py changed, reloading.
+2024-10-16 23:12:18,467:INFO:Watching for file changes with StatReloader
+2024-10-16 23:12:20,878:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\views.py changed, reloading.
+2024-10-16 23:12:21,689:INFO:Watching for file changes with StatReloader
+2024-10-16 23:12:24,109:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\views.py changed, reloading.
+2024-10-16 23:12:25,010:INFO:Watching for file changes with StatReloader
+2024-10-16 23:12:27,445:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\views.py changed, reloading.
+2024-10-16 23:12:28,295:INFO:Watching for file changes with StatReloader
+2024-10-16 23:12:30,722:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\views.py changed, reloading.
+2024-10-16 23:12:31,616:INFO:Watching for file changes with StatReloader
+2024-10-16 23:12:41,243:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\views.py changed, reloading.
+2024-10-16 23:12:42,171:INFO:Watching for file changes with StatReloader
+2024-10-16 23:12:46,666:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\views.py changed, reloading.
+2024-10-16 23:12:47,500:INFO:Watching for file changes with StatReloader
+2024-10-16 23:13:02,755:WARNING:Not Found: /InsertData/<str:mag_x>/<str:mag_y>/<str:mag_z>/<str:barometro>/<str:ruido>/<str:giro_x>/<str:giro_y>/<str:giro_z>/<str:acel_x>/<str:acel_y>/<str:acel_z>/<str:vibracion>/
+2024-10-16 23:13:39,034:WARNING:Bad Request: /InsertData/
+2024-10-16 23:13:44,465:WARNING:Bad Request: /InsertData/
+2024-10-16 23:14:32,458:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\urls.py changed, reloading.
+2024-10-16 23:14:33,283:INFO:Watching for file changes with StatReloader
+2024-10-16 23:14:34,679:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\urls.py changed, reloading.
+2024-10-16 23:14:35,503:INFO:Watching for file changes with StatReloader
+2024-10-16 23:14:37,887:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\urls.py changed, reloading.
+2024-10-16 23:14:38,676:INFO:Watching for file changes with StatReloader
+2024-10-16 23:14:41,051:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\urls.py changed, reloading.
+2024-10-16 23:14:41,961:INFO:Watching for file changes with StatReloader
+2024-10-16 23:14:50,576:ERROR:Internal Server Error: /InsertData/<str:mag_x>/<str:mag_y>/<str:mag_z>/<str:barometro>/<str:ruido>/<str:giro_x>/<str:giro_y>/<str:giro_z>/<str:acel_x>/<str:acel_y>/<str:acel_z>/<str:vibracion>/
+Traceback (most recent call last):
+  File "C:\Users\Aarón\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Aarón\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+TypeError: InsertData() got an unexpected keyword argument 'mag_x'
+2024-10-16 23:15:57,145:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\views.py changed, reloading.
+2024-10-16 23:15:57,920:INFO:Watching for file changes with StatReloader
+2024-10-16 23:16:05,282:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\views.py changed, reloading.
+2024-10-16 23:16:06,097:INFO:Watching for file changes with StatReloader
+2024-10-16 23:16:09,363:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\views.py changed, reloading.
+2024-10-16 23:16:10,228:INFO:Watching for file changes with StatReloader
+2024-10-16 23:16:20,525:INFO:Requested http://ipinfo.io/json
+2024-10-16 23:16:20,542:ERROR:Internal Server Error: /InsertData/<str:mag_x>/<str:mag_y>/<str:mag_z>/<str:barometro>/<str:ruido>/<str:giro_x>/<str:giro_y>/<str:giro_z>/<str:acel_x>/<str:acel_y>/<str:acel_z>/<str:vibracion>/
+Traceback (most recent call last):
+  File "C:\Users\Aarón\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Aarón\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\views.py", line 38, in InsertData
+    return HttpResponse(DB_Conexion.insert_data(mag_x, mag_y, mag_z,barometro,ruido, giro_x, giro_y, giro_z, acel_x, acel_y, acel_z, vibracion))
+                        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\models.py", line 37, in insert_data
+    'x': float(mag_x),
+         ^^^^^^^^^^^^
+ValueError: could not convert string to float: '<str:mag_x>'
+2024-10-16 23:16:53,955:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\models.py changed, reloading.
+2024-10-16 23:16:54,786:INFO:Watching for file changes with StatReloader
+2024-10-16 23:16:57,182:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\models.py changed, reloading.
+2024-10-16 23:16:58,058:INFO:Watching for file changes with StatReloader
+2024-10-16 23:16:59,439:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\models.py changed, reloading.
+2024-10-16 23:17:00,318:INFO:Watching for file changes with StatReloader
+2024-10-16 23:17:03,734:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\models.py changed, reloading.
+2024-10-16 23:17:04,630:INFO:Watching for file changes with StatReloader
+2024-10-16 23:17:06,009:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\models.py changed, reloading.
+2024-10-16 23:17:06,853:INFO:Watching for file changes with StatReloader
+2024-10-16 23:17:08,220:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\models.py changed, reloading.
+2024-10-16 23:17:12,896:INFO:Watching for file changes with StatReloader
+2024-10-16 23:17:15,294:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\models.py changed, reloading.
+2024-10-16 23:17:16,132:INFO:Watching for file changes with StatReloader
+2024-10-16 23:17:17,508:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\models.py changed, reloading.
+2024-10-16 23:17:18,329:INFO:Watching for file changes with StatReloader
+2024-10-16 23:17:22,793:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\models.py changed, reloading.
+2024-10-16 23:17:23,683:INFO:Watching for file changes with StatReloader
+2024-10-16 23:17:25,062:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\models.py changed, reloading.
+2024-10-16 23:17:25,903:INFO:Watching for file changes with StatReloader
+2024-10-16 23:17:28,320:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\models.py changed, reloading.
+2024-10-16 23:17:29,127:INFO:Watching for file changes with StatReloader
+2024-10-16 23:17:30,497:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\models.py changed, reloading.
+2024-10-16 23:17:31,325:INFO:Watching for file changes with StatReloader
+2024-10-16 23:17:33,737:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\models.py changed, reloading.
+2024-10-16 23:17:34,559:INFO:Watching for file changes with StatReloader
+2024-10-16 23:17:43,990:INFO:Requested http://ipinfo.io/json
+2024-10-16 23:18:09,603:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\views.py changed, reloading.
+2024-10-16 23:18:10,398:INFO:Watching for file changes with StatReloader
+2024-10-16 23:18:13,795:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\views.py changed, reloading.
+2024-10-16 23:18:14,614:INFO:Watching for file changes with StatReloader
+2024-10-16 23:18:18,034:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\views.py changed, reloading.
+2024-10-16 23:18:18,878:INFO:Watching for file changes with StatReloader
+2024-10-16 23:18:20,077:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\views.py changed, reloading.
+2024-10-16 23:18:20,898:INFO:Watching for file changes with StatReloader
+2024-10-16 23:18:24,310:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\views.py changed, reloading.
+2024-10-16 23:18:25,106:INFO:Watching for file changes with StatReloader
+2024-10-16 23:18:28,341:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\views.py changed, reloading.
+2024-10-16 23:18:29,161:INFO:Watching for file changes with StatReloader
+2024-10-16 23:18:30,377:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\views.py changed, reloading.
+2024-10-16 23:18:31,256:INFO:Watching for file changes with StatReloader
+2024-10-16 23:18:32,616:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\views.py changed, reloading.
+2024-10-16 23:18:33,458:INFO:Watching for file changes with StatReloader
+2024-10-16 23:18:34,647:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\views.py changed, reloading.
+2024-10-16 23:18:35,505:INFO:Watching for file changes with StatReloader
+2024-10-16 23:18:38,921:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\views.py changed, reloading.
+2024-10-16 23:18:39,712:INFO:Watching for file changes with StatReloader
+2024-10-16 23:18:43,113:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\views.py changed, reloading.
+2024-10-16 23:18:43,918:INFO:Watching for file changes with StatReloader
+2024-10-16 23:18:47,313:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\views.py changed, reloading.
+2024-10-16 23:18:48,118:INFO:Watching for file changes with StatReloader
+2024-10-16 23:18:51,547:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\views.py changed, reloading.
+2024-10-16 23:18:52,349:INFO:Watching for file changes with StatReloader
+2024-10-16 23:18:55,628:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\views.py changed, reloading.
+2024-10-16 23:18:56,431:INFO:Watching for file changes with StatReloader
+2024-10-16 23:18:59,671:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\views.py changed, reloading.
+2024-10-16 23:19:00,466:INFO:Watching for file changes with StatReloader
+2024-10-16 23:19:03,707:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\views.py changed, reloading.
+2024-10-16 23:19:04,476:INFO:Watching for file changes with StatReloader
+2024-10-16 23:19:06,678:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\views.py changed, reloading.
+2024-10-16 23:19:07,524:INFO:Watching for file changes with StatReloader
+2024-10-16 23:19:16,346:ERROR:Internal Server Error: /InsertData/<str:mag_x>/<str:mag_y>/<str:mag_z>/<str:barometro>/<str:ruido>/<str:giro_x>/<str:giro_y>/<str:giro_z>/<str:acel_x>/<str:acel_y>/<str:acel_z>/<str:vibracion>/
+Traceback (most recent call last):
+  File "C:\Users\Aarón\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Aarón\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\views.py", line 38, in InsertData
+    return HttpResponse(DB_Conexion.insert_data(float(mag_x), float(mag_y), float(mag_z), float(barometro), float(ruido), float(giro_x), float(giro_y), float(giro_z), float(acel_x), float(acel_y), float(acel_z), float(vibracion)))
+                                                ^^^^^^^^^^^^
+ValueError: could not convert string to float: '<str:mag_x>'
+2024-10-16 23:19:35,226:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\views.py changed, reloading.
+2024-10-16 23:19:36,044:INFO:Watching for file changes with StatReloader
+2024-10-16 23:21:53,983:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\views.py changed, reloading.
+2024-10-16 23:21:54,833:INFO:Watching for file changes with StatReloader
+2024-10-16 23:22:06,268:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\views.py changed, reloading.
+2024-10-16 23:22:07,042:INFO:Watching for file changes with StatReloader
+2024-10-16 23:22:30,815:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\views.py changed, reloading.
+2024-10-16 23:22:31,760:INFO:Watching for file changes with StatReloader
+2024-10-16 23:22:37,267:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\views.py changed, reloading.
+2024-10-16 23:22:38,108:INFO:Watching for file changes with StatReloader
+2024-10-16 23:22:42,572:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\views.py changed, reloading.
+2024-10-16 23:22:43,429:INFO:Watching for file changes with StatReloader
+2024-10-16 23:22:45,649:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\views.py changed, reloading.
+2024-10-16 23:22:46,431:INFO:Watching for file changes with StatReloader
+2024-10-16 23:23:00,107:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\views.py changed, reloading.
+2024-10-16 23:23:00,995:INFO:Watching for file changes with StatReloader
+2024-10-16 23:23:08,562:WARNING:Bad Request: /InsertData/<str:mag_x>/<str:mag_y>/<str:mag_z>/<str:barometro>/<str:ruido>/<str:giro_x>/<str:giro_y>/<str:giro_z>/<str:acel_x>/<str:acel_y>/<str:acel_z>/<str:vibracion>/
+2024-10-16 23:23:29,384:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\views.py changed, reloading.
+2024-10-16 23:23:30,273:INFO:Watching for file changes with StatReloader
+2024-10-16 23:23:47,085:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\views.py changed, reloading.
+2024-10-16 23:23:47,892:INFO:Watching for file changes with StatReloader
+2024-10-16 23:24:43,743:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\views.py changed, reloading.
+2024-10-16 23:24:44,595:INFO:Watching for file changes with StatReloader
+2024-10-16 23:24:45,957:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\views.py changed, reloading.
+2024-10-16 23:24:46,725:INFO:Watching for file changes with StatReloader
+2024-10-16 23:24:52,044:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\views.py changed, reloading.
+2024-10-16 23:24:52,857:INFO:Watching for file changes with StatReloader
+2024-10-16 23:25:05,756:ERROR:Internal Server Error: /InsertData/<str:mag_x>/<str:mag_y>/<str:mag_z>/<str:barometro>/<str:ruido>/<str:giro_x>/<str:giro_y>/<str:giro_z>/<str:acel_x>/<str:acel_y>/<str:acel_z>/<str:vibracion>/
+Traceback (most recent call last):
+  File "C:\Users\Aarón\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Aarón\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\views.py", line 48, in InsertData
+    mag_x = request.POST(mag_x)
+            ^^^^^^^^^^^^^^^^^^^
+TypeError: 'QueryDict' object is not callable
+2024-10-16 23:25:16,702:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\views.py changed, reloading.
+2024-10-16 23:25:17,519:INFO:Watching for file changes with StatReloader
+2024-10-16 23:25:22,002:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\views.py changed, reloading.
+2024-10-16 23:25:22,841:INFO:Watching for file changes with StatReloader
+2024-10-16 23:25:29,331:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\views.py changed, reloading.
+2024-10-16 23:25:30,184:INFO:Watching for file changes with StatReloader
+2024-10-16 23:25:39,960:WARNING:Bad Request: /InsertData/<str:mag_x>/<str:mag_y>/<str:mag_z>/<str:barometro>/<str:ruido>/<str:giro_x>/<str:giro_y>/<str:giro_z>/<str:acel_x>/<str:acel_y>/<str:acel_z>/<str:vibracion>/
+2024-10-16 23:26:07,268:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\views.py changed, reloading.
+2024-10-16 23:26:08,175:INFO:Watching for file changes with StatReloader
+2024-10-16 23:26:12,667:INFO:Watching for file changes with StatReloader
+2024-10-16 23:26:36,794:WARNING:Not Found: /favicon.ico
+2024-10-16 23:26:43,701:WARNING:Bad Request: /InsertData/<str:mag_x>/<str:mag_y>/<str:mag_z>/<str:barometro>/<str:ruido>/<str:giro_x>/<str:giro_y>/<str:giro_z>/<str:acel_x>/<str:acel_y>/<str:acel_z>/<str:vibracion>/
+2024-10-16 23:27:17,929:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\views.py changed, reloading.
+2024-10-16 23:27:18,859:INFO:Watching for file changes with StatReloader
+2024-10-16 23:27:28,503:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\views.py changed, reloading.
+2024-10-16 23:27:29,461:INFO:Watching for file changes with StatReloader
+2024-10-16 23:27:35,812:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\views.py changed, reloading.
+2024-10-16 23:27:36,768:INFO:Watching for file changes with StatReloader
+2024-10-16 23:28:36,795:INFO:Requested http://ipinfo.io/json
+2024-10-16 23:29:14,969:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\models.py changed, reloading.
+2024-10-16 23:29:15,809:INFO:Watching for file changes with StatReloader
+2024-10-16 23:29:17,205:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\models.py changed, reloading.
+2024-10-16 23:29:18,168:INFO:Watching for file changes with StatReloader
+2024-10-16 23:29:21,716:INFO:Requested http://ipinfo.io/json
+2024-10-16 23:29:54,380:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\models.py changed, reloading.
+2024-10-16 23:29:55,341:INFO:Watching for file changes with StatReloader
+2024-10-16 23:30:08,063:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\views.py changed, reloading.
+2024-10-16 23:30:08,902:INFO:Watching for file changes with StatReloader
+2024-10-16 23:30:15,974:INFO:Requested http://ipinfo.io/json
+2024-10-16 23:30:53,443:INFO:Requested http://ipinfo.io/json
+2024-10-16 23:31:02,530:INFO:Requested http://ipinfo.io/json
+2024-10-16 23:31:13,360:INFO:Requested http://ipinfo.io/json
+2024-10-16 23:32:01,208:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\models.py changed, reloading.
+2024-10-16 23:32:02,088:INFO:Watching for file changes with StatReloader
+2024-10-16 23:32:03,470:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\models.py changed, reloading.
+2024-10-16 23:32:04,389:INFO:Watching for file changes with StatReloader
+2024-10-16 23:32:04,977:INFO:Requested http://ipinfo.io/json
+2024-10-16 23:32:35,764:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\views.py changed, reloading.
+2024-10-16 23:32:36,686:INFO:Watching for file changes with StatReloader
+2024-10-16 23:32:37,898:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\views.py changed, reloading.
+2024-10-16 23:32:38,713:INFO:Watching for file changes with StatReloader
+2024-10-16 23:32:51,397:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\views.py changed, reloading.
+2024-10-16 23:32:52,283:INFO:Watching for file changes with StatReloader
+2024-10-16 23:33:00,680:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\views.py changed, reloading.
+2024-10-16 23:33:01,629:INFO:Watching for file changes with StatReloader
+2024-10-16 23:33:03,843:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\views.py changed, reloading.
+2024-10-16 23:33:04,646:INFO:Watching for file changes with StatReloader
+2024-10-16 23:33:16,093:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\views.py changed, reloading.
+2024-10-16 23:33:16,907:INFO:Watching for file changes with StatReloader
+2024-10-16 23:33:19,143:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\views.py changed, reloading.
+2024-10-16 23:33:19,974:INFO:Watching for file changes with StatReloader
+2024-10-16 23:33:21,187:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\views.py changed, reloading.
+2024-10-16 23:33:22,010:INFO:Watching for file changes with StatReloader
+2024-10-16 23:33:38,588:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\views.py changed, reloading.
+2024-10-16 23:33:39,404:INFO:Watching for file changes with StatReloader
+2024-10-16 23:33:41,969:WARNING:Method Not Allowed: /InsertData/1/1/1/1/1/1/1/1/1/1/1/a/
+2024-10-16 23:33:54,659:INFO:Requested http://ipinfo.io/json
+2024-10-16 23:34:06,266:INFO:Requested http://ipinfo.io/json
+2024-10-16 23:35:13,599:WARNING:Not Found: /<str:mag_x>/<str:mag_y>/<str:mag_z>/<str:barometro>/<str:ruido>/<str:giro_x>/<str:giro_y>/<str:giro_z>/<str:acel_x>/<str:acel_y>/<str:acel_z>/<str:vibracion>/
+2024-10-16 23:35:36,598:INFO:Requested http://ipinfo.io/json
+2024-10-16 23:36:51,557:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\urls.py changed, reloading.
+2024-10-16 23:36:52,557:INFO:Watching for file changes with StatReloader
+2024-10-16 23:37:04,114:ERROR:Internal Server Error: /InsertData/
+Traceback (most recent call last):
+  File "C:\Users\Aarón\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Aarón\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+TypeError: InsertData() missing 12 required positional arguments: 'mag_x', 'mag_y', 'mag_z', 'barometro', 'ruido', 'giro_x', 'giro_y', 'giro_z', 'acel_x', 'acel_y', 'acel_z', and 'vibracion'
+2024-10-16 23:37:40,041:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\urls.py changed, reloading.
+2024-10-16 23:37:40,852:INFO:Watching for file changes with StatReloader
+2024-10-16 23:37:47,677:WARNING:Not Found: /InsertData/
+2024-10-16 23:39:46,938:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\views.py changed, reloading.
+2024-10-16 23:39:47,933:INFO:Watching for file changes with StatReloader
+2024-10-16 23:39:53,533:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\views.py changed, reloading.
+2024-10-16 23:39:54,387:INFO:Watching for file changes with StatReloader
+2024-10-16 23:40:00,380:WARNING:Not Found: /InsertData/
+2024-10-16 23:40:30,525:INFO:Requested http://ipinfo.io/json
+2024-10-16 23:43:50,392:INFO:Watching for file changes with StatReloader
+2024-10-16 23:43:58,579:WARNING:Not Found: /favicon.ico
+2024-10-16 23:44:11,259:INFO:Requested http://ipinfo.io/json
+2024-10-16 23:44:52,886:INFO:Requested http://ipinfo.io/json
+2024-10-16 23:47:17,832:INFO:Requested http://ipinfo.io/json
+2024-10-16 23:47:38,896:INFO:Requested http://ipinfo.io/json
+2024-10-16 23:48:45,999:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\views.py changed, reloading.
+2024-10-16 23:48:46,963:INFO:Watching for file changes with StatReloader
+2024-10-16 23:48:56,266:INFO:Requested http://ipinfo.io/json
+2024-10-16 23:48:56,500:ERROR:Internal Server Error: /InsertData/1/1/1/1/1/1/1/1/1/1/1/1/
+Traceback (most recent call last):
+  File "C:\Users\Aarón\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Aarón\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\views.py", line 45, in InsertData
+    return JsonResponse(result)  # O puedes devolver un JsonResponse si prefieres
+           ^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Aarón\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\django\http\response.py", line 726, in __init__
+    raise TypeError(
+TypeError: In order to allow non-dict objects to be serialized set the safe parameter to False.
+2024-10-16 23:49:35,588:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\views.py changed, reloading.
+2024-10-16 23:49:36,483:INFO:Watching for file changes with StatReloader
+2024-10-16 23:49:39,979:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\views.py changed, reloading.
+2024-10-16 23:49:40,837:INFO:Watching for file changes with StatReloader
+2024-10-16 23:49:50,479:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\views.py changed, reloading.
+2024-10-16 23:49:51,343:INFO:Watching for file changes with StatReloader
+2024-10-16 23:50:03,493:INFO:Requested http://ipinfo.io/json
+2024-10-16 23:50:36,772:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\models.py changed, reloading.
+2024-10-16 23:50:37,692:INFO:Watching for file changes with StatReloader
+2024-10-16 23:57:29,900:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\models.py changed, reloading.
+2024-10-16 23:57:40,966:INFO:Watching for file changes with StatReloader
+2024-10-16 23:57:44,538:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\models.py changed, reloading.
+2024-10-16 23:57:45,447:INFO:Watching for file changes with StatReloader
+2024-10-16 23:57:47,841:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\models.py changed, reloading.
+2024-10-16 23:57:48,690:INFO:Watching for file changes with StatReloader
+2024-10-16 23:58:06,507:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\views.py changed, reloading.
+2024-10-16 23:58:07,336:INFO:Watching for file changes with StatReloader
+2024-10-16 23:58:08,771:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\views.py changed, reloading.
+2024-10-16 23:58:09,804:INFO:Watching for file changes with StatReloader
+2024-10-16 23:58:16,384:INFO:Requested http://ipinfo.io/json
+2024-10-16 23:58:16,564:ERROR:Internal Server Error: /InsertData/1/1/1/1/1/11/1/1/1/1/1/1/
+Traceback (most recent call last):
+  File "C:\Users\Aarón\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Aarón\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\views.py", line 46, in InsertData
+    return JsonResponse({'status': 'success', 'message': result})  # Asegúrate de que result sea un string o un objeto JSON válido
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Aarón\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\django\http\response.py", line 733, in __init__
+    data = json.dumps(data, cls=encoder, **json_dumps_params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\Lib\json\__init__.py", line 238, in dumps
+    **kw).encode(obj)
+          ^^^^^^^^^^^
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\Lib\json\encoder.py", line 200, in encode
+    chunks = self.iterencode(o, _one_shot=True)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\Lib\json\encoder.py", line 258, in iterencode
+    return _iterencode(o, 0)
+           ^^^^^^^^^^^^^^^^^
+  File "C:\Users\Aarón\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\django\core\serializers\json.py", line 106, in default
+    return super().default(o)
+           ^^^^^^^^^^^^^^^^^^
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\Lib\json\encoder.py", line 180, in default
+    raise TypeError(f'Object of type {o.__class__.__name__} '
+TypeError: Object of type JsonResponse is not JSON serializable
+2024-10-16 23:58:30,103:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\views.py changed, reloading.
+2024-10-16 23:58:31,022:INFO:Watching for file changes with StatReloader
+2024-10-16 23:58:46,791:INFO:Requested http://ipinfo.io/json
+2024-10-16 23:59:08,728:INFO:Requested http://ipinfo.io/json
+2024-10-16 23:59:30,030:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\views.py changed, reloading.
+2024-10-16 23:59:30,855:INFO:Watching for file changes with StatReloader
+2024-10-16 23:59:35,305:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\views.py changed, reloading.
+2024-10-16 23:59:36,181:INFO:Watching for file changes with StatReloader
+2024-10-16 23:59:56,691:WARNING:Not Found: /favicon.ico
+2024-10-17 00:00:02,144:INFO:Requested http://ipinfo.io/json
+2024-10-17 00:00:02,349:ERROR:Internal Server Error: /InsertData/1/1/1/1/1/1/1/1/1/1/1/1/
+Traceback (most recent call last):
+  File "C:\Users\Aarón\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Aarón\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\views.py", line 49, in InsertData
+    return JsonResponse({'status': 'success', 'message': result})  # Asegúrate de que result sea un string o un objeto JSON válido
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Aarón\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\django\http\response.py", line 733, in __init__
+    data = json.dumps(data, cls=encoder, **json_dumps_params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\Lib\json\__init__.py", line 238, in dumps
+    **kw).encode(obj)
+          ^^^^^^^^^^^
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\Lib\json\encoder.py", line 200, in encode
+    chunks = self.iterencode(o, _one_shot=True)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\Lib\json\encoder.py", line 258, in iterencode
+    return _iterencode(o, 0)
+           ^^^^^^^^^^^^^^^^^
+  File "C:\Users\Aarón\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\django\core\serializers\json.py", line 106, in default
+    return super().default(o)
+           ^^^^^^^^^^^^^^^^^^
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\Lib\json\encoder.py", line 180, in default
+    raise TypeError(f'Object of type {o.__class__.__name__} '
+TypeError: Object of type JsonResponse is not JSON serializable
+2024-10-17 00:00:27,856:INFO:Requested http://ipinfo.io/json
+2024-10-17 00:00:27,871:ERROR:Internal Server Error: /InsertData/1/1/1/1/1/1/1/1/1/1/1/1/
+Traceback (most recent call last):
+  File "C:\Users\Aarón\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Aarón\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\views.py", line 49, in InsertData
+    return JsonResponse({'status': 'success', 'message': result})  # Asegúrate de que result sea un string o un objeto JSON válido
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Aarón\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\django\http\response.py", line 733, in __init__
+    data = json.dumps(data, cls=encoder, **json_dumps_params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\Lib\json\__init__.py", line 238, in dumps
+    **kw).encode(obj)
+          ^^^^^^^^^^^
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\Lib\json\encoder.py", line 200, in encode
+    chunks = self.iterencode(o, _one_shot=True)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\Lib\json\encoder.py", line 258, in iterencode
+    return _iterencode(o, 0)
+           ^^^^^^^^^^^^^^^^^
+  File "C:\Users\Aarón\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\django\core\serializers\json.py", line 106, in default
+    return super().default(o)
+           ^^^^^^^^^^^^^^^^^^
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\Lib\json\encoder.py", line 180, in default
+    raise TypeError(f'Object of type {o.__class__.__name__} '
+TypeError: Object of type JsonResponse is not JSON serializable
+2024-10-17 00:00:52,953:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\views.py changed, reloading.
+2024-10-17 00:00:53,829:INFO:Watching for file changes with StatReloader
+2024-10-17 00:00:58,353:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\views.py changed, reloading.
+2024-10-17 00:00:59,205:INFO:Watching for file changes with StatReloader
+2024-10-17 00:01:01,636:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\views.py changed, reloading.
+2024-10-17 00:01:02,689:INFO:Watching for file changes with StatReloader
+2024-10-17 00:01:05,164:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\views.py changed, reloading.
+2024-10-17 00:01:06,026:INFO:Watching for file changes with StatReloader
+2024-10-17 00:01:16,723:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\views.py changed, reloading.
+2024-10-17 00:01:17,568:INFO:Watching for file changes with StatReloader
+2024-10-17 00:01:18,997:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\views.py changed, reloading.
+2024-10-17 00:01:19,877:INFO:Watching for file changes with StatReloader
+2024-10-17 00:01:36,754:INFO:Requested http://ipinfo.io/json
+2024-10-17 00:02:11,810:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\views.py changed, reloading.
+2024-10-17 00:02:12,625:INFO:Watching for file changes with StatReloader
+2024-10-17 00:02:17,080:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\views.py changed, reloading.
+2024-10-17 00:02:18,038:INFO:Watching for file changes with StatReloader
+2024-10-17 00:02:23,660:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\models.py changed, reloading.
+2024-10-17 00:02:24,471:INFO:Watching for file changes with StatReloader
+2024-10-17 00:02:27,884:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\models.py changed, reloading.
+2024-10-17 00:02:28,745:INFO:Watching for file changes with StatReloader
+2024-10-17 00:02:30,158:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\models.py changed, reloading.
+2024-10-17 00:02:31,007:INFO:Watching for file changes with StatReloader
+2024-10-17 00:02:33,423:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\models.py changed, reloading.
+2024-10-17 00:02:34,409:INFO:Watching for file changes with StatReloader
+2024-10-17 00:02:48,671:INFO:Requested http://ipinfo.io/json
+2024-10-17 00:03:41,500:INFO:Requested http://ipinfo.io/json
+2024-10-17 00:04:17,348:INFO:Requested http://ipinfo.io/json
+2024-10-17 00:08:55,643:INFO:Watching for file changes with StatReloader
+2024-10-17 00:10:29,252:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ENA\settings.py changed, reloading.
+2024-10-17 00:10:30,144:INFO:Watching for file changes with StatReloader
+2024-10-17 00:10:51,134:WARNING:Not Found: /favicon.ico
+2024-10-17 00:11:38,537:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ENA\settings.py changed, reloading.
+2024-10-17 00:11:39,376:INFO:Watching for file changes with StatReloader
+2024-10-17 00:11:40,753:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ENA\settings.py changed, reloading.
+2024-10-17 00:11:41,570:INFO:Watching for file changes with StatReloader
+2024-10-17 00:16:03,280:INFO:Watching for file changes with StatReloader
+2024-10-17 00:17:36,425:INFO:Watching for file changes with StatReloader
+2024-10-17 00:18:27,318:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ENA\settings.py changed, reloading.
+2024-10-17 00:18:28,179:INFO:Watching for file changes with StatReloader
+2024-10-17 00:19:28,223:INFO:Watching for file changes with StatReloader
+2024-10-17 00:20:16,302:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ENA\settings.py changed, reloading.
+2024-10-17 00:20:17,061:INFO:Watching for file changes with StatReloader

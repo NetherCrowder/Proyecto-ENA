@@ -4,10 +4,24 @@ document.getElementById("loginForm").addEventListener("submit", function(event) 
     var username = document.getElementById("username").value;
     var password = document.getElementById("password").value;
 
-    // Simular login correcto (Por ahora sin validación real)
-    if (username && password) {
-        window.location.href = "monitoreoVariables";
-    } else {
-        alert("Por favor ingrese un usuario y contraseña válidos.");
-    }
+    // Realizar la solicitud de autenticación
+    fetch('GetUsers/' + username + '&' + password, {  // Asegúrate de que esta ruta sea correcta
+        method: 'GET',
+        headers: {
+            'Content-Type': 'application/json'
+        }
+    })
+    .then(response => {
+        if (response.ok) {
+            window.location.href = "Variables"; // Redirigir en caso de éxito
+        } else {
+            return response.json().then(data => {
+                alert(data.error || "Error en la autenticación.");
+            });
+        }
+    })
+    .catch(error => {
+        console.error("Error en la solicitud:", error);
+        alert("Error en la conexión al servidor.");
+    });
 });

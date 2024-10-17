@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Enviar Datos</title>
+    <script>
+        async function sendData() {
+            const csrfToken = document.querySelector('[name=csrfmiddlewaretoken]').value;
+
+            // Obtener los valores del formulario
+            const mag_x = document.getElementById('mag_x').value;
+            const mag_y = document.getElementById('mag_y').value;
+            const mag_z = document.getElementById('mag_z').value;
+            const barometro = document.getElementById('barometro').value;
+            const ruido = document.getElementById('ruido').value;
+            const giro_x = document.getElementById('giro_x').value;
+            const giro_y = document.getElementById('giro_y').value;
+            const giro_z = document.getElementById('giro_z').value;
+            const acel_x = document.getElementById('acel_x').value;
+            const acel_y = document.getElementById('acel_y').value;
+            const acel_z = document.getElementById('acel_z').value;
+            const vibracion = document.getElementById('vibracion').value;
+
+            // Construir la URL con los datos del formulario
+            const url = `/InsertData/${encodeURIComponent(mag_x)}/${encodeURIComponent(mag_y)}/${encodeURIComponent(mag_z)}/${encodeURIComponent(barometro)}/${encodeURIComponent(ruido)}/${encodeURIComponent(giro_x)}/${encodeURIComponent(giro_y)}/${encodeURIComponent(giro_z)}/${encodeURIComponent(acel_x)}/${encodeURIComponent(acel_y)}/${encodeURIComponent(acel_z)}/${encodeURIComponent(vibracion)}/`;
+
+            // Enviar la solicitud POST
+            try {
+                const response = await fetch(url, {
+                    method: 'POST',
+                    headers: {
+                        'X-CSRFToken': csrfToken,
+                    },
+                });
+
+                if (!response.ok) {
+                    // Si la respuesta no es 2xx, lanza un error
+                    throw new Error(`HTTP error! status: ${response.status}`);
+                }
+
+                const result = await response.json();
+                console.log(result.message);
+            } catch (error) {
+                console.error('Error:', error);
+                alert('Error al enviar los datos: ' + error.message);
+            }
+        }
+    </script>
+</head>
+<body>
+    <h1>Enviar Datos</h1>
+    <form onsubmit="event.preventDefault(); sendData();">
+        {% csrf_token %}  <!-- Agrega esta línea para incluir el token CSRF -->
+        <label for="mag_x">Magnetómetro X:</label>
+        <input type="text" id="mag_x" required><br>
+
+        <label for="mag_y">Magnetómetro Y:</label>
+        <input type="text" id="mag_y" required><br>
+
+        <label for="mag_z">Magnetómetro Z:</label>
+        <input type="text" id="mag_z" required><br>
+
+        <label for="barometro">Barómetro:</label>
+        <input type="text" id="barometro" required><br>
+
+        <label for="ruido">Ruido:</label>
+        <input type="text" id="ruido" required><br>
+
+        <label for="giro_x">Giro X:</label>
+        <input type="text" id="giro_x" required><br>
+
+        <label for="giro_y">Giro Y:</label>
+        <input type="text" id="giro_y" required><br>
+
+        <label for="giro_z">Giro Z:</label>
+        <input type="text" id="giro_z" required><br>
+
+        <label for="acel_x">Acelerómetro X:</label>
+        <input type="text" id="acel_x" required><br>
+
+        <label for="acel_y">Acelerómetro Y:</label>
+        <input type="text" id="acel_y" required><br>
+
+        <label for="acel_z">Acelerómetro Z:</label>
+        <input type="text" id="acel_z" required><br>
+
+        <label for="vibracion">Vibración:</label>
+        <input type="text" id="vibracion" required><br>
+
+        <button type="submit">Enviar Datos</button>
+    </form>
+</body>
+</html>
