@@ -1,10 +1,8 @@
 document.addEventListener("DOMContentLoaded", function() {
     function fetchGetGPS() {
-        fetch('GetData')
+        fetch('GetData')  // Asegúrate de que esta URL coincide con tu ruta en Django
             .then(response => response.json())
             .then(data => {
-                // Invertir el orden de los datos para que estén en orden cronológico
-                data.reverse();
                 updateMap(data);
             })
             .catch(error => console.error('Error al obtener datos históricos:', error));
@@ -30,23 +28,36 @@ document.addEventListener("DOMContentLoaded", function() {
     }
 
     function updateMap(data) {
-        const gpsData = data.map(item => [item.gps.latitud, item.gps.longitud]);
-        var ruido = data.map(item => item.ruido);
-        
-        // Agregar el nuevo punto como un marcador circular
-        if (gpsData.length > 0) {
-            const lastPoint = gpsData[gpsData.length - 1];
-            const marker = L.circleMarker(lastPoint, {color: getColor(ruido), radius: 10}).addTo(map);
-            markers.push(marker);
+        console.log('Datos recibidos:', data);
+    
+        if (!map) {
+            console.error('El mapa no está inicializado.');
+            return;
         }
-
-        // Ajustar el mapa a los límites de los marcadores
-        if (markers.length > 0) {
-            const group = new L.featureGroup(markers);
-            map.fitBounds(group.getBounds());
+    
+        if (data && data.gps && typeof data.gps.latitud === 'number' && typeof data.gps.longitud === 'number') {
+            const gpsData = [data.gps.latitud, data.gps.longitud];
+            console.log('Coordenadas GPS:', gpsData);
+    
+            var ruido = data.ruido;
+            var color = getColor(ruido);
+            console.log('Color obtenido:', color);
+    
+            // Agregar el nuevo punto como un marcador circular
+            const marker = L.circleMarker(gpsData, {color: color, radius: 10}).addTo(map);
+            markers.push(marker);
+            console.log('Marcadores actuales:', markers);
+    
+            // Ajustar el mapa a los límites de los marcadores
+            if (markers.length > 0) {
+                const group = new L.featureGroup(markers);
+                map.fitBounds(group.getBounds());
+            }
+        } else {
+            console.error('Datos GPS inválidos:', data);
         }
     }
 
     fetchGetGPS();
-    setInterval(fetchGetGPS, 1000);
+    setInterval(fetchGetGPS, 10000);
 });

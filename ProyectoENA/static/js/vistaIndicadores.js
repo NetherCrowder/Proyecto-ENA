@@ -183,9 +183,6 @@ document.addEventListener('DOMContentLoaded', function () {
         fetch('GetData')
             .then(response => response.json())
             .then(data => {
-                // Invertir el orden de los datos para que estén en orden cronológico
-                data.reverse();
-
                 updateCharts(data);
             })
             .catch(error => console.error('Error al obtener datos históricos:', error));
@@ -194,17 +191,16 @@ document.addEventListener('DOMContentLoaded', function () {
     var i = 0
 
     function updateCharts(data) {
-        var nuevadata = data[0];
         var maxDataPoints = 10; // Define la cantidad máxima de datos
 
         var charts = [chart1, chart2, chart3, chart4, chart5, chart6];
         var sensors = [
-            { chart: chart1, data: nuevadata.magnetometro, keys: ['x', 'y', 'z'] },
-            { chart: chart2, data: nuevadata.barometro, keys: [null] },
-            { chart: chart3, data: nuevadata.ruido, keys: [null] },
-            { chart: chart4, data: nuevadata.giroscopio, keys: ['x', 'y', 'z'] },
-            { chart: chart5, data: nuevadata.acelerometro, keys: ['x', 'y', 'z'] },
-            { chart: chart6, data: nuevadata.vibracion, keys: [null] }
+            { chart: chart1, data: data.magnetometro, keys: ['x', 'y', 'z'] },
+            { chart: chart2, data: data.barometro, keys: [null] },
+            { chart: chart3, data: data.ruido, keys: [null] },
+            { chart: chart4, data: data.giroscopio, keys: ['x', 'y', 'z'] },
+            { chart: chart5, data: data.acelerometro, keys: ['x', 'y', 'z'] },
+            { chart: chart6, data: data.vibracion, keys: [null] }
         ];
 
         i += 1
@@ -231,5 +227,5 @@ document.addEventListener('DOMContentLoaded', function () {
 
     fetchGetData();
 
-   setInterval(fetchGetData, 1000);
+   setInterval(fetchGetData, 10000);
 });

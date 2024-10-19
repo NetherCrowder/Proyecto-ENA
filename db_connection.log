@@ -6268,3 +6268,1897 @@ TypeError: Object of type JsonResponse is not JSON serializable
 2024-10-17 00:19:28,223:INFO:Watching for file changes with StatReloader
 2024-10-17 00:20:16,302:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ENA\settings.py changed, reloading.
 2024-10-17 00:20:17,061:INFO:Watching for file changes with StatReloader
+2024-10-17 07:41:35,873:INFO:Watching for file changes with StatReloader
+2024-10-17 08:10:46,109:WARNING:Not Found: /favicon.ico
+2024-10-17 09:24:15,431:INFO:Watching for file changes with StatReloader
+2024-10-17 09:24:35,608:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\views.py changed, reloading.
+2024-10-17 09:24:49,884:INFO:Watching for file changes with StatReloader
+2024-10-17 09:25:01,599:INFO:Watching for file changes with StatReloader
+2024-10-17 09:25:11,071:WARNING:Not Found: /favicon.ico
+2024-10-17 09:25:27,508:ERROR:Internal Server Error: /clean_data
+Traceback (most recent call last):
+  File "C:\Users\Aarón\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Aarón\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Aarón\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\asgiref\sync.py", line 254, in __call__
+    return call_result.result()
+           ^^^^^^^^^^^^^^^^^^^^
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\Lib\concurrent\futures\_base.py", line 449, in result
+    return self.__get_result()
+           ^^^^^^^^^^^^^^^^^^^
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\Lib\concurrent\futures\_base.py", line 401, in __get_result
+    raise self._exception
+  File "C:\Users\Aarón\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\asgiref\sync.py", line 331, in main_wrap
+    result = await self.awaitable(*args, **kwargs)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\views.py", line 59, in CleanData
+    data = await GetData()
+                 ^^^^^^^^^
+TypeError: GetData() missing 1 required positional argument: 'request'
+2024-10-17 09:25:46,186:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\views.py changed, reloading.
+2024-10-17 09:25:47,131:INFO:Watching for file changes with StatReloader
+2024-10-17 09:25:52,332:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\views.py changed, reloading.
+2024-10-17 09:25:53,219:INFO:Watching for file changes with StatReloader
+2024-10-17 09:25:56,262:ERROR:Internal Server Error: /clean_data
+Traceback (most recent call last):
+  File "C:\Users\Aarón\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Aarón\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Aarón\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\asgiref\sync.py", line 254, in __call__
+    return call_result.result()
+           ^^^^^^^^^^^^^^^^^^^^
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\Lib\concurrent\futures\_base.py", line 449, in result
+    return self.__get_result()
+           ^^^^^^^^^^^^^^^^^^^
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\Lib\concurrent\futures\_base.py", line 401, in __get_result
+    raise self._exception
+  File "C:\Users\Aarón\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\asgiref\sync.py", line 331, in main_wrap
+    result = await self.awaitable(*args, **kwargs)
+                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+TypeError: CleanData() takes 0 positional arguments but 1 was given
+2024-10-17 09:26:32,074:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\views.py changed, reloading.
+2024-10-17 09:26:33,012:INFO:Watching for file changes with StatReloader
+2024-10-17 09:26:42,343:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\views.py changed, reloading.
+2024-10-17 09:26:43,240:INFO:Watching for file changes with StatReloader
+2024-10-17 09:26:49,453:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\views.py changed, reloading.
+2024-10-17 09:26:50,369:INFO:Watching for file changes with StatReloader
+2024-10-17 09:26:51,604:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\views.py changed, reloading.
+2024-10-17 09:26:52,427:INFO:Watching for file changes with StatReloader
+2024-10-17 09:26:54,642:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\views.py changed, reloading.
+2024-10-17 09:26:55,439:INFO:Watching for file changes with StatReloader
+2024-10-17 09:26:58,419:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\views.py changed, reloading.
+2024-10-17 09:26:59,335:INFO:Watching for file changes with StatReloader
+2024-10-17 09:27:01,779:ERROR:Internal Server Error: /clean_data
+Traceback (most recent call last):
+  File "C:\Users\Aarón\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Aarón\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+TypeError: CleanData() takes 0 positional arguments but 1 was given
+2024-10-17 09:27:34,204:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\views.py changed, reloading.
+2024-10-17 09:27:35,100:INFO:Watching for file changes with StatReloader
+2024-10-17 09:27:41,038:WARNING:Not Found: /favicon.ico
+2024-10-17 09:27:52,444:ERROR:Internal Server Error: /clean_data
+Traceback (most recent call last):
+  File "C:\Users\Aarón\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Aarón\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\views.py", line 59, in CleanData
+    data = GetData()
+           ^^^^^^^^^
+TypeError: GetData() missing 1 required positional argument: 'request'
+2024-10-17 09:28:07,824:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\views.py changed, reloading.
+2024-10-17 09:28:08,803:INFO:Watching for file changes with StatReloader
+2024-10-17 09:28:10,888:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\views.py changed, reloading.
+2024-10-17 09:28:11,770:INFO:Watching for file changes with StatReloader
+2024-10-17 09:28:14,915:ERROR:Internal Server Error: /clean_data
+Traceback (most recent call last):
+  File "C:\Users\Aarón\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Aarón\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\views.py", line 61, in CleanData
+    pd_data = pd.json_normalize(data.json())
+                                ^^^^^^^^^
+AttributeError: 'JsonResponse' object has no attribute 'json'
+2024-10-17 09:28:25,881:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\views.py changed, reloading.
+2024-10-17 09:28:26,742:INFO:Watching for file changes with StatReloader
+2024-10-17 09:28:32,034:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\views.py changed, reloading.
+2024-10-17 09:28:32,908:INFO:Watching for file changes with StatReloader
+2024-10-17 09:28:38,062:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\views.py changed, reloading.
+2024-10-17 09:28:38,940:INFO:Watching for file changes with StatReloader
+2024-10-17 09:28:43,215:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\views.py changed, reloading.
+2024-10-17 09:28:44,046:INFO:Watching for file changes with StatReloader
+2024-10-17 09:28:49,055:ERROR:Internal Server Error: /clean_data
+Traceback (most recent call last):
+  File "C:\Users\Aarón\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Aarón\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\views.py", line 61, in CleanData
+    pd_data = pd.json_normalize(data.json())
+                                ^^^^^^^^^
+AttributeError: 'JsonResponse' object has no attribute 'json'
+2024-10-17 09:28:59,950:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\views.py changed, reloading.
+2024-10-17 09:29:00,827:INFO:Watching for file changes with StatReloader
+2024-10-17 09:29:05,888:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\views.py changed, reloading.
+2024-10-17 09:29:06,771:INFO:Watching for file changes with StatReloader
+2024-10-17 09:29:09,781:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\views.py changed, reloading.
+2024-10-17 09:29:10,718:INFO:Watching for file changes with StatReloader
+2024-10-17 09:29:11,456:ERROR:Internal Server Error: /clean_data
+Traceback (most recent call last):
+  File "C:\Users\Aarón\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Aarón\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\views.py", line 65, in CleanData
+    result = cleaner.clean_and_validate_data()
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\services\diagnostic_data_cleaner.py", line 60, in clean_and_validate_data
+    df_cleaned = self.clean_data()
+                 ^^^^^^^^^^^^^^^^^
+  File "C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\services\diagnostic_data_cleaner.py", line 51, in clean_data
+    mahalanobis_distances = self.calculate_mahalanobis(df_cleaned)
+                            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\services\diagnostic_data_cleaner.py", line 16, in calculate_mahalanobis
+    inv_cov_matrix = np.linalg.inv(cov_matrix)
+                     ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Aarón\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\numpy\linalg\linalg.py", line 555, in inv
+    _assert_stacked_2d(a)
+  File "C:\Users\Aarón\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\numpy\linalg\linalg.py", line 206, in _assert_stacked_2d
+    raise LinAlgError('%d-dimensional array given. Array must be '
+numpy.linalg.LinAlgError: 0-dimensional array given. Array must be at least two-dimensional
+2024-10-17 09:29:28,004:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\views.py changed, reloading.
+2024-10-17 09:29:29,032:INFO:Watching for file changes with StatReloader
+2024-10-17 09:29:44,578:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\views.py changed, reloading.
+2024-10-17 09:29:45,384:INFO:Watching for file changes with StatReloader
+2024-10-17 09:29:48,848:ERROR:Internal Server Error: /clean_data
+Traceback (most recent call last):
+  File "C:\Users\Aarón\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Aarón\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\views.py", line 61, in CleanData
+    pd_data = pd.json_normalize(data.json())
+                                ^^^^^^^^^
+AttributeError: 'JsonResponse' object has no attribute 'json'
+2024-10-17 09:29:58,123:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\views.py changed, reloading.
+2024-10-17 09:29:59,028:INFO:Watching for file changes with StatReloader
+2024-10-17 09:30:14,580:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\views.py changed, reloading.
+2024-10-17 09:30:15,388:INFO:Watching for file changes with StatReloader
+2024-10-17 09:30:17,332:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\views.py changed, reloading.
+2024-10-17 09:30:18,202:INFO:Watching for file changes with StatReloader
+2024-10-17 09:30:22,089:ERROR:Internal Server Error: /clean_data
+Traceback (most recent call last):
+  File "C:\Users\Aarón\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Aarón\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\views.py", line 61, in CleanData
+    pd_data = pd.json_normalize(data.get())
+                                ^^^^^^^^^^
+TypeError: HttpResponseBase.get() missing 1 required positional argument: 'header'
+2024-10-17 09:33:24,775:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\views.py changed, reloading.
+2024-10-17 09:33:25,657:INFO:Watching for file changes with StatReloader
+2024-10-17 09:33:33,863:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\views.py changed, reloading.
+2024-10-17 09:33:34,729:INFO:Watching for file changes with StatReloader
+2024-10-17 09:33:36,728:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\views.py changed, reloading.
+2024-10-17 09:33:37,551:INFO:Watching for file changes with StatReloader
+2024-10-17 09:33:41,602:ERROR:Internal Server Error: /clean_data
+Traceback (most recent call last):
+  File "C:\Users\Aarón\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Aarón\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\views.py", line 60, in CleanData
+    data_json = data.json()
+                ^^^^^^^^^
+AttributeError: 'JsonResponse' object has no attribute 'json'
+2024-10-17 09:34:09,615:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\views.py changed, reloading.
+2024-10-17 09:34:10,487:INFO:Watching for file changes with StatReloader
+2024-10-17 09:34:17,662:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\views.py changed, reloading.
+2024-10-17 09:34:18,511:INFO:Watching for file changes with StatReloader
+2024-10-17 09:34:20,999:ERROR:Internal Server Error: /clean_data
+Traceback (most recent call last):
+  File "C:\Users\Aarón\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Aarón\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\views.py", line 67, in CleanData
+    result = cleaner.clean_and_validate_data()
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\services\diagnostic_data_cleaner.py", line 60, in clean_and_validate_data
+    df_cleaned = self.clean_data()
+                 ^^^^^^^^^^^^^^^^^
+  File "C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\services\diagnostic_data_cleaner.py", line 51, in clean_data
+    mahalanobis_distances = self.calculate_mahalanobis(df_cleaned)
+                            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\services\diagnostic_data_cleaner.py", line 18, in calculate_mahalanobis
+    mahalanobis_distances = np.apply_along_axis(lambda x: mahalanobis(x, mean_vals, inv_cov_matrix), 1, numeric_cols)
+                            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Aarón\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\numpy\lib\shape_base.py", line 376, in apply_along_axis
+    raise ValueError(
+ValueError: Cannot apply_along_axis when any iteration dimensions are 0
+2024-10-17 09:35:24,159:INFO:Requested http://ipinfo.io/json
+2024-10-17 09:35:27,352:INFO:Requested http://ipinfo.io/json
+2024-10-17 09:35:30,108:INFO:Requested http://ipinfo.io/json
+2024-10-17 09:35:39,640:ERROR:Internal Server Error: /clean_data
+Traceback (most recent call last):
+  File "C:\Users\Aarón\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Aarón\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\views.py", line 67, in CleanData
+    result = cleaner.clean_and_validate_data()
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\services\diagnostic_data_cleaner.py", line 60, in clean_and_validate_data
+    df_cleaned = self.clean_data()
+                 ^^^^^^^^^^^^^^^^^
+  File "C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\services\diagnostic_data_cleaner.py", line 51, in clean_data
+    mahalanobis_distances = self.calculate_mahalanobis(df_cleaned)
+                            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\services\diagnostic_data_cleaner.py", line 16, in calculate_mahalanobis
+    inv_cov_matrix = np.linalg.inv(cov_matrix)
+                     ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Aarón\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\numpy\linalg\linalg.py", line 555, in inv
+    _assert_stacked_2d(a)
+  File "C:\Users\Aarón\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\numpy\linalg\linalg.py", line 206, in _assert_stacked_2d
+    raise LinAlgError('%d-dimensional array given. Array must be '
+numpy.linalg.LinAlgError: 0-dimensional array given. Array must be at least two-dimensional
+2024-10-17 09:36:08,711:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\views.py changed, reloading.
+2024-10-17 09:36:09,619:INFO:Watching for file changes with StatReloader
+2024-10-17 09:36:21,027:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\views.py changed, reloading.
+2024-10-17 09:36:21,861:INFO:Watching for file changes with StatReloader
+2024-10-17 09:36:23,477:ERROR:Internal Server Error: /clean_data
+Traceback (most recent call last):
+  File "C:\Users\Aarón\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Aarón\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\views.py", line 72, in CleanData
+    result = cleaner.clean_and_validate_data()
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\services\diagnostic_data_cleaner.py", line 60, in clean_and_validate_data
+    df_cleaned = self.clean_data()
+                 ^^^^^^^^^^^^^^^^^
+  File "C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\services\diagnostic_data_cleaner.py", line 51, in clean_data
+    mahalanobis_distances = self.calculate_mahalanobis(df_cleaned)
+                            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\services\diagnostic_data_cleaner.py", line 16, in calculate_mahalanobis
+    inv_cov_matrix = np.linalg.inv(cov_matrix)
+                     ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Aarón\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\numpy\linalg\linalg.py", line 555, in inv
+    _assert_stacked_2d(a)
+  File "C:\Users\Aarón\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\numpy\linalg\linalg.py", line 206, in _assert_stacked_2d
+    raise LinAlgError('%d-dimensional array given. Array must be '
+numpy.linalg.LinAlgError: 0-dimensional array given. Array must be at least two-dimensional
+2024-10-17 09:36:28,626:ERROR:Internal Server Error: /clean_data
+Traceback (most recent call last):
+  File "C:\Users\Aarón\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Aarón\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\views.py", line 72, in CleanData
+    result = cleaner.clean_and_validate_data()
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\services\diagnostic_data_cleaner.py", line 60, in clean_and_validate_data
+    df_cleaned = self.clean_data()
+                 ^^^^^^^^^^^^^^^^^
+  File "C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\services\diagnostic_data_cleaner.py", line 51, in clean_data
+    mahalanobis_distances = self.calculate_mahalanobis(df_cleaned)
+                            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\services\diagnostic_data_cleaner.py", line 16, in calculate_mahalanobis
+    inv_cov_matrix = np.linalg.inv(cov_matrix)
+                     ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Aarón\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\numpy\linalg\linalg.py", line 555, in inv
+    _assert_stacked_2d(a)
+  File "C:\Users\Aarón\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\numpy\linalg\linalg.py", line 206, in _assert_stacked_2d
+    raise LinAlgError('%d-dimensional array given. Array must be '
+numpy.linalg.LinAlgError: 0-dimensional array given. Array must be at least two-dimensional
+2024-10-17 09:37:15,249:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\models.py changed, reloading.
+2024-10-17 09:37:20,945:INFO:Watching for file changes with StatReloader
+2024-10-17 09:37:26,011:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\models.py changed, reloading.
+2024-10-17 09:37:26,867:INFO:Watching for file changes with StatReloader
+2024-10-17 09:37:28,833:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\models.py changed, reloading.
+2024-10-17 09:37:29,779:INFO:Watching for file changes with StatReloader
+2024-10-17 09:37:54,734:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\models.py changed, reloading.
+2024-10-17 09:37:55,622:INFO:Watching for file changes with StatReloader
+2024-10-17 09:38:00,648:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\models.py changed, reloading.
+2024-10-17 09:38:01,638:INFO:Watching for file changes with StatReloader
+2024-10-17 09:38:10,078:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\models.py changed, reloading.
+2024-10-17 09:38:11,324:INFO:Watching for file changes with StatReloader
+2024-10-17 09:38:18,278:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\views.py changed, reloading.
+2024-10-17 09:38:19,471:INFO:Watching for file changes with StatReloader
+2024-10-17 09:38:22,271:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\views.py changed, reloading.
+2024-10-17 09:38:23,459:INFO:Watching for file changes with StatReloader
+2024-10-17 09:38:29,391:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\views.py changed, reloading.
+2024-10-17 09:38:30,594:INFO:Watching for file changes with StatReloader
+2024-10-17 09:38:34,344:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\views.py changed, reloading.
+2024-10-17 09:38:35,536:INFO:Watching for file changes with StatReloader
+2024-10-17 09:38:39,581:ERROR:Internal Server Error: /clean_data
+Traceback (most recent call last):
+  File "C:\Users\Aarón\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Aarón\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\views.py", line 64, in CleanData
+    result = cleaner.clean_and_validate_data()
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\services\diagnostic_data_cleaner.py", line 60, in clean_and_validate_data
+    df_cleaned = self.clean_data()
+                 ^^^^^^^^^^^^^^^^^
+  File "C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\services\diagnostic_data_cleaner.py", line 44, in clean_data
+    df_cleaned = self.df.drop_duplicates()
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Aarón\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\pandas\core\frame.py", line 6818, in drop_duplicates
+    result = self[-self.duplicated(subset, keep=keep)]
+                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Aarón\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\pandas\core\frame.py", line 6958, in duplicated
+    labels, shape = map(list, zip(*map(f, vals)))
+                              ^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Aarón\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\pandas\core\frame.py", line 6926, in f
+    labels, shape = algorithms.factorize(vals, size_hint=len(self))
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Aarón\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\pandas\core\algorithms.py", line 795, in factorize
+    codes, uniques = factorize_array(
+                     ^^^^^^^^^^^^^^^^
+  File "C:\Users\Aarón\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\pandas\core\algorithms.py", line 595, in factorize_array
+    uniques, codes = table.factorize(
+                     ^^^^^^^^^^^^^^^^
+  File "pandas\\_libs\\hashtable_class_helper.pxi", line 7281, in pandas._libs.hashtable.PyObjectHashTable.factorize
+  File "pandas\\_libs\\hashtable_class_helper.pxi", line 7195, in pandas._libs.hashtable.PyObjectHashTable._unique
+TypeError: unhashable type: 'dict'
+2024-10-17 09:40:35,750:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\services\diagnostic_data_cleaner.py changed, reloading.
+2024-10-17 09:40:36,948:INFO:Watching for file changes with StatReloader
+2024-10-17 09:40:40,518:ERROR:Internal Server Error: /clean_data
+Traceback (most recent call last):
+  File "C:\Users\Aarón\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Aarón\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\views.py", line 64, in CleanData
+    result = cleaner.clean_and_validate_data()
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\services\diagnostic_data_cleaner.py", line 60, in clean_and_validate_data
+    df_cleaned = self.clean_data()
+                 ^^^^^^^^^^^^^^^^^
+  File "C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\services\diagnostic_data_cleaner.py", line 44, in clean_data
+    df_cleaned = self.df.drop_duplicates()
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Aarón\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\pandas\core\frame.py", line 6818, in drop_duplicates
+    result = self[-self.duplicated(subset, keep=keep)]
+                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Aarón\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\pandas\core\frame.py", line 6958, in duplicated
+    labels, shape = map(list, zip(*map(f, vals)))
+                              ^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Aarón\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\pandas\core\frame.py", line 6926, in f
+    labels, shape = algorithms.factorize(vals, size_hint=len(self))
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Aarón\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\pandas\core\algorithms.py", line 795, in factorize
+    codes, uniques = factorize_array(
+                     ^^^^^^^^^^^^^^^^
+  File "C:\Users\Aarón\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\pandas\core\algorithms.py", line 595, in factorize_array
+    uniques, codes = table.factorize(
+                     ^^^^^^^^^^^^^^^^
+  File "pandas\\_libs\\hashtable_class_helper.pxi", line 7281, in pandas._libs.hashtable.PyObjectHashTable.factorize
+  File "pandas\\_libs\\hashtable_class_helper.pxi", line 7195, in pandas._libs.hashtable.PyObjectHashTable._unique
+TypeError: unhashable type: 'dict'
+2024-10-17 09:41:06,015:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\services\diagnostic_data_cleaner.py changed, reloading.
+2024-10-17 09:41:07,177:INFO:Watching for file changes with StatReloader
+2024-10-17 09:41:08,857:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\services\diagnostic_data_cleaner.py changed, reloading.
+2024-10-17 09:41:10,021:INFO:Watching for file changes with StatReloader
+2024-10-17 09:41:12,871:ERROR:Internal Server Error: /clean_data
+Traceback (most recent call last):
+  File "C:\Users\Aarón\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Aarón\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\views.py", line 64, in CleanData
+    result = cleaner.clean_and_validate_data()
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\services\diagnostic_data_cleaner.py", line 60, in clean_and_validate_data
+    df_cleaned = self.clean_data()
+                 ^^^^^^^^^^^^^^^^^
+  File "C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\services\diagnostic_data_cleaner.py", line 44, in clean_data
+    df_cleaned = self.df.drop_duplicates()
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Aarón\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\pandas\core\frame.py", line 6818, in drop_duplicates
+    result = self[-self.duplicated(subset, keep=keep)]
+                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Aarón\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\pandas\core\frame.py", line 6958, in duplicated
+    labels, shape = map(list, zip(*map(f, vals)))
+                              ^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Aarón\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\pandas\core\frame.py", line 6926, in f
+    labels, shape = algorithms.factorize(vals, size_hint=len(self))
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Aarón\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\pandas\core\algorithms.py", line 795, in factorize
+    codes, uniques = factorize_array(
+                     ^^^^^^^^^^^^^^^^
+  File "C:\Users\Aarón\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\pandas\core\algorithms.py", line 595, in factorize_array
+    uniques, codes = table.factorize(
+                     ^^^^^^^^^^^^^^^^
+  File "pandas\\_libs\\hashtable_class_helper.pxi", line 7281, in pandas._libs.hashtable.PyObjectHashTable.factorize
+  File "pandas\\_libs\\hashtable_class_helper.pxi", line 7195, in pandas._libs.hashtable.PyObjectHashTable._unique
+TypeError: unhashable type: 'dict'
+2024-10-17 09:41:23,821:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\services\diagnostic_data_cleaner.py changed, reloading.
+2024-10-17 09:41:25,000:INFO:Watching for file changes with StatReloader
+2024-10-17 09:41:26,660:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\services\diagnostic_data_cleaner.py changed, reloading.
+2024-10-17 09:41:27,817:INFO:Watching for file changes with StatReloader
+2024-10-17 09:41:30,514:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\services\diagnostic_data_cleaner.py changed, reloading.
+2024-10-17 09:41:31,666:INFO:Watching for file changes with StatReloader
+2024-10-17 09:41:33,387:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\services\diagnostic_data_cleaner.py changed, reloading.
+2024-10-17 09:41:34,522:INFO:Watching for file changes with StatReloader
+2024-10-17 09:41:43,598:ERROR:Internal Server Error: /clean_data
+Traceback (most recent call last):
+  File "C:\Users\Aarón\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Aarón\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\views.py", line 64, in CleanData
+    result = cleaner.clean_and_validate_data()
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\services\diagnostic_data_cleaner.py", line 60, in clean_and_validate_data
+    df_cleaned = self.clean_data()
+                 ^^^^^^^^^^^^^^^^^
+  File "C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\services\diagnostic_data_cleaner.py", line 44, in clean_data
+    df_cleaned = self.df.drop_duplicates()
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Aarón\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\pandas\core\frame.py", line 6818, in drop_duplicates
+    result = self[-self.duplicated(subset, keep=keep)]
+                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Aarón\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\pandas\core\frame.py", line 6958, in duplicated
+    labels, shape = map(list, zip(*map(f, vals)))
+                              ^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Aarón\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\pandas\core\frame.py", line 6926, in f
+    labels, shape = algorithms.factorize(vals, size_hint=len(self))
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Aarón\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\pandas\core\algorithms.py", line 795, in factorize
+    codes, uniques = factorize_array(
+                     ^^^^^^^^^^^^^^^^
+  File "C:\Users\Aarón\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\pandas\core\algorithms.py", line 595, in factorize_array
+    uniques, codes = table.factorize(
+                     ^^^^^^^^^^^^^^^^
+  File "pandas\\_libs\\hashtable_class_helper.pxi", line 7281, in pandas._libs.hashtable.PyObjectHashTable.factorize
+  File "pandas\\_libs\\hashtable_class_helper.pxi", line 7195, in pandas._libs.hashtable.PyObjectHashTable._unique
+TypeError: unhashable type: 'dict'
+2024-10-17 09:42:31,103:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\services\diagnostic_data_cleaner.py changed, reloading.
+2024-10-17 09:42:32,298:INFO:Watching for file changes with StatReloader
+2024-10-17 09:42:33,991:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\services\diagnostic_data_cleaner.py changed, reloading.
+2024-10-17 09:42:35,147:INFO:Watching for file changes with StatReloader
+2024-10-17 09:42:36,445:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\services\diagnostic_data_cleaner.py changed, reloading.
+2024-10-17 09:42:37,548:INFO:Watching for file changes with StatReloader
+2024-10-17 09:42:41,336:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\services\diagnostic_data_cleaner.py changed, reloading.
+2024-10-17 09:42:42,662:INFO:Watching for file changes with StatReloader
+2024-10-17 09:42:44,433:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\services\diagnostic_data_cleaner.py changed, reloading.
+2024-10-17 09:42:45,601:INFO:Watching for file changes with StatReloader
+2024-10-17 09:42:46,905:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\services\diagnostic_data_cleaner.py changed, reloading.
+2024-10-17 09:42:48,075:INFO:Watching for file changes with StatReloader
+2024-10-17 09:42:59,825:INFO:Watching for file changes with StatReloader
+2024-10-17 09:43:03,381:ERROR:Internal Server Error: /clean_data
+Traceback (most recent call last):
+  File "C:\Users\Aarón\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Aarón\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\views.py", line 64, in CleanData
+    result = cleaner.clean_and_validate_data()
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\services\diagnostic_data_cleaner.py", line 62, in clean_and_validate_data
+    df_cleaned = self.clean_data()
+                 ^^^^^^^^^^^^^^^^^
+  File "C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\services\diagnostic_data_cleaner.py", line 44, in clean_data
+    df_cleaned = self.df.drop_duplicates()
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Aarón\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\pandas\core\frame.py", line 6818, in drop_duplicates
+    result = self[-self.duplicated(subset, keep=keep)]
+                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Aarón\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\pandas\core\frame.py", line 6958, in duplicated
+    labels, shape = map(list, zip(*map(f, vals)))
+                              ^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Aarón\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\pandas\core\frame.py", line 6926, in f
+    labels, shape = algorithms.factorize(vals, size_hint=len(self))
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Aarón\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\pandas\core\algorithms.py", line 795, in factorize
+    codes, uniques = factorize_array(
+                     ^^^^^^^^^^^^^^^^
+  File "C:\Users\Aarón\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\pandas\core\algorithms.py", line 595, in factorize_array
+    uniques, codes = table.factorize(
+                     ^^^^^^^^^^^^^^^^
+  File "pandas\\_libs\\hashtable_class_helper.pxi", line 7281, in pandas._libs.hashtable.PyObjectHashTable.factorize
+  File "pandas\\_libs\\hashtable_class_helper.pxi", line 7195, in pandas._libs.hashtable.PyObjectHashTable._unique
+TypeError: unhashable type: 'dict'
+2024-10-17 09:43:31,054:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\services\diagnostic_data_cleaner.py changed, reloading.
+2024-10-17 09:43:32,191:INFO:Watching for file changes with StatReloader
+2024-10-17 09:43:33,475:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\services\diagnostic_data_cleaner.py changed, reloading.
+2024-10-17 09:43:34,663:INFO:Watching for file changes with StatReloader
+2024-10-17 09:43:42,604:ERROR:Internal Server Error: /clean_data
+Traceback (most recent call last):
+  File "C:\Users\Aarón\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Aarón\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\views.py", line 64, in CleanData
+    result = cleaner.clean_and_validate_data()
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\services\diagnostic_data_cleaner.py", line 62, in clean_and_validate_data
+    df_cleaned = self.clean_data()
+                 ^^^^^^^^^^^^^^^^^
+  File "C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\services\diagnostic_data_cleaner.py", line 44, in clean_data
+    df_cleaned = self.df.drop_duplicates()
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Aarón\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\pandas\core\frame.py", line 6818, in drop_duplicates
+    result = self[-self.duplicated(subset, keep=keep)]
+                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Aarón\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\pandas\core\frame.py", line 6958, in duplicated
+    labels, shape = map(list, zip(*map(f, vals)))
+                              ^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Aarón\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\pandas\core\frame.py", line 6926, in f
+    labels, shape = algorithms.factorize(vals, size_hint=len(self))
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Aarón\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\pandas\core\algorithms.py", line 795, in factorize
+    codes, uniques = factorize_array(
+                     ^^^^^^^^^^^^^^^^
+  File "C:\Users\Aarón\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\pandas\core\algorithms.py", line 595, in factorize_array
+    uniques, codes = table.factorize(
+                     ^^^^^^^^^^^^^^^^
+  File "pandas\\_libs\\hashtable_class_helper.pxi", line 7281, in pandas._libs.hashtable.PyObjectHashTable.factorize
+  File "pandas\\_libs\\hashtable_class_helper.pxi", line 7195, in pandas._libs.hashtable.PyObjectHashTable._unique
+TypeError: unhashable type: 'dict'
+2024-10-17 09:44:58,260:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\models.py changed, reloading.
+2024-10-17 09:44:59,508:INFO:Watching for file changes with StatReloader
+2024-10-17 09:45:01,223:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\models.py changed, reloading.
+2024-10-17 09:45:02,441:INFO:Watching for file changes with StatReloader
+2024-10-17 09:45:04,152:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\models.py changed, reloading.
+2024-10-17 09:45:06,931:INFO:Watching for file changes with StatReloader
+2024-10-17 09:45:08,632:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\models.py changed, reloading.
+2024-10-17 09:45:09,877:INFO:Watching for file changes with StatReloader
+2024-10-17 09:45:11,652:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\views.py changed, reloading.
+2024-10-17 09:45:12,913:INFO:Watching for file changes with StatReloader
+2024-10-17 09:45:13,493:ERROR:Internal Server Error: /clean_data
+Traceback (most recent call last):
+  File "C:\Users\Aarón\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Aarón\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\views.py", line 64, in CleanData
+    result = cleaner.clean_and_validate_data()
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\services\diagnostic_data_cleaner.py", line 62, in clean_and_validate_data
+    df_cleaned = self.clean_data()
+                 ^^^^^^^^^^^^^^^^^
+  File "C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\services\diagnostic_data_cleaner.py", line 51, in clean_data
+    mahalanobis_distances = self.calculate_mahalanobis(df_cleaned)
+                            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\services\diagnostic_data_cleaner.py", line 16, in calculate_mahalanobis
+    inv_cov_matrix = np.linalg.inv(cov_matrix)
+                     ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Aarón\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\numpy\linalg\linalg.py", line 555, in inv
+    _assert_stacked_2d(a)
+  File "C:\Users\Aarón\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\numpy\linalg\linalg.py", line 206, in _assert_stacked_2d
+    raise LinAlgError('%d-dimensional array given. Array must be '
+numpy.linalg.LinAlgError: 0-dimensional array given. Array must be at least two-dimensional
+2024-10-17 09:46:30,822:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\models.py changed, reloading.
+2024-10-17 09:46:31,969:INFO:Watching for file changes with StatReloader
+2024-10-17 09:46:33,656:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\models.py changed, reloading.
+2024-10-17 09:46:34,794:INFO:Watching for file changes with StatReloader
+2024-10-17 09:46:46,874:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\models.py changed, reloading.
+2024-10-17 09:46:48,015:INFO:Watching for file changes with StatReloader
+2024-10-17 09:46:54,133:ERROR:Internal Server Error: /clean_data
+Traceback (most recent call last):
+  File "C:\Users\Aarón\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Aarón\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\views.py", line 64, in CleanData
+    result = cleaner.clean_and_validate_data()
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\services\diagnostic_data_cleaner.py", line 62, in clean_and_validate_data
+    df_cleaned = self.clean_data()
+                 ^^^^^^^^^^^^^^^^^
+  File "C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\services\diagnostic_data_cleaner.py", line 51, in clean_data
+    mahalanobis_distances = self.calculate_mahalanobis(df_cleaned)
+                            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\services\diagnostic_data_cleaner.py", line 16, in calculate_mahalanobis
+    inv_cov_matrix = np.linalg.inv(cov_matrix)
+                     ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Aarón\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\numpy\linalg\linalg.py", line 555, in inv
+    _assert_stacked_2d(a)
+  File "C:\Users\Aarón\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\numpy\linalg\linalg.py", line 206, in _assert_stacked_2d
+    raise LinAlgError('%d-dimensional array given. Array must be '
+numpy.linalg.LinAlgError: 0-dimensional array given. Array must be at least two-dimensional
+2024-10-17 09:47:14,043:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\models.py changed, reloading.
+2024-10-17 09:47:15,286:INFO:Watching for file changes with StatReloader
+2024-10-17 09:47:22,167:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\models.py changed, reloading.
+2024-10-17 09:47:23,389:INFO:Watching for file changes with StatReloader
+2024-10-17 09:47:25,075:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\models.py changed, reloading.
+2024-10-17 09:47:26,254:INFO:Watching for file changes with StatReloader
+2024-10-17 09:47:46,693:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\models.py changed, reloading.
+2024-10-17 09:47:47,845:INFO:Watching for file changes with StatReloader
+2024-10-17 09:47:56,852:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\models.py changed, reloading.
+2024-10-17 09:50:49,684:INFO:Watching for file changes with StatReloader
+2024-10-17 09:50:52,180:ERROR:Internal Server Error: /clean_data
+Traceback (most recent call last):
+  File "C:\Users\Aarón\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Aarón\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\views.py", line 64, in CleanData
+    result = cleaner.clean_and_validate_data()
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\services\diagnostic_data_cleaner.py", line 62, in clean_and_validate_data
+    df_cleaned = self.clean_data()
+                 ^^^^^^^^^^^^^^^^^
+  File "C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\services\diagnostic_data_cleaner.py", line 51, in clean_data
+    mahalanobis_distances = self.calculate_mahalanobis(df_cleaned)
+                            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\services\diagnostic_data_cleaner.py", line 16, in calculate_mahalanobis
+    inv_cov_matrix = np.linalg.inv(cov_matrix)
+                     ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Aarón\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\numpy\linalg\linalg.py", line 555, in inv
+    _assert_stacked_2d(a)
+  File "C:\Users\Aarón\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\numpy\linalg\linalg.py", line 206, in _assert_stacked_2d
+    raise LinAlgError('%d-dimensional array given. Array must be '
+numpy.linalg.LinAlgError: 0-dimensional array given. Array must be at least two-dimensional
+2024-10-17 09:54:33,260:INFO:Watching for file changes with StatReloader
+2024-10-17 09:54:35,640:ERROR:Internal Server Error: /clean_data
+Traceback (most recent call last):
+  File "C:\Users\Aarón\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Aarón\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\views.py", line 64, in CleanData
+    result = cleaner.clean_and_validate_data()
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\services\diagnostic_data_cleaner.py", line 71, in clean_and_validate_data
+    df_cleaned = self.clean_data()
+                 ^^^^^^^^^^^^^^^^^
+  File "C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\services\diagnostic_data_cleaner.py", line 58, in clean_data
+    raise ValueError("Se requieren al menos dos filas en el DataFrame para calcular la distancia de Mahalanobis.")
+ValueError: Se requieren al menos dos filas en el DataFrame para calcular la distancia de Mahalanobis.
+2024-10-17 09:58:01,585:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\views.py changed, reloading.
+2024-10-17 09:58:02,819:INFO:Watching for file changes with StatReloader
+2024-10-17 09:58:13,932:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\services\diagnostic_data_cleaner.py changed, reloading.
+2024-10-17 09:58:15,147:INFO:Watching for file changes with StatReloader
+2024-10-17 09:58:22,666:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\services\diagnostic_data_cleaner.py changed, reloading.
+2024-10-17 09:58:23,813:INFO:Watching for file changes with StatReloader
+2024-10-17 09:58:25,473:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\services\diagnostic_data_cleaner.py changed, reloading.
+2024-10-17 09:58:26,602:INFO:Watching for file changes with StatReloader
+2024-10-17 09:58:29,361:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\services\diagnostic_data_cleaner.py changed, reloading.
+2024-10-17 09:58:30,551:INFO:Watching for file changes with StatReloader
+2024-10-17 09:58:32,216:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\services\diagnostic_data_cleaner.py changed, reloading.
+2024-10-17 09:58:33,517:INFO:Watching for file changes with StatReloader
+2024-10-17 09:58:33,983:ERROR:Internal Server Error: /clean_data
+Traceback (most recent call last):
+  File "C:\Users\Aarón\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Aarón\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\views.py", line 64, in CleanData
+    result = cleaner.clean_and_validate_data()
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\services\diagnostic_data_cleaner.py", line 72, in clean_and_validate_data
+    df_cleaned = self.clean_data()
+                 ^^^^^^^^^^^^^^^^^
+  File "C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\services\diagnostic_data_cleaner.py", line 58, in clean_data
+    raise ValueError("Se requieren al menos dos filas en el DataFrame para calcular la distancia de Mahalanobis.")
+ValueError: Se requieren al menos dos filas en el DataFrame para calcular la distancia de Mahalanobis.
+2024-10-17 09:59:43,524:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\models.py changed, reloading.
+2024-10-17 09:59:44,704:INFO:Watching for file changes with StatReloader
+2024-10-17 10:00:53,571:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\views.py changed, reloading.
+2024-10-17 10:00:54,745:INFO:Watching for file changes with StatReloader
+2024-10-17 10:00:56,488:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\views.py changed, reloading.
+2024-10-17 10:00:57,711:INFO:Watching for file changes with StatReloader
+2024-10-17 10:01:39,047:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\models.py changed, reloading.
+2024-10-17 10:01:40,264:INFO:Watching for file changes with StatReloader
+2024-10-17 10:01:43,014:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\models.py changed, reloading.
+2024-10-17 10:01:44,166:INFO:Watching for file changes with StatReloader
+2024-10-17 10:01:45,810:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\models.py changed, reloading.
+2024-10-17 10:01:46,953:INFO:Watching for file changes with StatReloader
+2024-10-17 10:02:01,114:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\models.py changed, reloading.
+2024-10-17 10:02:02,333:INFO:Watching for file changes with StatReloader
+2024-10-17 10:02:03,982:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\models.py changed, reloading.
+2024-10-17 10:02:05,194:INFO:Watching for file changes with StatReloader
+2024-10-17 10:02:08,970:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\models.py changed, reloading.
+2024-10-17 10:02:10,140:INFO:Watching for file changes with StatReloader
+2024-10-17 10:02:58,783:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\views.py changed, reloading.
+2024-10-17 10:02:59,994:INFO:Watching for file changes with StatReloader
+2024-10-17 10:03:34,040:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\views.py changed, reloading.
+2024-10-17 10:03:35,190:INFO:Watching for file changes with StatReloader
+2024-10-17 10:03:44,226:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\views.py changed, reloading.
+2024-10-17 10:03:45,407:INFO:Watching for file changes with StatReloader
+2024-10-17 10:03:47,068:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\views.py changed, reloading.
+2024-10-17 10:03:48,280:INFO:Watching for file changes with StatReloader
+2024-10-17 10:03:49,950:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\views.py changed, reloading.
+2024-10-17 10:03:51,204:INFO:Watching for file changes with StatReloader
+2024-10-17 10:03:56,023:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\views.py changed, reloading.
+2024-10-17 10:03:57,220:INFO:Watching for file changes with StatReloader
+2024-10-17 10:03:58,886:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\views.py changed, reloading.
+2024-10-17 10:04:00,015:INFO:Watching for file changes with StatReloader
+2024-10-17 10:04:01,687:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\views.py changed, reloading.
+2024-10-17 10:04:02,945:INFO:Watching for file changes with StatReloader
+2024-10-17 10:04:05,649:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\views.py changed, reloading.
+2024-10-17 10:04:06,852:INFO:Watching for file changes with StatReloader
+2024-10-17 10:04:09,520:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\views.py changed, reloading.
+2024-10-17 10:04:10,725:INFO:Watching for file changes with StatReloader
+2024-10-17 10:04:17,619:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\views.py changed, reloading.
+2024-10-17 10:04:18,769:INFO:Watching for file changes with StatReloader
+2024-10-17 10:04:24,570:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\views.py changed, reloading.
+2024-10-17 10:04:25,736:INFO:Watching for file changes with StatReloader
+2024-10-17 10:04:29,116:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\views.py changed, reloading.
+2024-10-17 10:04:30,231:INFO:Watching for file changes with StatReloader
+2024-10-17 10:04:38,167:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\views.py changed, reloading.
+2024-10-17 10:04:39,391:INFO:Watching for file changes with StatReloader
+2024-10-17 10:04:42,099:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\views.py changed, reloading.
+2024-10-17 10:04:43,251:INFO:Watching for file changes with StatReloader
+2024-10-17 10:04:44,554:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\views.py changed, reloading.
+2024-10-17 10:04:45,721:INFO:Watching for file changes with StatReloader
+2024-10-17 10:04:49,064:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\views.py changed, reloading.
+2024-10-17 10:04:50,216:INFO:Watching for file changes with StatReloader
+2024-10-17 10:04:52,939:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\views.py changed, reloading.
+2024-10-17 10:04:54,141:INFO:Watching for file changes with StatReloader
+2024-10-17 10:05:02,155:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\views.py changed, reloading.
+2024-10-17 10:05:03,387:INFO:Watching for file changes with StatReloader
+2024-10-17 10:05:05,779:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\views.py changed, reloading.
+2024-10-17 10:05:06,951:INFO:Watching for file changes with StatReloader
+2024-10-17 10:05:11,337:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\views.py changed, reloading.
+2024-10-17 10:05:12,445:INFO:Watching for file changes with StatReloader
+2024-10-17 10:05:16,217:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\views.py changed, reloading.
+2024-10-17 10:05:17,387:INFO:Watching for file changes with StatReloader
+2024-10-17 10:05:21,221:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\views.py changed, reloading.
+2024-10-17 10:05:22,380:INFO:Watching for file changes with StatReloader
+2024-10-17 10:05:28,250:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\views.py changed, reloading.
+2024-10-17 10:05:29,457:INFO:Watching for file changes with StatReloader
+2024-10-17 10:05:31,201:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\views.py changed, reloading.
+2024-10-17 10:05:32,427:INFO:Watching for file changes with StatReloader
+2024-10-17 10:05:34,178:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\views.py changed, reloading.
+2024-10-17 10:05:35,356:INFO:Watching for file changes with StatReloader
+2024-10-17 10:05:45,378:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\services\diagnostic_data_cleaner.py changed, reloading.
+2024-10-17 10:05:46,578:INFO:Watching for file changes with StatReloader
+2024-10-17 10:05:48,248:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\services\diagnostic_data_cleaner.py changed, reloading.
+2024-10-17 10:05:49,420:INFO:Watching for file changes with StatReloader
+2024-10-17 10:05:51,147:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\services\diagnostic_data_cleaner.py changed, reloading.
+2024-10-17 10:05:52,416:INFO:Watching for file changes with StatReloader
+2024-10-17 10:06:00,364:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\models.py changed, reloading.
+2024-10-17 10:06:01,617:INFO:Watching for file changes with StatReloader
+2024-10-17 10:06:09,659:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\views.py changed, reloading.
+2024-10-17 10:06:10,819:INFO:Watching for file changes with StatReloader
+2024-10-17 10:06:13,275:ERROR:Internal Server Error: /clean_data
+Traceback (most recent call last):
+  File "C:\Users\Aarón\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Aarón\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\views.py", line 71, in CleanData
+    result['mag_x'],
+    ~~~~~~^^^^^^^^^
+TypeError: 'Result' object is not subscriptable
+2024-10-17 10:07:18,499:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\views.py changed, reloading.
+2024-10-17 10:07:19,695:INFO:Watching for file changes with StatReloader
+2024-10-17 10:07:21,441:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\views.py changed, reloading.
+2024-10-17 10:07:22,644:INFO:Watching for file changes with StatReloader
+2024-10-17 10:07:24,398:ERROR:Internal Server Error: /clean_data
+Traceback (most recent call last):
+  File "C:\Users\Aarón\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Aarón\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\views.py", line 71, in CleanData
+    result.value['mag_x'],
+    ~~~~~~~~~~~~^^^^^^^^^
+TypeError: list indices must be integers or slices, not str
+2024-10-17 10:07:46,597:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\views.py changed, reloading.
+2024-10-17 10:07:47,835:INFO:Watching for file changes with StatReloader
+2024-10-17 10:07:51,580:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\views.py changed, reloading.
+2024-10-17 10:07:52,747:INFO:Watching for file changes with StatReloader
+2024-10-17 10:07:54,470:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\views.py changed, reloading.
+2024-10-17 10:07:55,702:INFO:Watching for file changes with StatReloader
+2024-10-17 10:07:57,359:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\views.py changed, reloading.
+2024-10-17 10:07:58,563:INFO:Watching for file changes with StatReloader
+2024-10-17 10:08:54,854:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\views.py changed, reloading.
+2024-10-17 10:08:56,083:INFO:Watching for file changes with StatReloader
+2024-10-17 10:09:05,095:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\views.py changed, reloading.
+2024-10-17 10:09:06,239:INFO:Watching for file changes with StatReloader
+2024-10-17 10:09:11,057:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\views.py changed, reloading.
+2024-10-17 10:09:12,182:INFO:Watching for file changes with StatReloader
+2024-10-17 10:09:15,548:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\views.py changed, reloading.
+2024-10-17 10:09:16,685:INFO:Watching for file changes with StatReloader
+2024-10-17 10:09:18,039:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\views.py changed, reloading.
+2024-10-17 10:09:19,304:INFO:Watching for file changes with StatReloader
+2024-10-17 10:09:24,711:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\views.py changed, reloading.
+2024-10-17 10:09:25,813:INFO:Watching for file changes with StatReloader
+2024-10-17 10:11:02,455:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\views.py changed, reloading.
+2024-10-17 10:11:03,666:INFO:Watching for file changes with StatReloader
+2024-10-17 10:11:05,345:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\views.py changed, reloading.
+2024-10-17 10:11:06,563:INFO:Watching for file changes with StatReloader
+2024-10-17 10:11:07,137:ERROR:Internal Server Error: /clean_data
+Traceback (most recent call last):
+  File "C:\Users\Aarón\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Aarón\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\views.py", line 72, in CleanData
+    result.value['mag_x'],
+    ~~~~~~~~~~~~^^^^^^^^^
+TypeError: list indices must be integers or slices, not str
+2024-10-17 10:11:23,114:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\views.py changed, reloading.
+2024-10-17 10:11:24,340:INFO:Watching for file changes with StatReloader
+2024-10-17 10:11:24,825:ERROR:Internal Server Error: /clean_data
+Traceback (most recent call last):
+  File "C:\Users\Aarón\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Aarón\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\views.py", line 70, in CleanData
+    result.value['mag_x'],
+    ~~~~~~~~~~~~^^^^^^^^^
+TypeError: list indices must be integers or slices, not str
+2024-10-17 10:11:25,605:ERROR:Internal Server Error: /clean_data
+Traceback (most recent call last):
+  File "C:\Users\Aarón\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Aarón\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\views.py", line 70, in CleanData
+    result.value['mag_x'],
+    ~~~~~~~~~~~~^^^^^^^^^
+TypeError: list indices must be integers or slices, not str
+2024-10-17 10:11:38,581:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\views.py changed, reloading.
+2024-10-17 10:11:39,845:INFO:Watching for file changes with StatReloader
+2024-10-17 10:11:41,528:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\views.py changed, reloading.
+2024-10-17 10:11:42,655:INFO:Watching for file changes with StatReloader
+2024-10-17 10:11:47,471:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\views.py changed, reloading.
+2024-10-17 10:11:48,612:INFO:Watching for file changes with StatReloader
+2024-10-17 10:11:52,434:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\views.py changed, reloading.
+2024-10-17 10:11:53,666:INFO:Watching for file changes with StatReloader
+2024-10-17 10:11:54,273:ERROR:Internal Server Error: /clean_data
+Traceback (most recent call last):
+  File "C:\Users\Aarón\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Aarón\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\views.py", line 72, in CleanData
+    result.value['mag_x'],
+    ~~~~~~~~~~~~^^^^^^^^^
+TypeError: list indices must be integers or slices, not str
+2024-10-17 10:12:00,560:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\views.py changed, reloading.
+2024-10-17 10:12:01,751:INFO:Watching for file changes with StatReloader
+2024-10-17 10:12:03,433:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\views.py changed, reloading.
+2024-10-17 10:12:04,679:INFO:Watching for file changes with StatReloader
+2024-10-17 10:12:05,605:ERROR:Internal Server Error: /clean_data
+Traceback (most recent call last):
+  File "C:\Users\Aarón\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Aarón\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\views.py", line 72, in CleanData
+    result.value['mag_x'],
+    ~~~~~~~~~~~~^^^^^^^^^
+TypeError: list indices must be integers or slices, not str
+2024-10-17 12:57:02,167:INFO:Watching for file changes with StatReloader
+2024-10-17 12:57:18,020:WARNING:Not Found: /I
+2024-10-17 12:57:18,087:WARNING:Not Found: /favicon.ico
+2024-10-17 12:57:29,171:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\views.py changed, reloading.
+2024-10-17 12:57:32,500:INFO:Watching for file changes with StatReloader
+2024-10-17 12:57:37,519:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\views.py changed, reloading.
+2024-10-17 12:57:40,480:INFO:Watching for file changes with StatReloader
+2024-10-17 12:57:43,219:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\views.py changed, reloading.
+2024-10-17 12:57:46,315:INFO:Watching for file changes with StatReloader
+2024-10-17 12:58:22,661:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\views.py changed, reloading.
+2024-10-17 12:58:24,944:INFO:Watching for file changes with StatReloader
+2024-10-17 12:58:28,232:ERROR:Internal Server Error: /clean_data
+Traceback (most recent call last):
+  File "C:\Users\Aarón\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Aarón\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\views.py", line 72, in CleanData
+    result.value['mag_x'],
+    ~~~~~~~~~~~~^^^^^^^^^
+TypeError: list indices must be integers or slices, not str
+2024-10-17 12:58:44,247:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\views.py changed, reloading.
+2024-10-17 12:58:46,456:INFO:Watching for file changes with StatReloader
+2024-10-17 12:58:55,507:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\views.py changed, reloading.
+2024-10-17 12:58:58,307:INFO:Watching for file changes with StatReloader
+2024-10-17 12:59:04,219:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\views.py changed, reloading.
+2024-10-17 12:59:07,327:INFO:Watching for file changes with StatReloader
+2024-10-17 12:59:08,899:ERROR:Internal Server Error: /clean_data
+Traceback (most recent call last):
+  File "C:\Users\Aarón\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Aarón\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\views.py", line 85, in CleanData
+    if newResult is None:
+       ^^^^^^^^^
+NameError: name 'newResult' is not defined
+2024-10-17 12:59:12,327:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\views.py changed, reloading.
+2024-10-17 12:59:15,015:INFO:Watching for file changes with StatReloader
+2024-10-17 12:59:16,562:ERROR:Internal Server Error: /clean_data
+Traceback (most recent call last):
+  File "C:\Users\Aarón\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Aarón\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\views.py", line 72, in CleanData
+    result.value['mag_x'],
+    ~~~~~~~~~~~~^^^^^^^^^
+TypeError: list indices must be integers or slices, not str
+2024-10-17 12:59:34,525:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\views.py changed, reloading.
+2024-10-17 12:59:37,214:INFO:Watching for file changes with StatReloader
+2024-10-17 12:59:39,832:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\views.py changed, reloading.
+2024-10-17 12:59:42,661:INFO:Watching for file changes with StatReloader
+2024-10-17 12:59:45,159:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\views.py changed, reloading.
+2024-10-17 12:59:47,911:INFO:Watching for file changes with StatReloader
+2024-10-17 12:59:52,101:ERROR:Internal Server Error: /clean_data
+Traceback (most recent call last):
+  File "C:\Users\Aarón\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Aarón\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\views.py", line 72, in CleanData
+    result.value['mag_x'],
+    ~~~~~~~~~~~~^^^^^^^^^
+TypeError: list indices must be integers or slices, not str
+2024-10-17 13:00:08,638:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\views.py changed, reloading.
+2024-10-17 13:00:10,832:INFO:Watching for file changes with StatReloader
+2024-10-17 13:00:13,360:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\views.py changed, reloading.
+2024-10-17 13:00:16,029:INFO:Watching for file changes with StatReloader
+2024-10-17 13:00:19,587:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\views.py changed, reloading.
+2024-10-17 13:00:21,887:INFO:Watching for file changes with StatReloader
+2024-10-17 13:00:24,482:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\views.py changed, reloading.
+2024-10-17 13:00:27,303:INFO:Watching for file changes with StatReloader
+2024-10-17 13:00:31,798:ERROR:Internal Server Error: /clean_data
+Traceback (most recent call last):
+  File "C:\Users\Aarón\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Aarón\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\views.py", line 72, in CleanData
+    result.value['mag_x'],
+    ~~~~~~~~~~~~^^^^^^^^^
+TypeError: list indices must be integers or slices, not str
+2024-10-17 13:00:51,353:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\views.py changed, reloading.
+2024-10-17 13:00:53,649:INFO:Watching for file changes with StatReloader
+2024-10-17 13:00:56,173:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\views.py changed, reloading.
+2024-10-17 13:00:58,570:INFO:Watching for file changes with StatReloader
+2024-10-17 13:01:03,281:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\views.py changed, reloading.
+2024-10-17 13:01:05,533:INFO:Watching for file changes with StatReloader
+2024-10-17 13:01:06,410:ERROR:Internal Server Error: /clean_data
+Traceback (most recent call last):
+  File "C:\Users\Aarón\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Aarón\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\views.py", line 70, in CleanData
+    result.value['mag_x'],
+    ~~~~~~~~~~~~^^^^^^^^^
+TypeError: list indices must be integers or slices, not str
+2024-10-17 13:03:06,377:ERROR:Internal Server Error: /clean_data
+Traceback (most recent call last):
+  File "C:\Users\Aarón\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Aarón\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\views.py", line 70, in CleanData
+    result.value['mag_x'],
+    ~~~~~~~~~~~~^^^^^^^^^
+TypeError: list indices must be integers or slices, not str
+2024-10-18 22:17:18,398:INFO:Watching for file changes with StatReloader
+2024-10-18 22:17:34,374:WARNING:Not Found: /favicon.ico
+2024-10-18 22:17:48,852:ERROR:Internal Server Error: /clean_data
+Traceback (most recent call last):
+  File "C:\Users\Aarón\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Aarón\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\views.py", line 73, in CleanData
+    result.value['mag_x'],
+    ~~~~~~~~~~~~^^^^^^^^^
+TypeError: list indices must be integers or slices, not str
+2024-10-18 22:18:26,315:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\views.py changed, reloading.
+2024-10-18 22:18:27,926:INFO:Watching for file changes with StatReloader
+2024-10-18 22:18:31,028:ERROR:Internal Server Error: /clean_data
+Traceback (most recent call last):
+  File "C:\Users\Aarón\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Aarón\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\views.py", line 73, in CleanData
+    result.value['mag_x'],
+    ~~~~~~~~~~~~^^^^^^^^^
+TypeError: list indices must be integers or slices, not str
+2024-10-18 22:19:16,398:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\views.py changed, reloading.
+2024-10-18 22:19:18,030:INFO:Watching for file changes with StatReloader
+2024-10-18 22:19:23,141:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\views.py changed, reloading.
+2024-10-18 22:19:24,727:INFO:Watching for file changes with StatReloader
+2024-10-18 22:19:28,139:ERROR:Internal Server Error: /clean_data
+Traceback (most recent call last):
+  File "C:\Users\Aarón\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Aarón\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\views.py", line 74, in CleanData
+    result.value['mag_x'],
+    ~~~~~~~~~~~~^^^^^^^^^
+TypeError: list indices must be integers or slices, not str
+2024-10-18 22:20:14,839:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\views.py changed, reloading.
+2024-10-18 22:20:16,410:INFO:Watching for file changes with StatReloader
+2024-10-18 22:20:18,337:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\views.py changed, reloading.
+2024-10-18 22:20:19,857:INFO:Watching for file changes with StatReloader
+2024-10-18 22:20:26,902:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\views.py changed, reloading.
+2024-10-18 22:20:28,545:INFO:Watching for file changes with StatReloader
+2024-10-18 22:20:30,480:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\views.py changed, reloading.
+2024-10-18 22:20:32,028:INFO:Watching for file changes with StatReloader
+2024-10-18 22:20:36,005:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\views.py changed, reloading.
+2024-10-18 22:20:37,520:INFO:Watching for file changes with StatReloader
+2024-10-18 22:20:41,532:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\views.py changed, reloading.
+2024-10-18 22:20:43,188:INFO:Watching for file changes with StatReloader
+2024-10-18 22:20:46,100:ERROR:Internal Server Error: /clean_data
+Traceback (most recent call last):
+  File "C:\Users\Aarón\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Aarón\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\views.py", line 74, in CleanData
+    result.value['mag_x'],
+    ~~~~~~~~~~~~^^^^^^^^^
+TypeError: list indices must be integers or slices, not str
+2024-10-18 22:21:21,511:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\views.py changed, reloading.
+2024-10-18 22:21:23,123:INFO:Watching for file changes with StatReloader
+2024-10-18 22:21:51,558:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\views.py changed, reloading.
+2024-10-18 22:21:53,178:INFO:Watching for file changes with StatReloader
+2024-10-18 22:22:05,022:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\views.py changed, reloading.
+2024-10-18 22:22:06,577:INFO:Watching for file changes with StatReloader
+2024-10-18 22:22:18,215:ERROR:Internal Server Error: /clean_data
+Traceback (most recent call last):
+  File "C:\Users\Aarón\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Aarón\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\views.py", line 74, in CleanData
+    result.value['mag_x'],
+    ~~~~~~~~~~~~^^^^^^^^^
+TypeError: list indices must be integers or slices, not str
+2024-10-18 22:22:57,325:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\services\diagnostic_data_cleaner.py changed, reloading.
+2024-10-18 22:22:58,910:INFO:Watching for file changes with StatReloader
+2024-10-18 22:23:15,769:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\services\diagnostic_data_cleaner.py changed, reloading.
+2024-10-18 22:23:17,240:INFO:Watching for file changes with StatReloader
+2024-10-18 22:23:23,436:ERROR:Internal Server Error: /clean_data
+Traceback (most recent call last):
+  File "C:\Users\Aarón\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Aarón\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\views.py", line 66, in CleanData
+    result = cleaner.clean_and_validate_data()
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\services\diagnostic_data_cleaner.py", line 67, in clean_and_validate_data
+    df_cleaned = self.clean_data()
+                 ^^^^^^^^^^^^^^^^^
+  File "C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\services\diagnostic_data_cleaner.py", line 44, in clean_data
+    df_cleaned = df_cleaned.apply(lambda col: pd.to_numeric(col, errors='coerce') if col.dtype in ['object'] else col)
+                 ^^^^^^^^^^
+UnboundLocalError: cannot access local variable 'df_cleaned' where it is not associated with a value
+2024-10-18 22:23:51,475:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\services\diagnostic_data_cleaner.py changed, reloading.
+2024-10-18 22:23:53,058:INFO:Watching for file changes with StatReloader
+2024-10-18 22:24:04,352:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\services\diagnostic_data_cleaner.py changed, reloading.
+2024-10-18 22:24:05,908:INFO:Watching for file changes with StatReloader
+2024-10-18 22:24:07,763:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\services\diagnostic_data_cleaner.py changed, reloading.
+2024-10-18 22:24:09,829:INFO:Watching for file changes with StatReloader
+2024-10-18 22:24:41,745:INFO:Watching for file changes with StatReloader
+2024-10-18 22:24:46,446:ERROR:Internal Server Error: /clean_data
+Traceback (most recent call last):
+  File "C:\Users\Aarón\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Aarón\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\views.py", line 74, in CleanData
+    result.value['mag_x'],
+    ~~~~~~~~~~~~^^^^^^^^^
+TypeError: list indices must be integers or slices, not str
+2024-10-18 22:25:15,512:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\services\diagnostic_data_cleaner.py changed, reloading.
+2024-10-18 22:25:18,004:INFO:Watching for file changes with StatReloader
+2024-10-18 22:25:22,183:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\services\diagnostic_data_cleaner.py changed, reloading.
+2024-10-18 22:25:23,896:INFO:Watching for file changes with StatReloader
+2024-10-18 22:25:28,906:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\services\diagnostic_data_cleaner.py changed, reloading.
+2024-10-18 22:25:30,423:INFO:Watching for file changes with StatReloader
+2024-10-18 22:25:33,385:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\services\diagnostic_data_cleaner.py changed, reloading.
+2024-10-18 22:25:35,293:INFO:Watching for file changes with StatReloader
+2024-10-18 22:25:38,358:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\services\diagnostic_data_cleaner.py changed, reloading.
+2024-10-18 22:25:39,961:INFO:Watching for file changes with StatReloader
+2024-10-18 22:25:43,589:ERROR:Internal Server Error: /clean_data
+Traceback (most recent call last):
+  File "C:\Users\Aarón\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Aarón\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\views.py", line 74, in CleanData
+    result.value['mag_x'],
+    ~~~~~~~~~~~~^^^^^^^^^
+TypeError: list indices must be integers or slices, not str
+2024-10-18 22:26:25,642:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\services\diagnostic_data_cleaner.py changed, reloading.
+2024-10-18 22:26:27,453:INFO:Watching for file changes with StatReloader
+2024-10-18 22:26:34,655:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\services\diagnostic_data_cleaner.py changed, reloading.
+2024-10-18 22:26:36,341:INFO:Watching for file changes with StatReloader
+2024-10-18 22:26:38,328:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\services\diagnostic_data_cleaner.py changed, reloading.
+2024-10-18 22:26:40,012:INFO:Watching for file changes with StatReloader
+2024-10-18 22:26:51,496:ERROR:Internal Server Error: /clean_data
+Traceback (most recent call last):
+  File "C:\Users\Aarón\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Aarón\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\views.py", line 74, in CleanData
+    result.value['mag_x'],
+    ~~~~~~~~~~~~^^^^^^^^^
+TypeError: list indices must be integers or slices, not str
+2024-10-18 22:33:30,581:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\services\diagnostic_data_cleaner.py changed, reloading.
+2024-10-18 22:33:32,562:INFO:Watching for file changes with StatReloader
+2024-10-18 22:33:48,739:ERROR:Internal Server Error: /clean_data
+Traceback (most recent call last):
+  File "C:\Users\Aarón\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Aarón\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\views.py", line 74, in CleanData
+    result.value['mag_x'],
+    ~~~~~~~~~~~~^^^^^^^^^
+TypeError: list indices must be integers or slices, not str
+2024-10-18 22:34:10,021:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\services\diagnostic_data_cleaner.py changed, reloading.
+2024-10-18 22:34:11,722:INFO:Watching for file changes with StatReloader
+2024-10-18 22:34:21,048:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\services\diagnostic_data_cleaner.py changed, reloading.
+2024-10-18 22:34:22,814:INFO:Watching for file changes with StatReloader
+2024-10-18 22:34:24,951:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\services\diagnostic_data_cleaner.py changed, reloading.
+2024-10-18 22:34:26,636:INFO:Watching for file changes with StatReloader
+2024-10-18 22:34:28,627:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\services\diagnostic_data_cleaner.py changed, reloading.
+2024-10-18 22:34:30,308:INFO:Watching for file changes with StatReloader
+2024-10-18 22:34:32,312:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\services\diagnostic_data_cleaner.py changed, reloading.
+2024-10-18 22:34:34,113:INFO:Watching for file changes with StatReloader
+2024-10-18 22:34:36,064:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\services\diagnostic_data_cleaner.py changed, reloading.
+2024-10-18 22:34:38,076:INFO:Watching for file changes with StatReloader
+2024-10-18 22:34:40,061:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\services\diagnostic_data_cleaner.py changed, reloading.
+2024-10-18 22:34:41,823:INFO:Watching for file changes with StatReloader
+2024-10-18 22:34:48,761:INFO:Watching for file changes with StatReloader
+2024-10-18 22:34:53,259:ERROR:Internal Server Error: /clean_data
+Traceback (most recent call last):
+  File "C:\Users\Aarón\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Aarón\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\views.py", line 74, in CleanData
+    result.value['mag_x'],
+    ~~~~~~~~~~~~^^^^^^^^^
+TypeError: list indices must be integers or slices, not str
+2024-10-18 22:39:22,260:INFO:Watching for file changes with StatReloader
+2024-10-18 22:40:28,112:ERROR:Internal Server Error: /clean_data
+Traceback (most recent call last):
+  File "C:\Users\Aarón\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Aarón\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\views.py", line 66, in CleanData
+    result = cleaner.clean_and_validate_data()
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\services\diagnostic_data_cleaner.py", line 103, in clean_and_validate_data
+    df_cleaned = self.clean_data()
+                 ^^^^^^^^^^^^^^^^^
+  File "C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\services\diagnostic_data_cleaner.py", line 91, in clean_data
+    mahalanobis_distances = self.calculate_mahalanobis(df_cleaned)
+                            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\services\diagnostic_data_cleaner.py", line 18, in calculate_mahalanobis
+    raise ValueError("Existen valores NaN en las columnas numéricas después de la limpieza.")
+ValueError: Existen valores NaN en las columnas numéricas después de la limpieza.
+2024-10-18 22:43:39,234:INFO:Watching for file changes with StatReloader
+2024-10-18 22:43:41,995:ERROR:Internal Server Error: /clean_data
+Traceback (most recent call last):
+  File "C:\Users\Aarón\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Aarón\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\views.py", line 66, in CleanData
+    result = cleaner.clean_and_validate_data()
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\services\diagnostic_data_cleaner.py", line 95, in clean_and_validate_data
+    df_cleaned = self.clean_data()
+                 ^^^^^^^^^^^^^^^^^
+  File "C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\services\diagnostic_data_cleaner.py", line 83, in clean_data
+    mahalanobis_distances = self.calculate_mahalanobis(df_cleaned)
+                            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\services\diagnostic_data_cleaner.py", line 18, in calculate_mahalanobis
+    raise ValueError("Existen valores NaN en las columnas numéricas después de la limpieza.")
+ValueError: Existen valores NaN en las columnas numéricas después de la limpieza.
+2024-10-18 22:45:26,999:INFO:Watching for file changes with StatReloader
+2024-10-18 22:45:40,288:ERROR:Internal Server Error: /clean_data
+Traceback (most recent call last):
+  File "C:\Users\Aarón\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Aarón\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\views.py", line 74, in CleanData
+    result.value['mag_x'],
+    ~~~~~~~~~~~~^^^^^^^^^
+TypeError: list indices must be integers or slices, not str
+2024-10-18 22:46:14,517:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\services\diagnostic_data_cleaner.py changed, reloading.
+2024-10-18 22:46:16,308:INFO:Watching for file changes with StatReloader
+2024-10-18 22:46:18,293:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\services\diagnostic_data_cleaner.py changed, reloading.
+2024-10-18 22:46:20,262:INFO:Watching for file changes with StatReloader
+2024-10-18 22:46:22,336:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\services\diagnostic_data_cleaner.py changed, reloading.
+2024-10-18 22:46:24,460:INFO:Watching for file changes with StatReloader
+2024-10-18 22:46:26,474:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\services\diagnostic_data_cleaner.py changed, reloading.
+2024-10-18 22:46:28,593:INFO:Watching for file changes with StatReloader
+2024-10-18 22:46:30,790:ERROR:Internal Server Error: /clean_data
+Traceback (most recent call last):
+  File "C:\Users\Aarón\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Aarón\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\views.py", line 74, in CleanData
+    result.value['mag_x'],
+    ~~~~~~~~~~~~^^^^^^^^^
+TypeError: list indices must be integers or slices, not str
+2024-10-18 22:46:56,684:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\services\diagnostic_data_cleaner.py changed, reloading.
+2024-10-18 22:47:20,254:INFO:Watching for file changes with StatReloader
+2024-10-18 22:51:46,366:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\views.py changed, reloading.
+2024-10-18 22:51:48,005:INFO:Watching for file changes with StatReloader
+2024-10-18 22:51:49,876:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\views.py changed, reloading.
+2024-10-18 22:51:51,555:INFO:Watching for file changes with StatReloader
+2024-10-18 22:51:57,332:INFO:Requested http://ipinfo.io/json
+2024-10-18 22:51:57,471:INFO:Requested http://ipinfo.io/json
+2024-10-18 22:51:57,598:INFO:Requested http://ipinfo.io/json
+2024-10-18 22:51:57,738:INFO:Requested http://ipinfo.io/json
+2024-10-18 22:51:57,873:INFO:Requested http://ipinfo.io/json
+2024-10-18 22:51:58,000:INFO:Requested http://ipinfo.io/json
+2024-10-18 22:51:58,125:INFO:Requested http://ipinfo.io/json
+2024-10-18 22:51:58,268:INFO:Requested http://ipinfo.io/json
+2024-10-18 22:51:58,402:INFO:Requested http://ipinfo.io/json
+2024-10-18 22:51:58,532:INFO:Requested http://ipinfo.io/json
+2024-10-18 22:51:58,667:INFO:Requested http://ipinfo.io/json
+2024-10-18 22:51:58,811:INFO:Requested http://ipinfo.io/json
+2024-10-18 22:51:58,938:INFO:Requested http://ipinfo.io/json
+2024-10-18 22:51:59,069:INFO:Requested http://ipinfo.io/json
+2024-10-18 22:51:59,208:INFO:Requested http://ipinfo.io/json
+2024-10-18 22:51:59,346:INFO:Requested http://ipinfo.io/json
+2024-10-18 22:51:59,482:INFO:Requested http://ipinfo.io/json
+2024-10-18 22:51:59,607:INFO:Requested http://ipinfo.io/json
+2024-10-18 22:51:59,736:INFO:Requested http://ipinfo.io/json
+2024-10-18 22:51:59,859:INFO:Requested http://ipinfo.io/json
+2024-10-18 22:51:59,988:INFO:Requested http://ipinfo.io/json
+2024-10-18 22:52:00,107:INFO:Requested http://ipinfo.io/json
+2024-10-18 22:52:00,238:INFO:Requested http://ipinfo.io/json
+2024-10-18 22:52:00,381:INFO:Requested http://ipinfo.io/json
+2024-10-18 22:52:00,521:INFO:Requested http://ipinfo.io/json
+2024-10-18 22:52:00,645:INFO:Requested http://ipinfo.io/json
+2024-10-18 22:52:00,776:INFO:Requested http://ipinfo.io/json
+2024-10-18 22:52:00,928:INFO:Requested http://ipinfo.io/json
+2024-10-18 22:52:01,086:INFO:Requested http://ipinfo.io/json
+2024-10-18 22:52:01,243:INFO:Requested http://ipinfo.io/json
+2024-10-18 22:52:01,378:INFO:Requested http://ipinfo.io/json
+2024-10-18 22:52:01,526:INFO:Requested http://ipinfo.io/json
+2024-10-18 22:52:01,718:INFO:Requested http://ipinfo.io/json
+2024-10-18 22:52:01,867:INFO:Requested http://ipinfo.io/json
+2024-10-18 22:52:02,002:INFO:Requested http://ipinfo.io/json
+2024-10-18 22:52:02,142:INFO:Requested http://ipinfo.io/json
+2024-10-18 22:52:02,268:INFO:Requested http://ipinfo.io/json
+2024-10-18 22:52:02,391:INFO:Requested http://ipinfo.io/json
+2024-10-18 22:52:02,528:INFO:Requested http://ipinfo.io/json
+2024-10-18 22:52:02,674:INFO:Requested http://ipinfo.io/json
+2024-10-18 22:52:02,807:INFO:Requested http://ipinfo.io/json
+2024-10-18 22:52:02,950:INFO:Requested http://ipinfo.io/json
+2024-10-18 22:52:03,079:INFO:Requested http://ipinfo.io/json
+2024-10-18 22:52:03,207:INFO:Requested http://ipinfo.io/json
+2024-10-18 22:52:03,364:INFO:Requested http://ipinfo.io/json
+2024-10-18 22:52:03,496:INFO:Requested http://ipinfo.io/json
+2024-10-18 22:52:03,630:INFO:Requested http://ipinfo.io/json
+2024-10-18 22:52:03,758:INFO:Requested http://ipinfo.io/json
+2024-10-18 22:52:03,887:INFO:Requested http://ipinfo.io/json
+2024-10-18 22:52:04,030:INFO:Requested http://ipinfo.io/json
+2024-10-18 22:52:04,172:INFO:Requested http://ipinfo.io/json
+2024-10-18 22:52:04,307:INFO:Requested http://ipinfo.io/json
+2024-10-18 22:52:04,435:INFO:Requested http://ipinfo.io/json
+2024-10-18 22:52:04,566:INFO:Requested http://ipinfo.io/json
+2024-10-18 22:52:04,686:INFO:Requested http://ipinfo.io/json
+2024-10-18 22:52:09,693:ERROR:Status code Unknown from http://ipinfo.io/json: ERROR - HTTPConnectionPool(host='ipinfo.io', port=80): Max retries exceeded with url: /json (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x0000021ED63D7F50>, 'Connection to ipinfo.io timed out. (connect timeout=5.0)'))
+2024-10-18 22:52:09,936:ERROR:Internal Server Error: /clean_data
+Traceback (most recent call last):
+  File "C:\Users\Aarón\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Aarón\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\views.py", line 96, in CleanData
+    newResult = DB_Conexion.insert_data(
+                ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\models.py", line 30, in insert_data
+    gps = GPS()
+          ^^^^^
+  File "C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\models.py", line 208, in __init__
+    self.center_lat, self.center_lon = g.latlng  # Extrae latitud y longitud
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+TypeError: cannot unpack non-iterable NoneType object
+2024-10-18 22:55:41,364:INFO:Watching for file changes with StatReloader
+2024-10-18 22:55:44,671:INFO:Requested http://ipinfo.io/json
+2024-10-18 22:55:44,704:ERROR:Internal Server Error: /clean_data
+Traceback (most recent call last):
+  File "C:\Users\Aarón\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Aarón\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\views.py", line 96, in CleanData
+    newResult = DB_Conexion.insert_data(
+                ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\models.py", line 30, in insert_data
+    gps = GPS()
+          ^^^^^
+  File "C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\models.py", line 226, in __init__
+    self.update_position()
+    ^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'GPS' object has no attribute 'update_position'
+2024-10-18 22:57:30,453:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\models.py changed, reloading.
+2024-10-18 22:57:32,010:INFO:Watching for file changes with StatReloader
+2024-10-18 22:57:40,140:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\models.py changed, reloading.
+2024-10-18 22:57:41,667:INFO:Watching for file changes with StatReloader
+2024-10-18 22:57:48,783:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\models.py changed, reloading.
+2024-10-18 22:57:50,431:INFO:Watching for file changes with StatReloader
+2024-10-18 22:57:53,739:INFO:Requested http://ipinfo.io/json
+2024-10-18 22:57:53,871:INFO:Requested http://ipinfo.io/json
+2024-10-18 22:57:54,001:INFO:Requested http://ipinfo.io/json
+2024-10-18 22:57:54,124:INFO:Requested http://ipinfo.io/json
+2024-10-18 22:57:54,271:INFO:Requested http://ipinfo.io/json
+2024-10-18 22:57:54,409:INFO:Requested http://ipinfo.io/json
+2024-10-18 22:57:54,549:INFO:Requested http://ipinfo.io/json
+2024-10-18 22:57:54,676:INFO:Requested http://ipinfo.io/json
+2024-10-18 22:57:54,817:INFO:Requested http://ipinfo.io/json
+2024-10-18 22:57:54,940:INFO:Requested http://ipinfo.io/json
+2024-10-18 22:57:55,082:INFO:Requested http://ipinfo.io/json
+2024-10-18 22:57:55,211:INFO:Requested http://ipinfo.io/json
+2024-10-18 22:57:55,339:INFO:Requested http://ipinfo.io/json
+2024-10-18 22:57:55,470:INFO:Requested http://ipinfo.io/json
+2024-10-18 22:57:55,613:INFO:Requested http://ipinfo.io/json
+2024-10-18 22:57:55,741:INFO:Requested http://ipinfo.io/json
+2024-10-18 22:57:55,871:INFO:Requested http://ipinfo.io/json
+2024-10-18 22:57:55,996:INFO:Requested http://ipinfo.io/json
+2024-10-18 22:57:56,350:INFO:Requested http://ipinfo.io/json
+2024-10-18 22:57:56,495:INFO:Requested http://ipinfo.io/json
+2024-10-18 22:57:56,621:INFO:Requested http://ipinfo.io/json
+2024-10-18 22:57:56,772:INFO:Requested http://ipinfo.io/json
+2024-10-18 22:57:56,900:INFO:Requested http://ipinfo.io/json
+2024-10-18 22:57:57,253:INFO:Requested http://ipinfo.io/json
+2024-10-18 22:57:57,382:INFO:Requested http://ipinfo.io/json
+2024-10-18 22:57:57,528:INFO:Requested http://ipinfo.io/json
+2024-10-18 22:57:57,662:INFO:Requested http://ipinfo.io/json
+2024-10-18 22:57:57,787:INFO:Requested http://ipinfo.io/json
+2024-10-18 22:57:57,930:INFO:Requested http://ipinfo.io/json
+2024-10-18 22:57:58,086:INFO:Requested http://ipinfo.io/json
+2024-10-18 22:57:58,224:INFO:Requested http://ipinfo.io/json
+2024-10-18 22:57:58,363:INFO:Requested http://ipinfo.io/json
+2024-10-18 22:57:58,499:INFO:Requested http://ipinfo.io/json
+2024-10-18 22:57:58,658:INFO:Requested http://ipinfo.io/json
+2024-10-18 22:57:58,785:INFO:Requested http://ipinfo.io/json
+2024-10-18 22:57:59,152:INFO:Requested http://ipinfo.io/json
+2024-10-18 22:57:59,299:INFO:Requested http://ipinfo.io/json
+2024-10-18 22:57:59,448:INFO:Requested http://ipinfo.io/json
+2024-10-18 22:57:59,577:INFO:Requested http://ipinfo.io/json
+2024-10-18 22:57:59,706:INFO:Requested http://ipinfo.io/json
+2024-10-18 22:57:59,861:INFO:Requested http://ipinfo.io/json
+2024-10-18 22:58:00,002:INFO:Requested http://ipinfo.io/json
+2024-10-18 22:58:00,137:INFO:Requested http://ipinfo.io/json
+2024-10-18 22:58:00,273:INFO:Requested http://ipinfo.io/json
+2024-10-18 22:58:00,417:INFO:Requested http://ipinfo.io/json
+2024-10-18 22:58:00,542:INFO:Requested http://ipinfo.io/json
+2024-10-18 22:58:00,694:INFO:Requested http://ipinfo.io/json
+2024-10-18 22:58:00,837:INFO:Requested http://ipinfo.io/json
+2024-10-18 22:58:00,963:INFO:Requested http://ipinfo.io/json
+2024-10-18 22:58:01,088:INFO:Requested http://ipinfo.io/json
+2024-10-18 22:58:01,214:INFO:Requested http://ipinfo.io/json
+2024-10-18 22:58:01,346:INFO:Requested http://ipinfo.io/json
+2024-10-18 22:58:01,487:INFO:Requested http://ipinfo.io/json
+2024-10-18 22:58:01,621:INFO:Requested http://ipinfo.io/json
+2024-10-18 22:58:01,782:INFO:Requested http://ipinfo.io/json
+2024-10-18 22:58:01,904:INFO:Requested http://ipinfo.io/json
+2024-10-18 22:58:02,037:INFO:Requested http://ipinfo.io/json
+2024-10-18 22:58:02,166:INFO:Requested http://ipinfo.io/json
+2024-10-18 22:58:02,322:INFO:Requested http://ipinfo.io/json
+2024-10-18 22:58:02,460:INFO:Requested http://ipinfo.io/json
+2024-10-18 22:58:02,590:INFO:Requested http://ipinfo.io/json
+2024-10-18 22:58:02,732:INFO:Requested http://ipinfo.io/json
+2024-10-18 22:58:02,899:INFO:Requested http://ipinfo.io/json
+2024-10-18 22:58:03,033:INFO:Requested http://ipinfo.io/json
+2024-10-18 22:58:03,182:INFO:Requested http://ipinfo.io/json
+2024-10-18 22:58:03,311:INFO:Requested http://ipinfo.io/json
+2024-10-18 22:58:03,447:INFO:Requested http://ipinfo.io/json
+2024-10-18 22:58:03,587:INFO:Requested http://ipinfo.io/json
+2024-10-18 22:58:03,717:INFO:Requested http://ipinfo.io/json
+2024-10-18 22:58:03,841:INFO:Requested http://ipinfo.io/json
+2024-10-18 22:58:03,978:INFO:Requested http://ipinfo.io/json
+2024-10-18 22:58:04,110:INFO:Requested http://ipinfo.io/json
+2024-10-18 22:58:04,263:INFO:Requested http://ipinfo.io/json
+2024-10-18 22:58:04,390:INFO:Requested http://ipinfo.io/json
+2024-10-18 22:58:04,529:INFO:Requested http://ipinfo.io/json
+2024-10-18 22:58:04,654:INFO:Requested http://ipinfo.io/json
+2024-10-18 22:58:04,784:INFO:Requested http://ipinfo.io/json
+2024-10-18 22:58:04,910:INFO:Requested http://ipinfo.io/json
+2024-10-18 22:58:05,043:INFO:Requested http://ipinfo.io/json
+2024-10-18 22:58:05,187:INFO:Requested http://ipinfo.io/json
+2024-10-18 22:58:05,324:INFO:Requested http://ipinfo.io/json
+2024-10-18 22:58:05,453:INFO:Requested http://ipinfo.io/json
+2024-10-18 22:58:05,588:INFO:Requested http://ipinfo.io/json
+2024-10-18 22:58:05,717:INFO:Requested http://ipinfo.io/json
+2024-10-18 22:58:05,848:INFO:Requested http://ipinfo.io/json
+2024-10-18 22:58:05,976:INFO:Requested http://ipinfo.io/json
+2024-10-18 22:58:06,106:INFO:Requested http://ipinfo.io/json
+2024-10-18 22:58:06,236:INFO:Requested http://ipinfo.io/json
+2024-10-18 22:58:06,370:INFO:Requested http://ipinfo.io/json
+2024-10-18 22:58:06,515:INFO:Requested http://ipinfo.io/json
+2024-10-18 22:58:06,661:INFO:Requested http://ipinfo.io/json
+2024-10-18 22:58:06,790:INFO:Requested http://ipinfo.io/json
+2024-10-18 22:58:06,930:INFO:Requested http://ipinfo.io/json
+2024-10-18 22:58:07,059:INFO:Requested http://ipinfo.io/json
+2024-10-18 22:58:07,187:INFO:Requested http://ipinfo.io/json
+2024-10-18 22:58:07,313:INFO:Requested http://ipinfo.io/json
+2024-10-18 22:58:07,441:INFO:Requested http://ipinfo.io/json
+2024-10-18 22:58:07,586:INFO:Requested http://ipinfo.io/json
+2024-10-18 22:59:07,525:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\views.py changed, reloading.
+2024-10-18 22:59:09,028:INFO:Watching for file changes with StatReloader
+2024-10-18 23:00:11,047:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\models.py changed, reloading.
+2024-10-18 23:00:12,607:INFO:Watching for file changes with StatReloader
+2024-10-18 23:00:14,438:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\models.py changed, reloading.
+2024-10-18 23:00:15,911:INFO:Watching for file changes with StatReloader
+2024-10-18 23:01:01,635:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\views.py changed, reloading.
+2024-10-18 23:01:03,064:INFO:Watching for file changes with StatReloader
+2024-10-18 23:01:04,982:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\views.py changed, reloading.
+2024-10-18 23:01:06,467:INFO:Watching for file changes with StatReloader
+2024-10-18 23:01:10,522:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\views.py changed, reloading.
+2024-10-18 23:01:12,167:INFO:Watching for file changes with StatReloader
+2024-10-18 23:01:20,931:INFO:Requested http://ipinfo.io/json
+2024-10-18 23:01:21,067:INFO:Requested http://ipinfo.io/json
+2024-10-18 23:01:21,202:INFO:Requested http://ipinfo.io/json
+2024-10-18 23:01:21,354:INFO:Requested http://ipinfo.io/json
+2024-10-18 23:01:21,489:INFO:Requested http://ipinfo.io/json
+2024-10-18 23:01:21,612:INFO:Requested http://ipinfo.io/json
+2024-10-18 23:01:21,750:INFO:Requested http://ipinfo.io/json
+2024-10-18 23:01:21,878:INFO:Requested http://ipinfo.io/json
+2024-10-18 23:01:22,000:INFO:Requested http://ipinfo.io/json
+2024-10-18 23:01:22,123:INFO:Requested http://ipinfo.io/json
+2024-10-18 23:01:22,257:INFO:Requested http://ipinfo.io/json
+2024-10-18 23:01:22,390:INFO:Requested http://ipinfo.io/json
+2024-10-18 23:01:22,514:INFO:Requested http://ipinfo.io/json
+2024-10-18 23:01:22,650:INFO:Requested http://ipinfo.io/json
+2024-10-18 23:01:22,786:INFO:Requested http://ipinfo.io/json
+2024-10-18 23:01:22,927:INFO:Requested http://ipinfo.io/json
+2024-10-18 23:01:23,053:INFO:Requested http://ipinfo.io/json
+2024-10-18 23:01:23,189:INFO:Requested http://ipinfo.io/json
+2024-10-18 23:01:23,319:INFO:Requested http://ipinfo.io/json
+2024-10-18 23:01:23,442:INFO:Requested http://ipinfo.io/json
+2024-10-18 23:01:23,780:INFO:Requested http://ipinfo.io/json
+2024-10-18 23:01:23,910:INFO:Requested http://ipinfo.io/json
+2024-10-18 23:01:24,044:INFO:Requested http://ipinfo.io/json
+2024-10-18 23:01:24,182:INFO:Requested http://ipinfo.io/json
+2024-10-18 23:01:24,316:INFO:Requested http://ipinfo.io/json
+2024-10-18 23:01:24,439:INFO:Requested http://ipinfo.io/json
+2024-10-18 23:01:24,582:INFO:Requested http://ipinfo.io/json
+2024-10-18 23:01:24,708:INFO:Requested http://ipinfo.io/json
+2024-10-18 23:01:24,843:INFO:Requested http://ipinfo.io/json
+2024-10-18 23:01:24,969:INFO:Requested http://ipinfo.io/json
+2024-10-18 23:01:25,100:INFO:Requested http://ipinfo.io/json
+2024-10-18 23:01:25,252:INFO:Requested http://ipinfo.io/json
+2024-10-18 23:01:25,381:INFO:Requested http://ipinfo.io/json
+2024-10-18 23:01:25,508:INFO:Requested http://ipinfo.io/json
+2024-10-18 23:01:25,638:INFO:Requested http://ipinfo.io/json
+2024-10-18 23:01:25,776:INFO:Requested http://ipinfo.io/json
+2024-10-18 23:01:25,932:INFO:Requested http://ipinfo.io/json
+2024-10-18 23:01:26,064:INFO:Requested http://ipinfo.io/json
+2024-10-18 23:01:26,223:INFO:Requested http://ipinfo.io/json
+2024-10-18 23:01:26,370:INFO:Requested http://ipinfo.io/json
+2024-10-18 23:01:26,509:INFO:Requested http://ipinfo.io/json
+2024-10-18 23:01:26,646:INFO:Requested http://ipinfo.io/json
+2024-10-18 23:01:26,779:INFO:Requested http://ipinfo.io/json
+2024-10-18 23:01:26,915:INFO:Requested http://ipinfo.io/json
+2024-10-18 23:01:27,043:INFO:Requested http://ipinfo.io/json
+2024-10-18 23:01:27,179:INFO:Requested http://ipinfo.io/json
+2024-10-18 23:01:27,312:INFO:Requested http://ipinfo.io/json
+2024-10-18 23:01:27,433:INFO:Requested http://ipinfo.io/json
+2024-10-18 23:01:27,561:INFO:Requested http://ipinfo.io/json
+2024-10-18 23:01:27,930:INFO:Requested http://ipinfo.io/json
+2024-10-18 23:01:28,074:INFO:Requested http://ipinfo.io/json
+2024-10-18 23:01:28,220:INFO:Requested http://ipinfo.io/json
+2024-10-18 23:01:28,359:INFO:Requested http://ipinfo.io/json
+2024-10-18 23:01:28,494:INFO:Requested http://ipinfo.io/json
+2024-10-18 23:01:28,633:INFO:Requested http://ipinfo.io/json
+2024-10-18 23:01:28,769:INFO:Requested http://ipinfo.io/json
+2024-10-18 23:01:28,896:INFO:Requested http://ipinfo.io/json
+2024-10-18 23:01:29,046:INFO:Requested http://ipinfo.io/json
+2024-10-18 23:01:29,190:INFO:Requested http://ipinfo.io/json
+2024-10-18 23:01:29,323:INFO:Requested http://ipinfo.io/json
+2024-10-18 23:01:29,458:INFO:Requested http://ipinfo.io/json
+2024-10-18 23:01:29,609:INFO:Requested http://ipinfo.io/json
+2024-10-18 23:01:29,741:INFO:Requested http://ipinfo.io/json
+2024-10-18 23:01:29,887:INFO:Requested http://ipinfo.io/json
+2024-10-18 23:01:30,025:INFO:Requested http://ipinfo.io/json
+2024-10-18 23:01:30,156:INFO:Requested http://ipinfo.io/json
+2024-10-18 23:01:30,308:INFO:Requested http://ipinfo.io/json
+2024-10-18 23:01:30,435:INFO:Requested http://ipinfo.io/json
+2024-10-18 23:01:30,568:INFO:Requested http://ipinfo.io/json
+2024-10-18 23:01:30,700:INFO:Requested http://ipinfo.io/json
+2024-10-18 23:01:30,851:INFO:Requested http://ipinfo.io/json
+2024-10-18 23:01:30,975:INFO:Requested http://ipinfo.io/json
+2024-10-18 23:01:31,123:INFO:Requested http://ipinfo.io/json
+2024-10-18 23:01:31,259:INFO:Requested http://ipinfo.io/json
+2024-10-18 23:01:31,388:INFO:Requested http://ipinfo.io/json
+2024-10-18 23:01:31,519:INFO:Requested http://ipinfo.io/json
+2024-10-18 23:01:31,654:INFO:Requested http://ipinfo.io/json
+2024-10-18 23:01:31,784:INFO:Requested http://ipinfo.io/json
+2024-10-18 23:01:31,915:INFO:Requested http://ipinfo.io/json
+2024-10-18 23:01:32,041:INFO:Requested http://ipinfo.io/json
+2024-10-18 23:01:32,169:INFO:Requested http://ipinfo.io/json
+2024-10-18 23:01:32,307:INFO:Requested http://ipinfo.io/json
+2024-10-18 23:01:32,447:INFO:Requested http://ipinfo.io/json
+2024-10-18 23:01:32,578:INFO:Requested http://ipinfo.io/json
+2024-10-18 23:01:32,731:INFO:Requested http://ipinfo.io/json
+2024-10-18 23:01:32,853:INFO:Requested http://ipinfo.io/json
+2024-10-18 23:01:32,983:INFO:Requested http://ipinfo.io/json
+2024-10-18 23:01:33,107:INFO:Requested http://ipinfo.io/json
+2024-10-18 23:01:33,240:INFO:Requested http://ipinfo.io/json
+2024-10-18 23:01:33,380:INFO:Requested http://ipinfo.io/json
+2024-10-18 23:01:33,502:INFO:Requested http://ipinfo.io/json
+2024-10-18 23:01:33,645:INFO:Requested http://ipinfo.io/json
+2024-10-18 23:01:33,780:INFO:Requested http://ipinfo.io/json
+2024-10-18 23:01:33,917:INFO:Requested http://ipinfo.io/json
+2024-10-18 23:01:34,050:INFO:Requested http://ipinfo.io/json
+2024-10-18 23:01:34,175:INFO:Requested http://ipinfo.io/json
+2024-10-18 23:01:34,326:INFO:Requested http://ipinfo.io/json
+2024-10-18 23:01:34,446:INFO:Requested http://ipinfo.io/json
+2024-10-18 23:04:34,038:INFO:Watching for file changes with StatReloader
+2024-10-18 23:04:47,771:INFO:Requested http://ipinfo.io/json
+2024-10-18 23:04:47,915:INFO:Requested http://ipinfo.io/json
+2024-10-18 23:04:48,050:INFO:Requested http://ipinfo.io/json
+2024-10-18 23:04:48,182:INFO:Requested http://ipinfo.io/json
+2024-10-18 23:04:48,312:INFO:Requested http://ipinfo.io/json
+2024-10-18 23:04:48,442:INFO:Requested http://ipinfo.io/json
+2024-10-18 23:04:48,567:INFO:Requested http://ipinfo.io/json
+2024-10-18 23:04:48,710:INFO:Requested http://ipinfo.io/json
+2024-10-18 23:04:48,838:INFO:Requested http://ipinfo.io/json
+2024-10-18 23:04:48,969:INFO:Requested http://ipinfo.io/json
+2024-10-18 23:04:49,102:INFO:Requested http://ipinfo.io/json
+2024-10-18 23:04:49,255:INFO:Requested http://ipinfo.io/json
+2024-10-18 23:04:49,410:INFO:Requested http://ipinfo.io/json
+2024-10-18 23:04:49,567:INFO:Requested http://ipinfo.io/json
+2024-10-18 23:04:49,723:INFO:Requested http://ipinfo.io/json
+2024-10-18 23:04:49,846:INFO:Requested http://ipinfo.io/json
+2024-10-18 23:04:49,972:INFO:Requested http://ipinfo.io/json
+2024-10-18 23:04:50,101:INFO:Requested http://ipinfo.io/json
+2024-10-18 23:04:50,233:INFO:Requested http://ipinfo.io/json
+2024-10-18 23:04:50,365:INFO:Requested http://ipinfo.io/json
+2024-10-18 23:04:50,493:INFO:Requested http://ipinfo.io/json
+2024-10-18 23:04:50,636:INFO:Requested http://ipinfo.io/json
+2024-10-18 23:04:50,767:INFO:Requested http://ipinfo.io/json
+2024-10-18 23:04:50,894:INFO:Requested http://ipinfo.io/json
+2024-10-18 23:04:51,025:INFO:Requested http://ipinfo.io/json
+2024-10-18 23:04:51,169:INFO:Requested http://ipinfo.io/json
+2024-10-18 23:04:51,300:INFO:Requested http://ipinfo.io/json
+2024-10-18 23:04:51,443:INFO:Requested http://ipinfo.io/json
+2024-10-18 23:04:51,576:INFO:Requested http://ipinfo.io/json
+2024-10-18 23:04:51,706:INFO:Requested http://ipinfo.io/json
+2024-10-18 23:04:51,854:INFO:Requested http://ipinfo.io/json
+2024-10-18 23:04:51,998:INFO:Requested http://ipinfo.io/json
+2024-10-18 23:04:52,128:INFO:Requested http://ipinfo.io/json
+2024-10-18 23:04:52,265:INFO:Requested http://ipinfo.io/json
+2024-10-18 23:04:52,423:INFO:Requested http://ipinfo.io/json
+2024-10-18 23:04:52,557:INFO:Requested http://ipinfo.io/json
+2024-10-18 23:04:52,685:INFO:Requested http://ipinfo.io/json
+2024-10-18 23:04:52,826:INFO:Requested http://ipinfo.io/json
+2024-10-18 23:04:52,959:INFO:Requested http://ipinfo.io/json
+2024-10-18 23:04:53,101:INFO:Requested http://ipinfo.io/json
+2024-10-18 23:04:53,248:INFO:Requested http://ipinfo.io/json
+2024-10-18 23:04:53,387:INFO:Requested http://ipinfo.io/json
+2024-10-18 23:04:53,549:INFO:Requested http://ipinfo.io/json
+2024-10-18 23:04:53,737:INFO:Requested http://ipinfo.io/json
+2024-10-18 23:04:53,878:INFO:Requested http://ipinfo.io/json
+2024-10-18 23:04:54,004:INFO:Requested http://ipinfo.io/json
+2024-10-18 23:04:54,127:INFO:Requested http://ipinfo.io/json
+2024-10-18 23:04:54,246:INFO:Requested http://ipinfo.io/json
+2024-10-18 23:04:54,379:INFO:Requested http://ipinfo.io/json
+2024-10-18 23:04:54,528:INFO:Requested http://ipinfo.io/json
+2024-10-18 23:04:54,689:INFO:Requested http://ipinfo.io/json
+2024-10-18 23:04:54,822:INFO:Requested http://ipinfo.io/json
+2024-10-18 23:04:54,967:INFO:Requested http://ipinfo.io/json
+2024-10-18 23:04:55,096:INFO:Requested http://ipinfo.io/json
+2024-10-18 23:04:55,237:INFO:Requested http://ipinfo.io/json
+2024-10-18 23:04:55,354:INFO:Requested http://ipinfo.io/json
+2024-10-18 23:04:55,500:INFO:Requested http://ipinfo.io/json
+2024-10-18 23:04:55,634:INFO:Requested http://ipinfo.io/json
+2024-10-18 23:04:55,759:INFO:Requested http://ipinfo.io/json
+2024-10-18 23:04:55,892:INFO:Requested http://ipinfo.io/json
+2024-10-18 23:04:56,042:INFO:Requested http://ipinfo.io/json
+2024-10-18 23:04:56,178:INFO:Requested http://ipinfo.io/json
+2024-10-18 23:04:56,308:INFO:Requested http://ipinfo.io/json
+2024-10-18 23:04:56,445:INFO:Requested http://ipinfo.io/json
+2024-10-18 23:04:56,572:INFO:Requested http://ipinfo.io/json
+2024-10-18 23:04:56,701:INFO:Requested http://ipinfo.io/json
+2024-10-18 23:04:56,843:INFO:Requested http://ipinfo.io/json
+2024-10-18 23:04:56,979:INFO:Requested http://ipinfo.io/json
+2024-10-18 23:04:57,106:INFO:Requested http://ipinfo.io/json
+2024-10-18 23:04:57,259:INFO:Requested http://ipinfo.io/json
+2024-10-18 23:04:57,388:INFO:Requested http://ipinfo.io/json
+2024-10-18 23:04:57,522:INFO:Requested http://ipinfo.io/json
+2024-10-18 23:04:57,651:INFO:Requested http://ipinfo.io/json
+2024-10-18 23:04:57,776:INFO:Requested http://ipinfo.io/json
+2024-10-18 23:04:57,921:INFO:Requested http://ipinfo.io/json
+2024-10-18 23:04:58,054:INFO:Requested http://ipinfo.io/json
+2024-10-18 23:04:58,182:INFO:Requested http://ipinfo.io/json
+2024-10-18 23:04:58,329:INFO:Requested http://ipinfo.io/json
+2024-10-18 23:04:58,486:INFO:Requested http://ipinfo.io/json
+2024-10-18 23:04:58,624:INFO:Requested http://ipinfo.io/json
+2024-10-18 23:04:58,755:INFO:Requested http://ipinfo.io/json
+2024-10-18 23:04:58,909:INFO:Requested http://ipinfo.io/json
+2024-10-18 23:04:59,047:INFO:Requested http://ipinfo.io/json
+2024-10-18 23:04:59,204:INFO:Requested http://ipinfo.io/json
+2024-10-18 23:04:59,336:INFO:Requested http://ipinfo.io/json
+2024-10-18 23:04:59,471:INFO:Requested http://ipinfo.io/json
+2024-10-18 23:04:59,593:INFO:Requested http://ipinfo.io/json
+2024-10-18 23:04:59,933:INFO:Requested http://ipinfo.io/json
+2024-10-18 23:05:00,070:INFO:Requested http://ipinfo.io/json
+2024-10-18 23:05:00,208:INFO:Requested http://ipinfo.io/json
+2024-10-18 23:05:00,341:INFO:Requested http://ipinfo.io/json
+2024-10-18 23:05:00,474:INFO:Requested http://ipinfo.io/json
+2024-10-18 23:05:00,600:INFO:Requested http://ipinfo.io/json
+2024-10-18 23:05:00,730:INFO:Requested http://ipinfo.io/json
+2024-10-18 23:05:00,857:INFO:Requested http://ipinfo.io/json
+2024-10-18 23:05:00,982:INFO:Requested http://ipinfo.io/json
+2024-10-18 23:05:01,129:INFO:Requested http://ipinfo.io/json
+2024-10-18 23:05:01,283:INFO:Requested http://ipinfo.io/json
+2024-10-18 23:07:07,389:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\models.py changed, reloading.
+2024-10-18 23:07:09,032:INFO:Watching for file changes with StatReloader
+2024-10-18 23:08:48,815:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\models.py changed, reloading.
+2024-10-18 23:08:50,521:INFO:Watching for file changes with StatReloader
+2024-10-18 23:09:12,468:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\models.py changed, reloading.
+2024-10-18 23:09:16,307:INFO:Watching for file changes with StatReloader
+2024-10-18 23:09:20,425:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\models.py changed, reloading.
+2024-10-18 23:09:22,318:INFO:Watching for file changes with StatReloader
+2024-10-18 23:09:37,806:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\models.py changed, reloading.
+2024-10-18 23:09:40,032:INFO:Watching for file changes with StatReloader
+2024-10-18 23:10:19,978:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\views.py changed, reloading.
+2024-10-18 23:10:21,654:INFO:Watching for file changes with StatReloader
+2024-10-18 23:10:23,504:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\views.py changed, reloading.
+2024-10-18 23:10:25,028:INFO:Watching for file changes with StatReloader
+2024-10-18 23:10:28,979:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\views.py changed, reloading.
+2024-10-18 23:10:30,608:INFO:Watching for file changes with StatReloader
+2024-10-18 23:10:48,251:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\views.py changed, reloading.
+2024-10-18 23:10:49,734:INFO:Watching for file changes with StatReloader
+2024-10-18 23:10:53,722:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\views.py changed, reloading.
+2024-10-18 23:10:55,867:INFO:Watching for file changes with StatReloader
+2024-10-18 23:10:58,974:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\views.py changed, reloading.
+2024-10-18 23:11:00,775:INFO:Watching for file changes with StatReloader
+2024-10-18 23:11:10,726:INFO:Requested http://ipinfo.io/json
+2024-10-18 23:11:10,752:WARNING:Method Not Allowed: /clean_data
+2024-10-18 23:16:10,216:INFO:Watching for file changes with StatReloader
+2024-10-18 23:16:51,786:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ENA\settings.py changed, reloading.
+2024-10-18 23:16:58,841:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ENA\settings.py changed, reloading.
+2024-10-18 23:17:00,552:INFO:Watching for file changes with StatReloader
+2024-10-18 23:20:01,642:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ENA\settings.py changed, reloading.
+2024-10-18 23:20:03,149:INFO:Watching for file changes with StatReloader
+2024-10-18 23:20:07,095:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ENA\settings.py changed, reloading.
+2024-10-18 23:20:08,802:INFO:Watching for file changes with StatReloader
+2024-10-18 23:21:56,166:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ENA\settings.py changed, reloading.
+2024-10-18 23:21:57,688:INFO:Watching for file changes with StatReloader
+2024-10-18 23:21:59,536:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ENA\settings.py changed, reloading.
+2024-10-18 23:22:01,091:INFO:Watching for file changes with StatReloader
+2024-10-18 23:22:05,071:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ENA\settings.py changed, reloading.
+2024-10-18 23:22:06,741:INFO:Watching for file changes with StatReloader
+2024-10-18 23:23:24,539:INFO:Watching for file changes with StatReloader
+2024-10-18 23:23:34,394:INFO:Requested http://ipinfo.io/json
+2024-10-18 23:23:34,538:INFO:Requested http://ipinfo.io/json
+2024-10-18 23:23:34,665:INFO:Requested http://ipinfo.io/json
+2024-10-18 23:23:34,802:INFO:Requested http://ipinfo.io/json
+2024-10-18 23:23:34,954:INFO:Requested http://ipinfo.io/json
+2024-10-18 23:23:35,089:INFO:Requested http://ipinfo.io/json
+2024-10-18 23:23:35,220:INFO:Requested http://ipinfo.io/json
+2024-10-18 23:23:35,359:INFO:Requested http://ipinfo.io/json
+2024-10-18 23:23:35,496:INFO:Requested http://ipinfo.io/json
+2024-10-18 23:23:35,632:INFO:Requested http://ipinfo.io/json
+2024-10-18 23:23:35,775:INFO:Requested http://ipinfo.io/json
+2024-10-18 23:23:35,902:INFO:Requested http://ipinfo.io/json
+2024-10-18 23:23:36,034:INFO:Requested http://ipinfo.io/json
+2024-10-18 23:23:36,177:INFO:Requested http://ipinfo.io/json
+2024-10-18 23:23:36,324:INFO:Requested http://ipinfo.io/json
+2024-10-18 23:23:36,458:INFO:Requested http://ipinfo.io/json
+2024-10-18 23:23:36,598:INFO:Requested http://ipinfo.io/json
+2024-10-18 23:23:36,723:INFO:Requested http://ipinfo.io/json
+2024-10-18 23:23:36,867:INFO:Requested http://ipinfo.io/json
+2024-10-18 23:23:36,993:INFO:Requested http://ipinfo.io/json
+2024-10-18 23:23:37,120:INFO:Requested http://ipinfo.io/json
+2024-10-18 23:23:37,248:INFO:Requested http://ipinfo.io/json
+2024-10-18 23:23:37,388:INFO:Requested http://ipinfo.io/json
+2024-10-18 23:23:37,545:INFO:Requested http://ipinfo.io/json
+2024-10-18 23:23:37,682:INFO:Requested http://ipinfo.io/json
+2024-10-18 23:23:37,822:INFO:Requested http://ipinfo.io/json
+2024-10-18 23:23:37,982:INFO:Requested http://ipinfo.io/json
+2024-10-18 23:23:38,138:INFO:Requested http://ipinfo.io/json
+2024-10-18 23:23:38,268:INFO:Requested http://ipinfo.io/json
+2024-10-18 23:23:38,412:INFO:Requested http://ipinfo.io/json
+2024-10-18 23:23:38,567:INFO:Requested http://ipinfo.io/json
+2024-10-18 23:23:38,706:INFO:Requested http://ipinfo.io/json
+2024-10-18 23:23:38,850:INFO:Requested http://ipinfo.io/json
+2024-10-18 23:23:38,986:INFO:Requested http://ipinfo.io/json
+2024-10-18 23:23:39,118:INFO:Requested http://ipinfo.io/json
+2024-10-18 23:23:39,250:INFO:Requested http://ipinfo.io/json
+2024-10-18 23:23:39,394:INFO:Requested http://ipinfo.io/json
+2024-10-18 23:23:39,538:INFO:Requested http://ipinfo.io/json
+2024-10-18 23:23:39,669:INFO:Requested http://ipinfo.io/json
+2024-10-18 23:23:39,837:INFO:Requested http://ipinfo.io/json
+2024-10-18 23:23:39,995:INFO:Requested http://ipinfo.io/json
+2024-10-18 23:23:40,156:INFO:Requested http://ipinfo.io/json
+2024-10-18 23:23:40,309:INFO:Requested http://ipinfo.io/json
+2024-10-18 23:23:40,449:INFO:Requested http://ipinfo.io/json
+2024-10-18 23:23:40,600:INFO:Requested http://ipinfo.io/json
+2024-10-18 23:23:40,777:INFO:Requested http://ipinfo.io/json
+2024-10-18 23:23:40,903:INFO:Requested http://ipinfo.io/json
+2024-10-18 23:23:41,034:INFO:Requested http://ipinfo.io/json
+2024-10-18 23:23:41,168:INFO:Requested http://ipinfo.io/json
+2024-10-18 23:23:41,301:INFO:Requested http://ipinfo.io/json
+2024-10-18 23:23:41,429:INFO:Requested http://ipinfo.io/json
+2024-10-18 23:23:41,559:INFO:Requested http://ipinfo.io/json
+2024-10-18 23:23:41,692:INFO:Requested http://ipinfo.io/json
+2024-10-18 23:23:41,825:INFO:Requested http://ipinfo.io/json
+2024-10-18 23:23:41,960:INFO:Requested http://ipinfo.io/json
+2024-10-18 23:23:42,107:INFO:Requested http://ipinfo.io/json
+2024-10-18 23:23:42,247:INFO:Requested http://ipinfo.io/json
+2024-10-18 23:23:42,391:INFO:Requested http://ipinfo.io/json
+2024-10-18 23:23:42,550:INFO:Requested http://ipinfo.io/json
+2024-10-18 23:23:42,707:INFO:Requested http://ipinfo.io/json
+2024-10-18 23:23:42,839:INFO:Requested http://ipinfo.io/json
+2024-10-18 23:23:42,997:INFO:Requested http://ipinfo.io/json
+2024-10-18 23:23:43,133:INFO:Requested http://ipinfo.io/json
+2024-10-18 23:23:43,277:INFO:Requested http://ipinfo.io/json
+2024-10-18 23:23:43,427:INFO:Requested http://ipinfo.io/json
+2024-10-18 23:23:43,560:INFO:Requested http://ipinfo.io/json
+2024-10-18 23:23:43,698:INFO:Requested http://ipinfo.io/json
+2024-10-18 23:23:43,845:INFO:Requested http://ipinfo.io/json
+2024-10-18 23:23:43,976:INFO:Requested http://ipinfo.io/json
+2024-10-18 23:23:44,113:INFO:Requested http://ipinfo.io/json
+2024-10-18 23:23:44,246:INFO:Requested http://ipinfo.io/json
+2024-10-18 23:23:44,390:INFO:Requested http://ipinfo.io/json
+2024-10-18 23:23:44,529:INFO:Requested http://ipinfo.io/json
+2024-10-18 23:23:44,664:INFO:Requested http://ipinfo.io/json
+2024-10-18 23:23:44,790:INFO:Requested http://ipinfo.io/json
+2024-10-18 23:23:44,936:INFO:Requested http://ipinfo.io/json
+2024-10-18 23:23:45,076:INFO:Requested http://ipinfo.io/json
+2024-10-18 23:23:45,203:INFO:Requested http://ipinfo.io/json
+2024-10-18 23:23:45,346:INFO:Requested http://ipinfo.io/json
+2024-10-18 23:23:45,502:INFO:Requested http://ipinfo.io/json
+2024-10-18 23:23:45,644:INFO:Requested http://ipinfo.io/json
+2024-10-18 23:23:45,780:INFO:Requested http://ipinfo.io/json
+2024-10-18 23:23:45,914:INFO:Requested http://ipinfo.io/json
+2024-10-18 23:23:46,060:INFO:Requested http://ipinfo.io/json
+2024-10-18 23:23:46,195:INFO:Requested http://ipinfo.io/json
+2024-10-18 23:23:46,346:INFO:Requested http://ipinfo.io/json
+2024-10-18 23:23:46,501:INFO:Requested http://ipinfo.io/json
+2024-10-18 23:23:46,640:INFO:Requested http://ipinfo.io/json
+2024-10-18 23:23:46,781:INFO:Requested http://ipinfo.io/json
+2024-10-18 23:23:46,923:INFO:Requested http://ipinfo.io/json
+2024-10-18 23:23:47,058:INFO:Requested http://ipinfo.io/json
+2024-10-18 23:23:47,399:INFO:Requested http://ipinfo.io/json
+2024-10-18 23:23:47,535:INFO:Requested http://ipinfo.io/json
+2024-10-18 23:23:47,669:INFO:Requested http://ipinfo.io/json
+2024-10-18 23:23:47,811:INFO:Requested http://ipinfo.io/json
+2024-10-18 23:23:47,955:INFO:Requested http://ipinfo.io/json
+2024-10-18 23:23:48,113:INFO:Requested http://ipinfo.io/json
+2024-10-18 23:23:48,271:INFO:Requested http://ipinfo.io/json
+2024-10-18 23:26:32,238:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\models.py changed, reloading.
+2024-10-18 23:26:34,530:INFO:Watching for file changes with StatReloader
+2024-10-18 23:27:03,372:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\models.py changed, reloading.
+2024-10-18 23:27:05,720:INFO:Watching for file changes with StatReloader
+2024-10-18 23:27:09,207:INFO:C:\Users\Aarón\Documents\ENA\ProyectoENA\BETA\ENA\ProyectoENA\models.py changed, reloading.

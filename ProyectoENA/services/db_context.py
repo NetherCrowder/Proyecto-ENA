@@ -1,14 +1,16 @@
-from django.db import models
-from db_connection import *
-from django.http import JsonResponse
 import datetime
-import geocoder
-import random
-from geopy import distance  # Asegúrate de tener instalado el paquete geopy
-# Create your models here.
+import pandas as pd
+
+from django.http import JsonResponse
+
+from .gps import GPS
+from .db_connection import *
+
+from ..models import *
+
 
 class DB_Conexion():    
-    def insert_data(mag_x, mag_y, mag_z,barometro,ruido, giro_x, giro_y, giro_z, acel_x, acel_y, acel_z, vibracion):
+    def insert_data(mag_x, mag_y, mag_z,barometro,ruido, giro_x, giro_y, giro_z, acel_x, acel_y, acel_z, vibracion, table = 'sensor_data'):
         #mag_x = float(0.0)
         #mag_y = float(0.0)
         #mag_z = float(0.0)
@@ -61,11 +63,11 @@ class DB_Conexion():
             conn = get_db_connection()
             cursor = conn.cursor()
             cursor.execute("""
-                INSERT INTO sensor_data (timestamp, mag_x, mag_y, mag_z, barometro, ruido, 
+                INSERT INTO ? (timestamp, mag_x, mag_y, mag_z, barometro, ruido, 
                                         giro_x, giro_y, giro_z, acel_x, acel_y, acel_z, 
                                         vibracion, gps_lat, gps_lon)
                 VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)
-            """, (current_time, new_data['magnetometro']['x'], new_data['magnetometro']['y'], 
+            """, (table, current_time, new_data['magnetometro']['x'], new_data['magnetometro']['y'], 
                 new_data['magnetometro']['z'], new_data['barometro'], new_data['ruido'],
                 new_data['giroscopio']['x'], new_data['giroscopio']['y'], new_data['giroscopio']['z'],
                 new_data['acelerometro']['x'], new_data['acelerometro']['y'], new_data['acelerometro']['z'],
@@ -77,6 +79,23 @@ class DB_Conexion():
             if conn:
                 conn.close()
         return new_data
+    
+    def insert_clean_data(data_dict):
+        try:
+            gps = GPS()
+            gps_data = gps.get_position()
+
+            data_dict['timestamp'] = datetime.datetime.now()
+            data_dict['gps_lat'] = gps_data['latitude']
+            data_dict['gps_lon'] = gps_data['longitude']
+
+            # Crear una instancia del modelo y guardar
+            sensor_data = SensorDataClean(**data_dict)
+            sensor_data.save()
+            return data_dict
+        except Exception as e:
+            print(f"Error al guardar en la base de datos: {e}")
+            return None
 
     def get_data():
         try:
@@ -126,6 +145,47 @@ class DB_Conexion():
         finally:
             if conn:
                 conn.close()
+                
+    def get_data_as_dataframe():
+        try:
+            conn = get_db_connection()
+            cursor = conn.cursor()
+            # Obtener los últimos 100 registros
+            cursor.execute("""
+                SELECT timestamp, mag_x, mag_y, mag_z, barometro, ruido, 
+                    giro_x, giro_y, giro_z, acel_x, acel_y, acel_z, 
+                    vibracion, gps_lat, gps_lon
+                FROM sensor_data
+            """)
+            rows = cursor.fetchall()
+            # Convertir los resultados a un formato JSON
+            data = []
+            for row in rows:
+                data.append({
+                    'timestamp': row.timestamp.isoformat(),
+                    'mag_x': row.mag_x,
+                    'mag_y': row.mag_y,
+                    'mag_z': row.mag_z,
+                    'barometro': row.barometro,
+                    'ruido': row.ruido,
+                    'giro_x': row.giro_x,
+                    'giro_y': row.giro_y,
+                    'giro_z': row.giro_z,
+                    'acel_x': row.acel_x,
+                    'acel_y': row.acel_y,
+                    'acel_z': row.acel_z,
+                    'vibracion': row.vibracion,
+                    'gps_lat': row.gps_lat,
+                    'gps_lon': row.gps_lon
+                })
+            df = pd.DataFrame(data)
+            return df
+        except Exception as e:
+            print(f"Error al obtener datos de la base de datos: {e}")
+            return JsonResponse({"error": "No se pudieron obtener los datos"}, safe=False), 500
+        finally:
+            if conn:
+                conn.close()
     
     def get_query(query):
         conn = get_db_connection()
@@ -158,46 +218,3 @@ class DB_Conexion():
         finally:
             if conn:
                 conn.close()
-
-class GPS:
-    def __init__(self):
-        # Obtener la posición actual del dispositivo
-        g = geocoder.ip('me')  # Obtiene la ubicación basada en la IP
-        self.center_lat, self.center_lon = g.latlng  # Extrae latitud y longitud
-        self.speed = 0  # Inicializa velocidad a 0
-        self.bearing = 0  # Inicializa dirección a 0
-        self.max_distance = 5  # km, distancia máxima desde el centro
-
-    def update_position(self):
-        # Actualiza la latitud y longitud con datos reales
-        new_lat = self.center_lat  # Usar el valor actual
-        new_lon = self.center_lon  # Usar el valor actual
-        new_speed = self.speed  # Usar la velocidad actual
-        new_bearing = self.bearing  # Usar la dirección actual
-
-        # Calcula el nuevo punto basado en la velocidad y dirección
-        origin = (self.center_lat, self.center_lon)
-        distance_meters = new_speed  # Suponiendo que la velocidad está en m/s
-        destination = distance.distance(meters=distance_meters).destination(origin, new_bearing)
-
-        new_lat, new_lon = destination.latitude, destination.longitude
-
-        # Verifica si el nuevo punto está dentro del radio permitido
-        if distance.distance((self.center_lat, self.center_lon), (new_lat, new_lon)).km <= self.max_distance:
-            self.center_lat, self.center_lon = new_lat, new_lon
-        else:
-            # Si está fuera del radio, genera un nuevo punto aleatorio dentro del área permitida
-            angle = random.uniform(0, 360)  # Genera un ángulo aleatorio
-            dist = random.uniform(0, self.max_distance)  # Genera una distancia aleatoria
-            new_point = distance.distance(kilometers=dist).destination((self.center_lat, self.center_lon), angle)
-            self.center_lat, self.center_lon = new_point.latitude, new_point.longitude
-
-    def get_position(self):
-        self.update_position()
-        data = {
-            'latitude': self.center_lat,
-            'longitude': self.center_lon,
-            'speed': self.speed,
-            'bearing': self.bearing
-        }
-        return data
